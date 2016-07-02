@@ -1,0 +1,2340 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>济南楼盘网，济南新房一手房，济南房产网信息网，最新开盘在售济南楼盘信息 - 安居客</title>
+    <meta name="keywords" content="济南楼盘，济南新房，济南一手房" />
+<meta name="description" content="专业济南房产网，为您提供最新济南楼盘信息，济南新房房源信息。查找济南新开楼盘信息，查找济南楼盘周边配套信息，就来58安居客，58安居客为您实现家的梦想。" />
+<meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.anjuke.com/jn/loupan/all/p10/">
+<meta http-equiv="mobile-agent" content="format=html5; url=http://m.anjuke.com/jn/loupan/all/p10/">
+<meta http-equiv="mobile-agent" content="format=wml; url=http://m.anjuke.com/jn/loupan/all/p10/">
+    <meta name="mobile-agent" content="format=html5;url=http://m.anjuke.com/jn/loupan/all/p10/" />
+    <link rel="stylesheet" rev="stylesheet" href="http://include.aifcdn.com/aifang/res/2016070107/b/Aifang_Web_Loupan_Listv2_ListIndex.css" type="text/css" />
+    <script type="text/javascript">var PAGESTART = +new Date();</script>
+    
+
+    <link rel="shortcut icon" href="http://pages.aifcdn.com/favicon.ico" />
+    <!-- INIT START -->
+<script type="text/javascript">
+    var anjuke_web_global_InitTracker=function(city_id,city_cookie_name,guid_cookie_name,base_domain,cookie_path){
+        var expire=365*5;
+        var guid=this.getCookie(guid_cookie_name);
+        if(null==guid){
+            guid=this.createGuid();this.setCookie(guid_cookie_name,guid,expire,cookie_path,base_domain);
+        }else{
+            this.setCookie(guid_cookie_name,guid,expire+1,cookie_path,base_domain);
+        }
+        if(city_id!=this.getCookie(city_cookie_name)){
+            this.setCookie(city_cookie_name,city_id,expire,cookie_path,base_domain);
+        }
+        var session_cookie_name='sessid';var session_id=this.getCookie(session_cookie_name);if(null==session_id){
+            session_id=this.createGuid();this.setCookie(session_cookie_name,session_id,0,cookie_path,base_domain);
+        }
+        this.setCookie('isp', 'true', expire, cookie_path, base_domain);
+    };anjuke_web_global_InitTracker.prototype.createGuid=function(){
+        return(this.S4()+this.S4()+"-"+this.S4()+"-"+this.S4()+"-"+this.S4()+"-"+this.S4()+this.S4()+this.S4());
+    };anjuke_web_global_InitTracker.prototype.S4=function(){
+        return(((1+Math.random())*0x10000)|0).toString(16).substring(1).toUpperCase();
+    };anjuke_web_global_InitTracker.prototype.getCookie=function(check_name){
+        var a_all_cookies=document.cookie.split(';');var a_temp_cookie='';var cookie_name='';var cookie_value='';var b_cookie_found=false;for(i=0;i<a_all_cookies.length;i++){
+            a_temp_cookie=a_all_cookies[i].split('=');cookie_name=a_temp_cookie[0].replace(/^\s+|\s+$/g,'');if(cookie_name==check_name){
+                b_cookie_found=true;if(a_temp_cookie.length>1){
+                    cookie_value=unescape(a_temp_cookie[1].replace(/^\s+|\s+$/g,''));
+                }
+                return cookie_value;break;
+            }
+            a_temp_cookie=null;cookie_name='';
+        }
+        if(!b_cookie_found){
+            return null;
+        }
+    };anjuke_web_global_InitTracker.prototype.setCookie=function(name,value,expires,path,domain,secure){
+        var today=new Date();today.setTime(today.getTime());if(expires){
+            expires=expires*1000*60*60*24;
+        }
+        var expires_date=new Date(today.getTime()+(expires));document.cookie=name+"="+escape(value)+
+            ((expires)?";expires="+expires_date.toGMTString():"")+
+            ((path)?";path="+path:"")+
+            ((domain)?";domain="+domain:"")+
+            ((secure)?";secure":"");
+    };
+    new anjuke_web_global_InitTracker('23','ctid','aQQ_ajkguid','anjuke.com','/');
+</script>
+<!-- INIT END --></head>
+<body>
+<div id="header">
+        <div class="top-banner">
+        <div id="IFX_p918"></div>
+        <script type="text/javascript">
+            (function() {
+                var x = document.createElement('script'); x.async = true;x.src = 'http://ifx.fang.anjuke.com/s?p=918&c=23&o=1&st=ajk';
+                var h = document.getElementsByTagName('head')[0]; if(h)h.insertBefore(x,h.lastChild);
+            })();
+        </script>
+                    </div>
+
+<div class="sitenav-warp">
+    <div class="sitenav clearfix">
+        <a class="site-logo fl" href="http://jinan.anjuke.com" soj="loupan_index_logo">安居客</a>
+        <div class="site-nav fl">
+                                                           <a href="http://jinan.anjuke.com/">首 页</a>
+                                  <span class="line">|</span>
+                                                                 <a href="http://jn.fang.anjuke.com/">新 房</a>
+                                  <span class="line">|</span>
+                                                                 <a href="http://jinan.anjuke.com/sale/">二手房</a>
+                                  <span class="line">|</span>
+                                                                 <a href="http://jn.zu.anjuke.com/">租 房</a>
+                                  <span class="line">|</span>
+                                                                 <a href="http://jn.xzl.anjuke.com/zu/">商铺写字楼</a>
+                                  <span class="line">|</span>
+                                                                 <a href="http://haiwai.anjuke.com">海外地产</a>
+                                  <span class="line">|</span>
+                                                                 <a href="http://jn.fang.anjuke.com/jinrong/">贷 款</a>
+                                  <span class="line">|</span>
+                                                                 <a href="http://jinan.anjuke.com/market/">房 价</a>
+                                  <span class="line">|</span>
+                                                                 <a href="http://jinan.anjuke.com/ask/">问 答</a>
+                                                     </div>
+        <div id="j-site-login" class="fr">
+            <!-- 用户登录前 -->
+            <div class="site-user">
+                <div class="drop-user">
+                    <a href="javascript:">
+                        <span>客户登录</span>
+                        <i class="i-triangle"></i>
+                    </a>
+                    <!-- 客户登录下拉 -->
+                    <div class="site-userlist" style="display: none;">
+                        <a href="http://my.anjuke.com/user/broker/brokerhome/" target="_blank" rel="nofollow">中国网络经纪人</a>
+                        <a href="http://vip.fang.anjuke.com" target="_blank" rel="nofollow">房易通</a>
+                                            </div>
+                </div>
+                <span class="line">|</span>
+                <a href="http://user.anjuke.com/my/login?history=aHR0cDovL2puLmZhbmcuYW5qdWtlLmNvbS9sb3VwYW4vYWxsL3AxMC8=" target="_blank" rel="nofollow"><i class="hicon hicon-user"></i>用户登录</a>
+                <a href="http://user.anjuke.com/register/?from=HeaderTop" class="reg" target="_blank" rel="nofollow">注册</a>
+                <span class="line">|</span>
+                <!-- 收藏夹 -->
+                <a href="http://user.anjuke.com/my/login?history=aHR0cDovL3VzZXIuYW5qdWtlLmNvbS9mYW5nL2xvdXBhbi1jb2xsZWN0Lw==" class="drop-fav" rel="nofollow"><i class="hicon hicon-heart"></i>收藏夹</a>
+            </div>
+            <!-- 用户登录后 -->
+            <ul class="site-user-login"></ul>
+            
+        </div>
+    </div>
+</div><!-- 顶部搜索 -->
+<div class="site-search">
+    <div class="site-logo fl">
+        <a class="ajk-logo fl" href="http://jinan.anjuke.com" soj="navigation">安居客</a>
+        <span class="ver-line fl">|</span>
+        <a class="xf-logo fl" href="http://jn.fang.anjuke.com" soj="navigation">新房</a>
+    </div>
+    <div class="sel-city">
+   <a href="javascript:"class="sel-opt"><span class="city">济南</span><i class="i-triangle"></i></a>
+   <div class="city-mod">
+   
+                     <dl>
+                    <dt>华北东北</dt>
+                    <dd>
+                                                    <a soj="AF_Home_switchcity" href="http://bj.fang.anjuke.com" title="北京楼盘">北京</a>
+                                                        <a soj="AF_Home_switchcity" href="http://tj.fang.anjuke.com" title="天津楼盘">天津</a>
+                                                        <a soj="AF_Home_switchcity" href="http://lf.fang.anjuke.com" title="廊坊楼盘">廊坊</a>
+                                                        <a soj="AF_Home_switchcity" href="http://sjz.fang.anjuke.com" title="石家庄楼盘">石家庄</a>
+                                                        <a soj="AF_Home_switchcity" href="http://ty.fang.anjuke.com" title="太原楼盘">太原</a>
+                                                        <a soj="AF_Home_switchcity" href="http://bt.fang.anjuke.com" title="包头楼盘">包头</a>
+                                                        <a soj="AF_Home_switchcity" href="http://wf.fang.anjuke.com" title="潍坊楼盘">潍坊</a>
+                                                        <a soj="AF_Home_switchcity" href="http://yt.fang.anjuke.com" title="烟台楼盘">烟台</a>
+                                                        <a soj="AF_Home_switchcity" href="http://dl.fang.anjuke.com" title="大连楼盘">大连</a>
+                                                        <a soj="AF_Home_switchcity" href="http://heb.fang.anjuke.com" title="哈尔滨楼盘">哈尔滨</a>
+                                                        <a soj="AF_Home_switchcity" href="http://shen.fang.anjuke.com" title="沈阳楼盘">沈阳</a>
+                                                        <a soj="AF_Home_switchcity" href="http://cc.fang.anjuke.com" title="长春楼盘">长春</a>
+                                                </dd>
+                </dl>
+                    <dl>
+                    <dt>华东地区</dt>
+                    <dd>
+                                                    <a soj="AF_Home_switchcity" href="http://sh.fang.anjuke.com" title="上海楼盘">上海</a>
+                                                        <a soj="AF_Home_switchcity" href="http://ks.fang.anjuke.com" title="昆山楼盘">昆山</a>
+                                                        <a soj="AF_Home_switchcity" href="http://hz.fang.anjuke.com" title="杭州楼盘">杭州</a>
+                                                        <a soj="AF_Home_switchcity" href="http://su.fang.anjuke.com" title="苏州楼盘">苏州</a>
+                                                        <a soj="AF_Home_switchcity" href="http://nj.fang.anjuke.com" title="南京楼盘">南京</a>
+                                                        <a soj="AF_Home_switchcity" href="http://wx.fang.anjuke.com" title="无锡楼盘">无锡</a>
+                                                        <a soj="AF_Home_switchcity" href="http://nb.fang.anjuke.com" title="宁波楼盘">宁波</a>
+                                                        <a soj="AF_Home_switchcity" href="http://hf.fang.anjuke.com" title="合肥楼盘">合肥</a>
+                                                        <a soj="AF_Home_switchcity" href="http://jn.fang.anjuke.com" title="济南楼盘">济南</a>
+                                                        <a soj="AF_Home_switchcity" href="http://qd.fang.anjuke.com" title="青岛楼盘">青岛</a>
+                                                        <a soj="AF_Home_switchcity" href="http://nt.fang.anjuke.com" title="南通楼盘">南通</a>
+                                                        <a soj="AF_Home_switchcity" href="http://yz.fang.anjuke.com" title="扬州楼盘">扬州</a>
+                                                        <a soj="AF_Home_switchcity" href="http://cz.fang.anjuke.com" title="常州楼盘">常州</a>
+                                                        <a soj="AF_Home_switchcity" href="http://tz.fang.anjuke.com" title="泰州楼盘">泰州</a>
+                                                </dd>
+                </dl>
+                    <dl>
+                    <dt>华南地区</dt>
+                    <dd>
+                                                    <a soj="AF_Home_switchcity" href="http://sz.fang.anjuke.com" title="深圳楼盘">深圳</a>
+                                                        <a soj="AF_Home_switchcity" href="http://gz.fang.anjuke.com" title="广州楼盘">广州</a>
+                                                        <a soj="AF_Home_switchcity" href="http://fs.fang.anjuke.com" title="佛山楼盘">佛山</a>
+                                                        <a soj="AF_Home_switchcity" href="http://sy.fang.anjuke.com" title="三亚楼盘">三亚</a>
+                                                        <a soj="AF_Home_switchcity" href="http://hui.fang.anjuke.com" title="惠州楼盘">惠州</a>
+                                                        <a soj="AF_Home_switchcity" href="http://fz.fang.anjuke.com" title="福州楼盘">福州</a>
+                                                        <a soj="AF_Home_switchcity" href="http://xm.fang.anjuke.com" title="厦门楼盘">厦门</a>
+                                                        <a soj="AF_Home_switchcity" href="http://dg.fang.anjuke.com" title="东莞楼盘">东莞</a>
+                                                        <a soj="AF_Home_switchcity" href="http://zh.fang.anjuke.com" title="珠海楼盘">珠海</a>
+                                                        <a soj="AF_Home_switchcity" href="http://zs.fang.anjuke.com" title="中山楼盘">中山</a>
+                                                        <a soj="AF_Home_switchcity" href="http://jm.fang.anjuke.com" title="江门楼盘">江门</a>
+                                                        <a soj="AF_Home_switchcity" href="http://nn.fang.anjuke.com" title="南宁楼盘">南宁</a>
+                                                        <a soj="AF_Home_switchcity" href="http://nc.fang.anjuke.com" title="南昌楼盘">南昌</a>
+                                                        <a soj="AF_Home_switchcity" href="http://hai.fang.anjuke.com" title="海口楼盘">海口</a>
+                                                </dd>
+                </dl>
+                    <dl>
+                    <dt>中 西 部</dt>
+                    <dd>
+                                                    <a soj="AF_Home_switchcity" href="http://cd.fang.anjuke.com" title="成都楼盘">成都</a>
+                                                        <a soj="AF_Home_switchcity" href="http://cq.fang.anjuke.com" title="重庆楼盘">重庆</a>
+                                                        <a soj="AF_Home_switchcity" href="http://wh.fang.anjuke.com" title="武汉楼盘">武汉</a>
+                                                        <a soj="AF_Home_switchcity" href="http://zz.fang.anjuke.com" title="郑州楼盘">郑州</a>
+                                                        <a soj="AF_Home_switchcity" href="http://xa.fang.anjuke.com" title="西安楼盘">西安</a>
+                                                        <a soj="AF_Home_switchcity" href="http://cs.fang.anjuke.com" title="长沙楼盘">长沙</a>
+                                                        <a soj="AF_Home_switchcity" href="http://km.fang.anjuke.com" title="昆明楼盘">昆明</a>
+                                                        <a soj="AF_Home_switchcity" href="http://gy.fang.anjuke.com" title="贵阳楼盘">贵阳</a>
+                                                        <a soj="AF_Home_switchcity" href="http://ly.fang.anjuke.com" title="洛阳楼盘">洛阳</a>
+                                                        <a soj="AF_Home_switchcity" href="http://wlmq.fang.anjuke.com" title="乌鲁木齐楼盘">乌鲁木齐</a>
+                                                        <a soj="AF_Home_switchcity" href="http://lz.fang.anjuke.com" title="兰州楼盘">兰州</a>
+                                                        <a soj="AF_Home_switchcity" href="http://xc.fang.anjuke.com" title="许昌楼盘">许昌</a>
+                                                        <a soj="AF_Home_switchcity" href="http://yi.fang.anjuke.com" title="宜昌楼盘">宜昌</a>
+                                                </dd>
+                </dl>
+    
+      <div class="more-city">
+          <a href="http://www.anjuke.com/sy-city.html">更多城市&gt;</a>
+      </div>
+   </div>
+</div>
+	<div class="search-box" id="j-search">
+	<form class="search-form" method="GET" action="http://jn.fang.anjuke.com/loupan/s">
+        <input class="input-search" type="text" name="kw" maxlength="100" autocomplete="off" value="">
+		<input class="btn-search" type="submit" value="搜索">
+	</form>
+	<ul class="search-autocomplete"></ul>
+</div>
+    <div class="hot-search-box" id="j-hot-search">
+    <h3>热门楼盘</h3>
+    <ul class="hot-list">
+                                    <li>
+                    <span class="lp-name">鲁邦奥林逸城</span>
+                    <em class="plate">高新 国际会展中心</em>
+                                        <span class="aver-price">均价 9000元/平米</span>
+                </li>
+                            <li>
+                    <span class="lp-name">金科城</span>
+                    <em class="plate">槐荫 西客站</em>
+                                        <span class="aver-price">均价 7300元/平米</span>
+                </li>
+                            <li>
+                    <span class="lp-name">华夏帝苑</span>
+                    <em class="plate">历城 经十路东</em>
+                                        <span class="aver-price">均价 6300元/平米</span>
+                </li>
+                            <li>
+                    <span class="lp-name">济南世茂天城</span>
+                    <em class="plate">天桥 无影山</em>
+                                        <span class="aver-price">均价 11000元/平米</span>
+                </li>
+                            <li>
+                    <span class="lp-name">德润天玺</span>
+                    <em class="plate">高新 汉峪片区</em>
+                                        <span class="aver-price">均价 10000元/平米</span>
+                </li>
+                            <li>
+                    <span class="lp-name">绿地新里香榭丽公馆</span>
+                    <em class="plate">槐荫 西客站</em>
+                                        <span class="aver-price">均价 7200元/平米</span>
+                </li>
+                            <li>
+                    <span class="lp-name">重汽翡翠雅郡</span>
+                    <em class="plate">高新 其他</em>
+                                        <span class="aver-price">均价 5000元/平米</span>
+                </li>
+                            <li>
+                    <span class="lp-name">泉世界壹品</span>
+                    <em class="plate">历城 王舍人镇</em>
+                                        <span class="aver-price">均价 待定</span>
+                </li>
+                            <li>
+                    <span class="lp-name">万科麓城</span>
+                    <em class="plate">高新 汉峪片区</em>
+                                        <span class="aver-price">均价 待定</span>
+                </li>
+                        </ul>
+</div>
+</div>
+<!-- ===== sub-nav-mod Starts =====-->
+<div class="lp-navtabs-warp">
+    <div class="lp-nav">
+        <ul class="lp-navtabs clearfix">
+                            <li>
+                    <a class="item-focus" href="http://jn.fang.anjuke.com"
+                                                                                                >新盘
+                                        </a>
+                </li>
+                            <li>
+                    <a class="" href="http://jn.fang.anjuke.com/news/"
+                                                                                                >楼市资讯
+                                        </a>
+                </li>
+                            <li>
+                    <a class="" href="http://jn.fang.anjuke.com/hui/"
+                                                                                                >优惠团
+                                        </a>
+                </li>
+                            <li>
+                    <a class="" href="http://jn.fang.anjuke.com/kft/"
+                                                                                                >看房团
+                                        </a>
+                </li>
+                            <li>
+                    <a class="" href="http://jn.fang.anjuke.com/fangyuan/"
+                                                                                                >房源
+                                        </a>
+                </li>
+                            <li>
+                    <a class="" href="http://jn.fang.anjuke.com/jinrong/"
+                                                                                                >贷款
+                                        </a>
+                </li>
+                            <li>
+                    <a class="" href="http://haiwai.anjuke.com"
+                                                soj="xinfang_lplist_tab_hw"                        style="z-index:2"                        >海外地产
+                                        <i class="icon-hot"></i>
+                                        </a>
+                </li>
+                            <li>
+                    <a class="" href="http://i.anjuke.com/propsale/?from=dh_xf"
+                                                                                                >卖房
+                                        </a>
+                </li>
+                    </ul>
+    </div>
+</div>
+<!-- ===== sub-nav-mod End =====-->
+</div>
+<div id="container">
+    <div class="filter-nav">    
+    <div class="filter-mod">
+                <div class="filter-item filter-position">
+            <label class="item-title">位置：</label>
+            <div class="item-area">
+                <div class="item-hd">
+                                        <a href="javascript:void(0);" class="item-tab item-on"><i class="list-ico area-ico"></i>区域找房</a>
+                                        <a href=http://jn.fang.anjuke.com/map/loupan/ class="map-tab" soj="af_map_loupanlist" target="_blank"><i class="list-ico map-ico"></i>地图找房</a>
+                                        <a href="http://jn.fang.anjuke.com/fangtan/" class="fangtan-tab" soj="loupanlist" target="_blank"><i class="list-ico fangtan-ico"></i>私家房探</a>
+                                    </div>
+                <div class="item-bd">
+                    <div class="item-list area-bd" >
+                        <!-- 区域 -->
+                        <div class="filter">
+                                                            <span class="curr-area">不限</span>
+                                                                                                                            <a href=http://jn.fang.anjuke.com/loupan/lixia/>历下</a>
+                                                                                                                                <a href=http://jn.fang.anjuke.com/loupan/huaiyin/>槐荫</a>
+                                                                                                                                <a href=http://jn.fang.anjuke.com/loupan/licheng/>历城</a>
+                                                                                                                                <a href=http://jn.fang.anjuke.com/loupan/gaoxin/>高新</a>
+                                                                                                                                <a href=http://jn.fang.anjuke.com/loupan/shizhong/>市中</a>
+                                                                                                                                <a href=http://jn.fang.anjuke.com/loupan/tianqiao/>天桥</a>
+                                                                                                                                <a href=http://jn.fang.anjuke.com/loupan/zhangqiu/>章丘</a>
+                                                                                                                                <a href=http://jn.fang.anjuke.com/loupan/changqing/>长清</a>
+                                                                                                                                <a href=http://jn.fang.anjuke.com/loupan/shanghe/>商河</a>
+                                                                                                                                <a href=http://jn.fang.anjuke.com/loupan/jiyang/>济阳</a>
+                                                                                                                                <a href=http://jn.fang.anjuke.com/loupan/pingyin/>平阴</a>
+                                                                                                                                <a href=http://jn.fang.anjuke.com/loupan/laiwu/>莱芜</a>
+                                                                                                                                                                            </div>
+
+                        <!-- 板块 -->
+                                                <i class="icon-top-arrow"><span></span></i>
+                    </div>
+
+                    <!-- 地铁线路 -->
+                    <div class="item-list subway-bd"  >
+
+                        
+                        <!-- 地铁站台 -->
+                                                
+                        <i class="icon-top-arrow"><span></span></i>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        
+                <div class="filter-item">
+            <label class="item-title">单价：</label>
+            <div class="item-mod">
+                                    <span>不限</span>
+                                                                            <a rel="nofollow" href=http://jn.fang.anjuke.com/loupan/all/d96/ >6千以下</a>
+                                                                                <a rel="nofollow" href=http://jn.fang.anjuke.com/loupan/all/d98/ >6-8千</a>
+                                                                                <a rel="nofollow" href=http://jn.fang.anjuke.com/loupan/all/d99/ >8千-1万</a>
+                                                                                <a rel="nofollow" href=http://jn.fang.anjuke.com/loupan/all/d100/ >1万以上</a>
+                                                                                <a rel="nofollow" href=http://jn.fang.anjuke.com/loupan/all/d101/ >售价待定</a>
+                                                </div>
+        </div>
+        
+                <div class="filter-item">
+            <label class="item-title">户型：</label>
+            <div class="item-mod">                
+                                    <span>不限</span>
+                                                                            <a rel="nofollow" href=http://jn.fang.anjuke.com/loupan/all/h1/>一室</a>
+                                                                                <a rel="nofollow" href=http://jn.fang.anjuke.com/loupan/all/h2/>二室</a>
+                                                                                <a rel="nofollow" href=http://jn.fang.anjuke.com/loupan/all/h3/>三室</a>
+                                                                                <a rel="nofollow" href=http://jn.fang.anjuke.com/loupan/all/h4/>四室</a>
+                                                                                <a rel="nofollow" href=http://jn.fang.anjuke.com/loupan/all/h5/>五室及以上</a>
+                                                </div>
+        </div>
+        
+                <div class="filter-item">
+            <label class="item-title">特色：</label>
+            <div class="item-mod">
+                                    <span>不限</span>
+                                                                            <a rel="nofollow" href=http://jn.fang.anjuke.com/loupan/all/b2885/>不限购</a>
+                                                                                <a rel="nofollow" href=http://jn.fang.anjuke.com/loupan/all/b3757/>刚需房</a>
+                                                                                <a rel="nofollow" href=http://jn.fang.anjuke.com/loupan/all/b3755/>低单价</a>
+                                                                                <a rel="nofollow" href=http://jn.fang.anjuke.com/loupan/all/b2882/>低首付</a>
+                                                                                <a rel="nofollow" href=http://jn.fang.anjuke.com/loupan/all/b2881/>低总价</a>
+                                                                                <a rel="nofollow" href=http://jn.fang.anjuke.com/loupan/all/b1079/>改善房</a>
+                                                                                <a rel="nofollow" href=http://jn.fang.anjuke.com/loupan/all/b1084/>养老房</a>
+                                                                                <a rel="nofollow" href=http://jn.fang.anjuke.com/loupan/all/b2358/>精装修</a>
+                                                </div>
+        </div>
+        
+                <div class="filter-item">
+            <label class="item-title">类型：</label>
+            <div class="item-mod">
+                                    <span>不限</span>
+                
+                                                            <a rel="nofollow" href=http://jn.fang.anjuke.com/loupan/all/w1/>住宅</a>
+                                                                                <a rel="nofollow" href=http://jn.fang.anjuke.com/loupan/all/w2/>别墅</a>
+                                                                                <a rel="nofollow" href=http://jn.fang.anjuke.com/loupan/all/w3/>商住</a>
+                                                                                <a rel="nofollow" href=http://jn.fang.anjuke.com/loupan/all/w4/>商铺</a>
+                                                                                <a rel="nofollow" href=http://jn.fang.anjuke.com/loupan/all/w5/>写字楼</a>
+                                                </div>
+        </div>
+        
+                            <a class="skip" target="_blank" title="去看看二手房" href="http://jinan.anjuke.com/sale/">去看看<em></em>二手房</a>
+        
+    </div>
+    <!--已选择分类-->
+     
+</div>
+ 
+<i class="list-icons"></i>
+<input type="hidden" id="url_params_encode" value="eyJzZWFyY2hfcGFyYW1zIjp7InAxIjoiIiwicCI6IjEwIn0sIm5hbWVfcGFyYW1zIjp7ImNpdHlfaWQiOjIzLCJwYWdlIjoiMTAiLCJwYWdlX3NpemUiOjMwfX0=" />
+    <div class="list-contents">
+        <input id="emailSubscribe-filter" value="p=1" type="hidden"/>
+                <div class="list-results">
+            <div class="key-sort">
+    <div class="page-tab">
+        <div class="sort-tab">
+
+                        <a class="highlight nomargin" href="">全部楼盘</a>
+            <a class="" href="http://jn.fang.anjuke.com/loupan/all/y1/" rel="nofollow">优惠楼盘</a>
+                        
+        </div>
+    </div>
+    <div class="sort-condi">
+        <div class="condition">
+                            <a class="light" href=><span>默认排序</span></a>
+                <a class="" href=http://jn.fang.anjuke.com/loupan/all/s2/ rel="nofollow"><span>价格</span><i class="list-ico defult-down"></i></a>
+                <a class="" href=http://jn.fang.anjuke.com/loupan/all/s6/ rel="nofollow"><span>开盘时间</span><i class="list-ico defult-down"></i></a>
+                                                                    </div>
+        <span class="result">
+            共有<em>447</em>个符合要求的<h1><a target="_blank" class="" href=http://jn.fang.anjuke.com/loupan/>济南</a></h1>楼盘
+        </span>
+    </div>
+</div>
+             
+                                    <!-- 优惠优盘入口 -->
+                
+            <!-- 优惠楼盘置顶数据 -->
+            
+            <!-- 团购2.0城市且有优惠楼盘推荐数据不展示聚客宝 -->
+                                                <div id="IFX_p2045"></div>
+                                        <script type="text/javascript">
+                <!--
+                (function() {
+                    var x = document.createElement('script'); x.async = true;x.src = 'http://ifx.fang.anjuke.com/s?p=2045&c=23&rids=&srids=&pa=&o=1&t=&st=ajk&ar=';
+                    var h = document.getElementsByTagName('head')[0]; if(h)h.insertBefore(x,h.lastChild);
+                })();
+                //-->
+            </script>
+            
+            <div class="key-list">
+                                            <div class="item-mod" data-link="http://jn.fang.anjuke.com/loupan/244145.html" data-soj="AF_RANK_1"  rel="nofollow">
+                <a class="pic"  href="http://jn.fang.anjuke.com/loupan/244145.html" soj="AF_RANK_1" target="_blank"><img width="180" height="135" src="http://c.pic1.ajkimg.com/display/xinfang/b8e729f79bad3c8c926be9fd384326b8/180x135m.jpg" alt=""></a>
+                <div class="infos">
+                    <div class="lp-name">
+                        <h3><a class="items-name" href="http://jn.fang.anjuke.com/loupan/244145.html" soj="AF_RANK_1" target="_blank">名士豪庭</a></h3>
+                                                                                                                                                <i class="status-icon soldout">售罄</i>
+                                                                                                                                                                <a href="http://jn.fang.anjuke.com/loupan/244145.html#user-divid" target="_blank" class="list-dp" soj="list_dp">（1条点评）</a>
+                                            </div>
+                    <p class="address">
+                                                    <a href="http://jn.fang.anjuke.com/loupan/244145.html#life-divid" soj="AF_RANK_1" class="list-map" target="_blank">[&nbsp;历下&nbsp;经十路&nbsp;]&nbsp;经十路12372号（经十路与浆水泉路交汇...</a>
+                                            </p>
+                                            <p>
+                            
+                                户型：
+                                <a href="http://jn.fang.anjuke.com/loupan/244145.html#housetype-divid" target="_blank" >2室(1)</a>，<a href="http://jn.fang.anjuke.com/loupan/244145.html#housetype-divid" target="_blank" >3室(1)</a>                                                    </p>
+                                        
+                                                                        <div class="tag-panel">
+                                                                                                            <span class="tag">养老房</span>
+                                                                                                                                                <span class="tag">景观小区</span>
+                                                                                                                                                <span class="tag">品牌开发商</span>
+                                                                                                                                                <span class="tag">二环以外</span>
+                                                                                                </div>
+                                            
+                </div>
+                <div class="favor-pos">
+                                        <p class="price">均价<span>16129</span>元/m²</p>
+                    
+                    <div class="discount-item">
+                                                    <p class="favor-tag"><em class="discount-txt" title="购房可享受10万抵20万的优惠">购房可享受10万抵20万的优惠</em></p>
+                                                                    </div>
+                                                                        <p class="tel"><i class="list-ico tel-icon"></i>400-683-6013 转 16781</p>
+                                                            </div>
+                            </div>
+                                <div class="item-mod" data-link="http://jn.fang.anjuke.com/loupan/244120.html" data-soj="AF_RANK_2"  rel="nofollow">
+                <a class="pic"  href="http://jn.fang.anjuke.com/loupan/244120.html" soj="AF_RANK_2" target="_blank"><img width="180" height="135" src="http://a.pic1.ajkimg.com/display/xinfang/0a5c04746059997769f7db86df8780ab/180x135m.jpg" alt=""></a>
+                <div class="infos">
+                    <div class="lp-name">
+                        <h3><a class="items-name" href="http://jn.fang.anjuke.com/loupan/244120.html" soj="AF_RANK_2" target="_blank">恒生伴山</a></h3>
+                                                                                                                                                <i class="status-icon soldout">售罄</i>
+                                                                                                                                                        </div>
+                    <p class="address">
+                                                    <a href="http://jn.fang.anjuke.com/loupan/244120.html#life-divid" soj="AF_RANK_2" class="list-map" target="_blank">[&nbsp;历城&nbsp;经十路东&nbsp;]&nbsp;经十东路与凤岐路交叉路口以北，山东建...</a>
+                                            </p>
+                                            <p>
+                            
+                                户型：
+                                <a href="http://jn.fang.anjuke.com/loupan/244120.html#housetype-divid" target="_blank" >1室(1)</a>，<a href="http://jn.fang.anjuke.com/loupan/244120.html#housetype-divid" target="_blank" >2室(3)</a>，<a href="http://jn.fang.anjuke.com/loupan/244120.html#housetype-divid" target="_blank" >3室(6)</a>                                                    </p>
+                                        
+                                                                        <div class="tag-panel">
+                                                                                                            <span class="tag">单身公寓</span>
+                                                                                                                                                <span class="tag">景观小区</span>
+                                                                                                                                                <span class="tag">婚房</span>
+                                                                                                                                                <span class="tag">学区房</span>
+                                                                                                </div>
+                                            
+                </div>
+                <div class="favor-pos">
+                                        <p class="price">均价<span>8480</span>元/m²</p>
+                    
+                    <div class="discount-item">
+                                                                    </div>
+                                                                        <p class="tel"><i class="list-ico tel-icon"></i>400-683-6013 转 16749</p>
+                                                            </div>
+                            </div>
+                                <div class="item-mod" data-link="http://jn.fang.anjuke.com/loupan/244070.html" data-soj="AF_RANK_3"  rel="nofollow">
+                <a class="pic"  href="http://jn.fang.anjuke.com/loupan/244070.html" soj="AF_RANK_3" target="_blank"><img width="180" height="135" src="http://b.pic1.ajkimg.com/display/xinfang/9c0db104ea2bbbfca685096e37005ef3/180x135m.jpg" alt=""></a>
+                <div class="infos">
+                    <div class="lp-name">
+                        <h3><a class="items-name" href="http://jn.fang.anjuke.com/loupan/244070.html" soj="AF_RANK_3" target="_blank">海信慧园</a></h3>
+                                                                                                                                                <i class="status-icon soldout">售罄</i>
+                                                                                                                                                        </div>
+                    <p class="address">
+                                                    <a href="http://jn.fang.anjuke.com/loupan/244070.html#life-divid" soj="AF_RANK_3" class="list-map" target="_blank">[&nbsp;高新&nbsp;国际会展中心&nbsp;]&nbsp;高新舜华北路180号（国际会展中心北侧...</a>
+                                            </p>
+                                            <p>
+                            
+                                户型：
+                                <a href="http://jn.fang.anjuke.com/loupan/244070.html#housetype-divid" target="_blank" >2室(5)</a>，<a href="http://jn.fang.anjuke.com/loupan/244070.html#housetype-divid" target="_blank" >3室(7)</a>                                                    </p>
+                                        
+                                                                        <div class="tag-panel">
+                                                                                                            <span class="tag">单身公寓</span>
+                                                                                                                                                <span class="tag">二环以外</span>
+                                                                                                </div>
+                                            
+                </div>
+                <div class="favor-pos">
+                                        <p class="price">均价<span>9788</span>元/m²</p>
+                    
+                    <div class="discount-item">
+                                                                    </div>
+                                                                        <p class="tel"><i class="list-ico tel-icon"></i>400-683-6013 转 16692</p>
+                                                            </div>
+                            </div>
+                                <div class="item-mod" data-link="http://jn.fang.anjuke.com/loupan/246342.html" data-soj="AF_RANK_4"  rel="nofollow">
+                <a class="pic"  href="http://jn.fang.anjuke.com/loupan/246342.html" soj="AF_RANK_4" target="_blank"><img width="180" height="135" src="http://c.pic1.ajkimg.com/display/xinfang/b41276a1bc901d0446d06bc26651ad28/180x135m.jpg" alt=""></a>
+                <div class="infos">
+                    <div class="lp-name">
+                        <h3><a class="items-name" href="http://jn.fang.anjuke.com/loupan/246342.html" soj="AF_RANK_4" target="_blank">祥泰广场</a></h3>
+                                                                                                                                                <i class="status-icon soldout">售罄</i>
+                                                                                                                                                                <a href="http://jn.fang.anjuke.com/loupan/246342.html#user-divid" target="_blank" class="list-dp" soj="list_dp">（14条点评）</a>
+                                            </div>
+                    <p class="address">
+                                                    <a href="http://jn.fang.anjuke.com/loupan/246342.html#life-divid" soj="AF_RANK_4" class="list-map" target="_blank">[&nbsp;市中&nbsp;英雄山&nbsp;]&nbsp;英雄山路147号</a>
+                                            </p>
+                                            <p>
+                            
+                                户型：
+                                <a href="http://jn.fang.anjuke.com/loupan/246342.html#housetype-divid" target="_blank" >1室(1)</a>，<a href="http://jn.fang.anjuke.com/loupan/246342.html#housetype-divid" target="_blank" >2室(1)</a>，<a href="http://jn.fang.anjuke.com/loupan/246342.html#housetype-divid" target="_blank" >3室(2)</a>，<a href="http://jn.fang.anjuke.com/loupan/246342.html#housetype-divid" target="_blank" >商住(1)</a>                                                    </p>
+                                        
+                                                                        <div class="tag-panel">
+                                                                                                            <span class="tag">单身公寓</span>
+                                                                                                                                                <span class="tag">商场</span>
+                                                                                                                                                <span class="tag">大型超市</span>
+                                                                                                                                                <span class="tag">投资地产</span>
+                                                                                                </div>
+                                            
+                </div>
+                <div class="favor-pos">
+                                        <p class="price">均价<span>8550</span>元/m²</p>
+                    
+                    <div class="discount-item">
+                                                    <p class="favor-tag"><em class="discount-txt" title="公寓清盘价8666元/㎡">公寓清盘价8666元/㎡</em></p>
+                                                                    </div>
+                                                                        <p class="tel"><i class="list-ico tel-icon"></i>400-683-6013 转 19245</p>
+                                                            </div>
+                            </div>
+                                <div class="item-mod" data-link="http://jn.fang.anjuke.com/loupan/251722.html" data-soj="AF_RANK_5"  rel="nofollow">
+                <a class="pic"  href="http://jn.fang.anjuke.com/loupan/251722.html" soj="AF_RANK_5" target="_blank"><img width="180" height="135" src="http://a.pic1.ajkimg.com/display/xinfang/d128b164c57fc15910755eda6667c683/180x135m.jpg" alt=""></a>
+                <div class="infos">
+                    <div class="lp-name">
+                        <h3><a class="items-name" href="http://jn.fang.anjuke.com/loupan/251722.html" soj="AF_RANK_5" target="_blank">银丰唐郡·紫薇园</a></h3>
+                                                                                                                                                <i class="status-icon soldout">售罄</i>
+                                                                                                                                                                <a href="http://jn.fang.anjuke.com/loupan/251722.html#user-divid" target="_blank" class="list-dp" soj="list_dp">（1条点评）</a>
+                                            </div>
+                    <p class="address">
+                                                    <a href="http://jn.fang.anjuke.com/loupan/251722.html#life-divid" soj="AF_RANK_5" class="list-map" target="_blank">[&nbsp;历城&nbsp;经十路东&nbsp;]&nbsp;围子山西麓</a>
+                                            </p>
+                                            <p>
+                            
+                                户型：
+                                <a href="http://jn.fang.anjuke.com/loupan/251722.html#housetype-divid" target="_blank" >3室(1)</a>，<a href="http://jn.fang.anjuke.com/loupan/251722.html#housetype-divid" target="_blank" >4室(1)</a>                                                    </p>
+                                        
+                                                                        <div class="tag-panel">
+                                                                                                            <span class="tag">湖景</span>
+                                                                                                                                                <span class="tag">山景</span>
+                                                                                                                                                <span class="tag">品牌开发商</span>
+                                                                                                                                                <span class="tag">二环以外</span>
+                                                                                                </div>
+                                            
+                </div>
+                <div class="favor-pos">
+                                        <p class="price">均价<span>6000</span>元/m²</p>
+                    
+                    <div class="discount-item">
+                                                                    </div>
+                                                                                </div>
+                            </div>
+                                <div class="item-mod" data-link="http://jn.fang.anjuke.com/loupan/247994.html" data-soj="AF_RANK_6"  rel="nofollow">
+                <a class="pic"  href="http://jn.fang.anjuke.com/loupan/247994.html" soj="AF_RANK_6" target="_blank"><img width="180" height="135" src="http://b.pic1.ajkimg.com/display/xinfang/9fd14e30822a8de55098144c17e0f2d4/180x135m.jpg" alt=""></a>
+                <div class="infos">
+                    <div class="lp-name">
+                        <h3><a class="items-name" href="http://jn.fang.anjuke.com/loupan/247994.html" soj="AF_RANK_6" target="_blank">三名嘉禾园</a></h3>
+                                                                                                                                                <i class="status-icon soldout">售罄</i>
+                                                                                                                                                        </div>
+                    <p class="address">
+                                                    <a href="http://jn.fang.anjuke.com/loupan/247994.html#life-divid" soj="AF_RANK_6" class="list-map" target="_blank">[&nbsp;市中&nbsp;阳光新路&nbsp;]&nbsp;阳光新路与二环南路交汇处西行500米路...</a>
+                                            </p>
+                                            <p>
+                            
+                                户型：
+                                <a href="http://jn.fang.anjuke.com/loupan/247994.html#housetype-divid" target="_blank" >2室(4)</a>，<a href="http://jn.fang.anjuke.com/loupan/247994.html#housetype-divid" target="_blank" >3室(2)</a>                                                    </p>
+                                        
+                                                                        <div class="tag-panel">
+                                                                                                            <span class="tag">低总价</span>
+                                                                                                                                                <span class="tag">高绿化</span>
+                                                                                                                                                <span class="tag">低密度</span>
+                                                                                                                                                <span class="tag">大型超市</span>
+                                                                                                </div>
+                                            
+                </div>
+                <div class="favor-pos">
+                                        <p class="price">均价<span>9603</span>元/m²</p>
+                    
+                    <div class="discount-item">
+                                                    <p class="favor-tag"><em class="discount-txt" title="起价8300元/㎡">起价8300元/㎡</em></p>
+                                                                    </div>
+                                                                        <p class="tel"><i class="list-ico tel-icon"></i>400-683-6013 转 21014</p>
+                                                            </div>
+                            </div>
+                                <div class="item-mod" data-link="http://jn.fang.anjuke.com/loupan/244091.html" data-soj="AF_RANK_7"  rel="nofollow">
+                <a class="pic"  href="http://jn.fang.anjuke.com/loupan/244091.html" soj="AF_RANK_7" target="_blank"><img width="180" height="135" src="http://a.pic1.ajkimg.com/display/xinfang/83936cffb01d370d51269645fccdf478/180x135m.jpg" alt=""></a>
+                <div class="infos">
+                    <div class="lp-name">
+                        <h3><a class="items-name" href="http://jn.fang.anjuke.com/loupan/244091.html" soj="AF_RANK_7" target="_blank">中海奥龙观邸</a></h3>
+                                                                                                                                                <i class="status-icon soldout">售罄</i>
+                                                                                                                                                        </div>
+                    <p class="address">
+                                                    <a href="http://jn.fang.anjuke.com/loupan/244091.html#life-divid" soj="AF_RANK_7" class="list-map" target="_blank">[&nbsp;历下&nbsp;奥体中心&nbsp;]&nbsp;历下龙奥大厦正东300米</a>
+                                            </p>
+                                            <p>
+                            
+                                户型：
+                                <a href="http://jn.fang.anjuke.com/loupan/244091.html#housetype-divid" target="_blank" >2室(1)</a>，<a href="http://jn.fang.anjuke.com/loupan/244091.html#housetype-divid" target="_blank" >3室(3)</a>，<a href="http://jn.fang.anjuke.com/loupan/244091.html#housetype-divid" target="_blank" >4室(2)</a>                                                    </p>
+                                        
+                                                                        <div class="tag-panel">
+                                                                                                            <span class="tag">精装修</span>
+                                                                                                </div>
+                                            
+                </div>
+                <div class="favor-pos">
+                                        <p class="price">均价<span>14766</span>元/m²</p>
+                    
+                    <div class="discount-item">
+                                                                    </div>
+                                                                        <p class="tel"><i class="list-ico tel-icon"></i>400-683-6013 转 16718</p>
+                                                            </div>
+                            </div>
+                                <div class="item-mod" data-link="http://jn.fang.anjuke.com/loupan/244079.html" data-soj="AF_RANK_8"  rel="nofollow">
+                <a class="pic"  href="http://jn.fang.anjuke.com/loupan/244079.html" soj="AF_RANK_8" target="_blank"><img width="180" height="135" src="http://c.pic1.ajkimg.com/display/xinfang/fa30f771ed8400de964855b6cf1e896d/180x135m.jpg" alt=""></a>
+                <div class="infos">
+                    <div class="lp-name">
+                        <h3><a class="items-name" href="http://jn.fang.anjuke.com/loupan/244079.html" soj="AF_RANK_8" target="_blank">禧福凤凰城</a></h3>
+                                                                                                                                                <i class="status-icon soldout">售罄</i>
+                                                                                                                                                                <a href="http://jn.fang.anjuke.com/loupan/244079.html#user-divid" target="_blank" class="list-dp" soj="list_dp">（5条点评）</a>
+                                            </div>
+                    <p class="address">
+                                                    <a href="http://jn.fang.anjuke.com/loupan/244079.html#life-divid" soj="AF_RANK_8" class="list-map" target="_blank">[&nbsp;济阳&nbsp;济阳&nbsp;]&nbsp;新元大街中段</a>
+                                            </p>
+                                            <p>
+                            
+                                户型：
+                                <a href="http://jn.fang.anjuke.com/loupan/244079.html#housetype-divid" target="_blank" >3室(2)</a>，<a href="http://jn.fang.anjuke.com/loupan/244079.html#housetype-divid" target="_blank" >4室(1)</a>                                                    </p>
+                                        
+                                                                        <div class="tag-panel">
+                                                                                                            <span class="tag">低总价</span>
+                                                                                                                                                <span class="tag">车位充足</span>
+                                                                                                                                                <span class="tag">大型社区</span>
+                                                                                                                                                <span class="tag">二环以外</span>
+                                                                                                </div>
+                                            
+                </div>
+                <div class="favor-pos">
+                                        <p class="price">均价<span>7101</span>元/m²</p>
+                    
+                    <div class="discount-item">
+                                                                    </div>
+                                                                        <p class="tel"><i class="list-ico tel-icon"></i>400-683-6013 转 16702</p>
+                                                            </div>
+                            </div>
+                                <div class="item-mod" data-link="http://jn.fang.anjuke.com/loupan/243997.html" data-soj="AF_RANK_9"  rel="nofollow">
+                <a class="pic"  href="http://jn.fang.anjuke.com/loupan/243997.html" soj="AF_RANK_9" target="_blank"><img width="180" height="135" src="http://c.pic1.ajkimg.com/display/xinfang/651ec4e2d891c9ccf1b041dee075ec4b/180x135m.jpg" alt=""></a>
+                <div class="infos">
+                    <div class="lp-name">
+                        <h3><a class="items-name" href="http://jn.fang.anjuke.com/loupan/243997.html" soj="AF_RANK_9" target="_blank">建中大学仕花园</a></h3>
+                                                                                                                                                <i class="status-icon soldout">售罄</i>
+                                                                                                                                                        </div>
+                    <p class="address">
+                                                    <a href="http://jn.fang.anjuke.com/loupan/243997.html#life-divid" soj="AF_RANK_9" class="list-map" target="_blank">[&nbsp;市中&nbsp;其他&nbsp;]&nbsp;市中东临济南大学，西临七贤学仕广场，...</a>
+                                            </p>
+                                            <p>
+                            
+                                户型：
+                                <a href="http://jn.fang.anjuke.com/loupan/243997.html#housetype-divid" target="_blank" >2室(1)</a>，<a href="http://jn.fang.anjuke.com/loupan/243997.html#housetype-divid" target="_blank" >3室(4)</a>                                                    </p>
+                                        
+                                                                        <div class="tag-panel">
+                                                                                                            <span class="tag">单身公寓</span>
+                                                                                                                                                <span class="tag">养老房</span>
+                                                                                                                                                <span class="tag">婚房</span>
+                                                                                                                                                <span class="tag">学区房</span>
+                                                                                                </div>
+                                            
+                </div>
+                <div class="favor-pos">
+                                        <p class="price">均价<span>8431</span>元/m²</p>
+                    
+                    <div class="discount-item">
+                                                                    </div>
+                                                                        <p class="tel"><i class="list-ico tel-icon"></i>400-683-6013 转 16605</p>
+                                                            </div>
+                            </div>
+                                <div class="item-mod" data-link="http://jn.fang.anjuke.com/loupan/243983.html" data-soj="AF_RANK_10"  rel="nofollow">
+                <a class="pic"  href="http://jn.fang.anjuke.com/loupan/243983.html" soj="AF_RANK_10" target="_blank"><img width="180" height="135" src="http://c.pic1.ajkimg.com/display/xinfang/ff147440b4a71df2d6ea058480c3be4d/180x135m.jpg" alt=""></a>
+                <div class="infos">
+                    <div class="lp-name">
+                        <h3><a class="items-name" href="http://jn.fang.anjuke.com/loupan/243983.html" soj="AF_RANK_10" target="_blank">保利花园</a></h3>
+                                                                                                                                                <i class="status-icon soldout">售罄</i>
+                                                                                                                                                        </div>
+                    <p class="address">
+                                                    <a href="http://jn.fang.anjuke.com/loupan/243983.html#life-divid" soj="AF_RANK_10" class="list-map" target="_blank">[&nbsp;历城&nbsp;邢村立交桥&nbsp;]&nbsp;历城经十东路299号（凤凰山下邢村立交...</a>
+                                            </p>
+                                            <p>
+                            
+                                户型：
+                                <a href="http://jn.fang.anjuke.com/loupan/243983.html#housetype-divid" target="_blank" >2室(1)</a>，<a href="http://jn.fang.anjuke.com/loupan/243983.html#housetype-divid" target="_blank" >3室(2)</a>，<a href="http://jn.fang.anjuke.com/loupan/243983.html#housetype-divid" target="_blank" >4室(3)</a>                                                    </p>
+                                        
+                                                                        <div class="tag-panel">
+                                                                                                            <span class="tag">改善房</span>
+                                                                                                </div>
+                                            
+                </div>
+                <div class="favor-pos">
+                                        <p class="price">均价<span>7386</span>元/m²</p>
+                    
+                    <div class="discount-item">
+                                                                    </div>
+                                                                        <p class="tel"><i class="list-ico tel-icon"></i>400-683-6013 转 16591</p>
+                                                            </div>
+                            </div>
+                                <div class="item-mod" data-link="http://jn.fang.anjuke.com/loupan/246755.html" data-soj="AF_RANK_11"  rel="nofollow">
+                <a class="pic"  href="http://jn.fang.anjuke.com/loupan/246755.html" soj="AF_RANK_11" target="_blank"><img width="180" height="135" src="http://a.pic1.ajkimg.com/display/xinfang/8101a7857fd2702070a7559303d28736/180x135m.jpg" alt=""></a>
+                <div class="infos">
+                    <div class="lp-name">
+                        <h3><a class="items-name" href="http://jn.fang.anjuke.com/loupan/246755.html" soj="AF_RANK_11" target="_blank">绿地新里爱丽舍公馆</a></h3>
+                                                                                                                                                <i class="status-icon soldout">售罄</i>
+                                                                                                                                                        </div>
+                    <p class="address">
+                                                    <a href="http://jn.fang.anjuke.com/loupan/246755.html#life-divid" soj="AF_RANK_11" class="list-map" target="_blank">[&nbsp;槐荫&nbsp;西客站&nbsp;]&nbsp;站前广场</a>
+                                            </p>
+                                            <p>
+                            
+                                户型：
+                                <a href="http://jn.fang.anjuke.com/loupan/246755.html#housetype-divid" target="_blank" >2室(4)</a>，<a href="http://jn.fang.anjuke.com/loupan/246755.html#housetype-divid" target="_blank" >3室(3)</a>                                                    </p>
+                                        
+                                                                        <div class="tag-panel">
+                                                                                                            <span class="tag">大型社区</span>
+                                                                                                                                                <span class="tag">金牌物业</span>
+                                                                                                </div>
+                                            
+                </div>
+                <div class="favor-pos">
+                                        <p class="price">均价<span>12327</span>元/m²</p>
+                    
+                    <div class="discount-item">
+                                                                    </div>
+                                                                        <p class="tel"><i class="list-ico tel-icon"></i>400-683-6013 转 19722</p>
+                                                            </div>
+                            </div>
+                                <div class="item-mod" data-link="http://jn.fang.anjuke.com/loupan/251046.html" data-soj="AF_RANK_12"  rel="nofollow">
+                <a class="pic"  href="http://jn.fang.anjuke.com/loupan/251046.html" soj="AF_RANK_12" target="_blank"><img width="180" height="135" src="http://a.pic1.ajkimg.com/display/xinfang/8897015a79d47e9be52d6da6c75b65db/180x135m.jpg" alt=""></a>
+                <div class="infos">
+                    <div class="lp-name">
+                        <h3><a class="items-name" href="http://jn.fang.anjuke.com/loupan/251046.html" soj="AF_RANK_12" target="_blank">紫金山国际</a></h3>
+                                                                                                                                                <i class="status-icon soldout">售罄</i>
+                                                                                                                                                                <a href="http://jn.fang.anjuke.com/loupan/251046.html#user-divid" target="_blank" class="list-dp" soj="list_dp">（1条点评）</a>
+                                            </div>
+                    <p class="address">
+                                                    <a href="http://jn.fang.anjuke.com/loupan/251046.html#life-divid" soj="AF_RANK_12" class="list-map" target="_blank">[&nbsp;天桥&nbsp;泺口&nbsp;]&nbsp;滨河南路与标山路交汇东南侧，小清河南...</a>
+                                            </p>
+                                            <p>
+                            
+                                户型：
+                                <a href="http://jn.fang.anjuke.com/loupan/251046.html#housetype-divid" target="_blank" >1室(2)</a>，<a href="http://jn.fang.anjuke.com/loupan/251046.html#housetype-divid" target="_blank" >2室(1)</a>，<a href="http://jn.fang.anjuke.com/loupan/251046.html#housetype-divid" target="_blank" >3室(3)</a>，<a href="http://jn.fang.anjuke.com/loupan/251046.html#housetype-divid" target="_blank" >4室(1)</a>                                                    </p>
+                                        
+                                                                        <div class="tag-panel">
+                                                                                                            <span class="tag">优惠打折</span>
+                                                                                                                                                <span class="tag">不限购</span>
+                                                                                                                                                <span class="tag">刚需房</span>
+                                                                                                                                                <span class="tag">低单价</span>
+                                                                                                </div>
+                                            
+                </div>
+                <div class="favor-pos">
+                                        <p class="price">均价<span>6500</span>元/m²</p>
+                    
+                    <div class="discount-item">
+                                                    <p class="favor-tag"><em class="discount-txt" title="认购即享交1千抵1万的优惠">认购即享交1千抵1万的优惠</em></p>
+                                                                    </div>
+                                                                        <p class="tel"><i class="list-ico tel-icon"></i>400-683-6013 转 25654</p>
+                                                            </div>
+                            </div>
+                                <div class="item-mod" data-link="http://jn.fang.anjuke.com/loupan/245566.html" data-soj="AF_RANK_13"  rel="nofollow">
+                <a class="pic"  href="http://jn.fang.anjuke.com/loupan/245566.html" soj="AF_RANK_13" target="_blank"><img width="180" height="135" src="http://b.pic1.ajkimg.com/display/xinfang/1ea8aa20cc524f2a9017a1087370c95d/180x135m.jpg" alt=""></a>
+                <div class="infos">
+                    <div class="lp-name">
+                        <h3><a class="items-name" href="http://jn.fang.anjuke.com/loupan/245566.html" soj="AF_RANK_13" target="_blank">力高国际</a></h3>
+                                                                                                                                                <i class="status-icon soldout">售罄</i>
+                                                                                                                                                                <a href="http://jn.fang.anjuke.com/loupan/245566.html#user-divid" target="_blank" class="list-dp" soj="list_dp">（1条点评）</a>
+                                            </div>
+                    <p class="address">
+                                                    <a href="http://jn.fang.anjuke.com/loupan/245566.html#life-divid" soj="AF_RANK_13" class="list-map" target="_blank">[&nbsp;高新&nbsp;国际会展中心&nbsp;]&nbsp;历下奥体西路与花园路延长线交汇处</a>
+                                            </p>
+                                            <p>
+                            
+                                户型：
+                                <a href="http://jn.fang.anjuke.com/loupan/245566.html#housetype-divid" target="_blank" >2室(1)</a>，<a href="http://jn.fang.anjuke.com/loupan/245566.html#housetype-divid" target="_blank" >3室(4)</a>                                                    </p>
+                                        
+                                                                        <div class="tag-panel">
+                                                                                                            <span class="tag">改善房</span>
+                                                                                                                                                <span class="tag">投资地产</span>
+                                                                                                                                                <span class="tag">学区房</span>
+                                                                                                                                                <span class="tag">豪宅</span>
+                                                                                                </div>
+                                            
+                </div>
+                <div class="favor-pos">
+                                        <p class="price">均价<span>11022</span>元/m²</p>
+                    
+                    <div class="discount-item">
+                                                                    </div>
+                                                                        <p class="tel"><i class="list-ico tel-icon"></i>400-683-6013 转 18407</p>
+                                                            </div>
+                            </div>
+                                <div class="item-mod" data-link="http://jn.fang.anjuke.com/loupan/244140.html" data-soj="AF_RANK_14"  rel="nofollow">
+                <a class="pic"  href="http://jn.fang.anjuke.com/loupan/244140.html" soj="AF_RANK_14" target="_blank"><img width="180" height="135" src="http://b.pic1.ajkimg.com/display/xinfang/5bb4e2f31955275d999abbaeeb2e9493/180x135m.jpg" alt=""></a>
+                <div class="infos">
+                    <div class="lp-name">
+                        <h3><a class="items-name" href="http://jn.fang.anjuke.com/loupan/244140.html" soj="AF_RANK_14" target="_blank">瑞境皇冠水岸</a></h3>
+                                                                                                                                                <i class="status-icon soldout">售罄</i>
+                                                                                                                                                        </div>
+                    <p class="address">
+                                                    <a href="http://jn.fang.anjuke.com/loupan/244140.html#life-divid" soj="AF_RANK_14" class="list-map" target="_blank">[&nbsp;章丘&nbsp;章丘&nbsp;]&nbsp;明水湖东岸</a>
+                                            </p>
+                                            <p>
+                            
+                                户型：
+                                <a href="http://jn.fang.anjuke.com/loupan/244140.html#housetype-divid" target="_blank" >3室(1)</a>，<a href="http://jn.fang.anjuke.com/loupan/244140.html#housetype-divid" target="_blank" >4室(2)</a>                                                    </p>
+                                        
+                                                                        <div class="tag-panel">
+                                                                                                            <span class="tag">豪宅</span>
+                                                                                                                                                <span class="tag">人工湖</span>
+                                                                                                                                                <span class="tag">高尔夫球场</span>
+                                                                                                                                                <span class="tag">带幼儿园</span>
+                                                                                                </div>
+                                            
+                </div>
+                <div class="favor-pos">
+                                        <p class="price">均价<span>6666</span>元/m²</p>
+                    
+                    <div class="discount-item">
+                                                                    </div>
+                                                                        <p class="tel"><i class="list-ico tel-icon"></i>400-683-6013 转 16776</p>
+                                                            </div>
+                            </div>
+                                <div class="item-mod" data-link="http://jn.fang.anjuke.com/loupan/244138.html" data-soj="AF_RANK_15"  rel="nofollow">
+                <a class="pic"  href="http://jn.fang.anjuke.com/loupan/244138.html" soj="AF_RANK_15" target="_blank"><img width="180" height="135" src="http://c.pic1.ajkimg.com/display/xinfang/66d4fd5ca2ce4e6088b2d836c8b35ba1/180x135m.jpg" alt=""></a>
+                <div class="infos">
+                    <div class="lp-name">
+                        <h3><a class="items-name" href="http://jn.fang.anjuke.com/loupan/244138.html" soj="AF_RANK_15" target="_blank">汇贤雅居</a></h3>
+                                                                                                                                                <i class="status-icon soldout">售罄</i>
+                                                                                                                                                                <a href="http://jn.fang.anjuke.com/loupan/244138.html#user-divid" target="_blank" class="list-dp" soj="list_dp">（1条点评）</a>
+                                            </div>
+                    <p class="address">
+                                                    <a href="http://jn.fang.anjuke.com/loupan/244138.html#life-divid" soj="AF_RANK_15" class="list-map" target="_blank">[&nbsp;历城&nbsp;济钢&nbsp;]&nbsp;工业南路14-1号</a>
+                                            </p>
+                                            <p>
+                            
+                                户型：
+                                <a href="http://jn.fang.anjuke.com/loupan/244138.html#housetype-divid" target="_blank" >2室(1)</a>，<a href="http://jn.fang.anjuke.com/loupan/244138.html#housetype-divid" target="_blank" >3室(4)</a>                                                    </p>
+                                        
+                                                                        <div class="tag-panel">
+                                                                                                            <span class="tag">单身公寓</span>
+                                                                                                                                                <span class="tag">景观小区</span>
+                                                                                                                                                <span class="tag">婚房</span>
+                                                                                                                                                <span class="tag">公交枢纽</span>
+                                                                                                </div>
+                                            
+                </div>
+                <div class="favor-pos">
+                                        <p class="price">均价<span>5000</span>元/m²</p>
+                    
+                    <div class="discount-item">
+                                                                    </div>
+                                                                        <p class="tel"><i class="list-ico tel-icon"></i>400-683-6013 转 16774</p>
+                                                            </div>
+                            </div>
+                                <div class="item-mod" data-link="http://jn.fang.anjuke.com/loupan/244114.html" data-soj="AF_RANK_16"  rel="nofollow">
+                <a class="pic"  href="http://jn.fang.anjuke.com/loupan/244114.html" soj="AF_RANK_16" target="_blank"><img width="180" height="135" src="http://b.pic1.ajkimg.com/display/xinfang/1ec7e4a945033764709df81601f1ce96/180x135m.jpg" alt=""></a>
+                <div class="infos">
+                    <div class="lp-name">
+                        <h3><a class="items-name" href="http://jn.fang.anjuke.com/loupan/244114.html" soj="AF_RANK_16" target="_blank">港基城市经典</a></h3>
+                                                                                                                                                <i class="status-icon soldout">售罄</i>
+                                                                                                                                                        </div>
+                    <p class="address">
+                                                    <a href="http://jn.fang.anjuke.com/loupan/244114.html#life-divid" soj="AF_RANK_16" class="list-map" target="_blank">[&nbsp;长清&nbsp;长清&nbsp;]&nbsp;大学路于经十西路交汇处</a>
+                                            </p>
+                                            <p>
+                            
+                                户型：
+                                <a href="http://jn.fang.anjuke.com/loupan/244114.html#housetype-divid" target="_blank" >2室(3)</a>，<a href="http://jn.fang.anjuke.com/loupan/244114.html#housetype-divid" target="_blank" >3室(3)</a>                                                    </p>
+                                        
+                                                                        <div class="tag-panel">
+                                                                                                            <span class="tag">豪宅</span>
+                                                                                                                                                <span class="tag">单身公寓</span>
+                                                                                                                                                <span class="tag">投资地产</span>
+                                                                                                </div>
+                                            
+                </div>
+                <div class="favor-pos">
+                                        <p class="price">均价<span>6666</span>元/m²</p>
+                    
+                    <div class="discount-item">
+                                                    <p class="favor-tag"><em class="discount-txt" title="总房款减2万3">总房款减2万3</em></p>
+                                                                    </div>
+                                                                        <p class="tel"><i class="list-ico tel-icon"></i>400-683-6013 转 16743</p>
+                                                            </div>
+                            </div>
+                                <div class="item-mod" data-link="http://jn.fang.anjuke.com/loupan/244033.html" data-soj="AF_RANK_17"  rel="nofollow">
+                <a class="pic"  href="http://jn.fang.anjuke.com/loupan/244033.html" soj="AF_RANK_17" target="_blank"><img width="180" height="135" src="http://c.pic1.ajkimg.com/display/xinfang/f30761f76c7b7963575e5cc0cc643891/180x135m.jpg" alt=""></a>
+                <div class="infos">
+                    <div class="lp-name">
+                        <h3><a class="items-name" href="http://jn.fang.anjuke.com/loupan/244033.html" soj="AF_RANK_17" target="_blank">山水泉城</a></h3>
+                                                                                                                                                <i class="status-icon soldout">售罄</i>
+                                                                                                                                                        </div>
+                    <p class="address">
+                                                    <a href="http://jn.fang.anjuke.com/loupan/244033.html#life-divid" soj="AF_RANK_17" class="list-map" target="_blank">[&nbsp;章丘&nbsp;章丘&nbsp;]&nbsp;明水新政务区西邻</a>
+                                            </p>
+                                            <p>
+                            
+                                户型：
+                                <a href="http://jn.fang.anjuke.com/loupan/244033.html#housetype-divid" target="_blank" >2室(1)</a>，<a href="http://jn.fang.anjuke.com/loupan/244033.html#housetype-divid" target="_blank" >4室(1)</a>，<a href="http://jn.fang.anjuke.com/loupan/244033.html#housetype-divid" target="_blank" >5室(1)</a>                                                    </p>
+                                        
+                                                                        <div class="tag-panel">
+                                                                                                            <span class="tag">单身公寓</span>
+                                                                                                                                                <span class="tag">养老房</span>
+                                                                                                                                                <span class="tag">婚房</span>
+                                                                                                                                                <span class="tag">改善房</span>
+                                                                                                </div>
+                                            
+                </div>
+                <div class="favor-pos">
+                                        <p class="price">均价<span>5750</span>元/m²</p>
+                    
+                    <div class="discount-item">
+                                                                    </div>
+                                                                        <p class="tel"><i class="list-ico tel-icon"></i>400-683-6013 转 16642</p>
+                                                            </div>
+                            </div>
+                                <div class="item-mod" data-link="http://jn.fang.anjuke.com/loupan/252144.html" data-soj="AF_RANK_18"  rel="nofollow">
+                <a class="pic"  href="http://jn.fang.anjuke.com/loupan/252144.html" soj="AF_RANK_18" target="_blank"><img width="180" height="135" src="http://a.pic1.ajkimg.com/display/xinfang/d76fa0d0b7d7de067f42c4256014bb80/180x135m.jpg" alt=""></a>
+                <div class="infos">
+                    <div class="lp-name">
+                        <h3><a class="items-name" href="http://jn.fang.anjuke.com/loupan/252144.html" soj="AF_RANK_18" target="_blank">汇隆广场</a></h3>
+                                                                                                                                                <i class="status-icon soldout">售罄</i>
+                                                                                                                                                                <a href="http://jn.fang.anjuke.com/loupan/252144.html#user-divid" target="_blank" class="list-dp" soj="list_dp">（1条点评）</a>
+                                            </div>
+                    <p class="address">
+                                                    <a href="http://jn.fang.anjuke.com/loupan/252144.html#life-divid" soj="AF_RANK_18" class="list-map" target="_blank">[&nbsp;高新&nbsp;国际会展中心&nbsp;]&nbsp;华能路38号留学人员创业园南临</a>
+                                            </p>
+                                            <p>
+                            
+                                户型：
+                                <a href="http://jn.fang.anjuke.com/loupan/252144.html#housetype-divid" target="_blank" >2室(1)</a>                                                    </p>
+                                        
+                                                                        <div class="tag-panel">
+                                                                                                            <span class="tag">二环以外</span>
+                                                                                                                                                <span class="tag">刚需房</span>
+                                                                                                                                                <span class="tag">不限购</span>
+                                                                                                                                                <span class="tag">养老房</span>
+                                                                                                </div>
+                                            
+                </div>
+                <div class="favor-pos">
+                                        <p class="price">均价<span>8000</span>元/m²</p>
+                    
+                    <div class="discount-item">
+                                                                    </div>
+                                                                        <p class="tel"><i class="list-ico tel-icon"></i>400-683-6013 转 28302</p>
+                                                            </div>
+                            </div>
+                                <div class="item-mod" data-link="http://jn.fang.anjuke.com/loupan/297996.html" data-soj="AF_RANK_19"  rel="nofollow">
+                <a class="pic"  href="http://jn.fang.anjuke.com/loupan/297996.html" soj="AF_RANK_19" target="_blank"><img width="180" height="135" src="http://a.pic1.ajkimg.com/display/xinfang/8949a7dcdda84dba5fb9dd57860a6e61/180x135m.jpg" alt=""></a>
+                <div class="infos">
+                    <div class="lp-name">
+                        <h3><a class="items-name" href="http://jn.fang.anjuke.com/loupan/297996.html" soj="AF_RANK_19" target="_blank">中海铂宫央墅</a></h3>
+                                                                                                                                                <i class="status-icon soldout">售罄</i>
+                                                                                                                                                                <a href="http://jn.fang.anjuke.com/loupan/297996.html#user-divid" target="_blank" class="list-dp" soj="list_dp">（12条点评）</a>
+                                            </div>
+                    <p class="address">
+                                                    <a href="http://jn.fang.anjuke.com/loupan/297996.html#life-divid" soj="AF_RANK_19" class="list-map" target="_blank">[&nbsp;市中&nbsp;二环南路&nbsp;]&nbsp;二环南路与阳光新路交汇处南行1000米</a>
+                                            </p>
+                                            <p>
+                            
+                                户型：
+                                <a href="http://jn.fang.anjuke.com/loupan/297996.html#housetype-divid" target="_blank" >别墅(2)</a>                                                    </p>
+                                        
+                                                                        <div class="tag-panel">
+                                                                                                            <span class="tag">二环以外</span>
+                                                                                                                                                <span class="tag">改善房</span>
+                                                                                                                                                <span class="tag">豪宅</span>
+                                                                                                                                                <span class="tag">山景</span>
+                                                                                                </div>
+                                            
+                </div>
+                <div class="favor-pos">
+                                        <p class="price">最低<span>700</span>万元/套起</p>
+                    
+                    <div class="discount-item">
+                                                                    </div>
+                                                                        <p class="tel"><i class="list-ico tel-icon"></i>400-683-6013 转 39721</p>
+                                                            </div>
+                            </div>
+                                <div class="item-mod" data-link="http://jn.fang.anjuke.com/loupan/244147.html" data-soj="AF_RANK_20"  rel="nofollow">
+                <a class="pic"  href="http://jn.fang.anjuke.com/loupan/244147.html" soj="AF_RANK_20" target="_blank"><img width="180" height="135" src="http://b.pic1.ajkimg.com/display/xinfang/ac86320307fab0177ed4d6d36f1bd244/180x135m.jpg" alt=""></a>
+                <div class="infos">
+                    <div class="lp-name">
+                        <h3><a class="items-name" href="http://jn.fang.anjuke.com/loupan/244147.html" soj="AF_RANK_20" target="_blank">山水庭院</a></h3>
+                                                                                                                                                <i class="status-icon soldout">售罄</i>
+                                                                                                                                                        </div>
+                    <p class="address">
+                                                    <a href="http://jn.fang.anjuke.com/loupan/244147.html#life-divid" soj="AF_RANK_20" class="list-map" target="_blank">[&nbsp;历下&nbsp;经十路&nbsp;]&nbsp;浆水泉路旅游路口以东500米，旅游路以...</a>
+                                            </p>
+                                            <p>
+                            
+                                户型：
+                                <a href="http://jn.fang.anjuke.com/loupan/244147.html#housetype-divid" target="_blank" >1室(1)</a>，<a href="http://jn.fang.anjuke.com/loupan/244147.html#housetype-divid" target="_blank" >2室(1)</a>，<a href="http://jn.fang.anjuke.com/loupan/244147.html#housetype-divid" target="_blank" >3室(1)</a>                                                    </p>
+                                        
+                                                                
+                </div>
+                <div class="favor-pos">
+                                        <p class="price">均价<span>11000</span>元/m²</p>
+                    
+                    <div class="discount-item">
+                                                                    </div>
+                                                                        <p class="tel"><i class="list-ico tel-icon"></i>400-683-6013 转 16783</p>
+                                                            </div>
+                            </div>
+                                <div class="item-mod" data-link="http://jn.fang.anjuke.com/loupan/246577.html" data-soj="AF_RANK_21"  rel="nofollow">
+                <a class="pic"  href="http://jn.fang.anjuke.com/loupan/246577.html" soj="AF_RANK_21" target="_blank"><img width="180" height="135" src="http://d.pic1.ajkimg.com/display/xinfang/77dd66079ab4da4c80de13f5865f0122/180x135m.jpg" alt=""></a>
+                <div class="infos">
+                    <div class="lp-name">
+                        <h3><a class="items-name" href="http://jn.fang.anjuke.com/loupan/246577.html" soj="AF_RANK_21" target="_blank">黄山新居</a></h3>
+                                                                                                                                                <i class="status-icon soldout">售罄</i>
+                                                                                                                                                        </div>
+                    <p class="address">
+                                                    <a href="http://jn.fang.anjuke.com/loupan/246577.html#life-divid" soj="AF_RANK_21" class="list-map" target="_blank">[&nbsp;市中&nbsp;其他&nbsp;]&nbsp;市中区济微路与党杨路交汇处北500米</a>
+                                            </p>
+                                            <p>
+                            
+                                户型：
+                                <a href="http://jn.fang.anjuke.com/loupan/246577.html#housetype-divid" target="_blank" >2室(4)</a>，<a href="http://jn.fang.anjuke.com/loupan/246577.html#housetype-divid" target="_blank" >3室(2)</a>，<a href="http://jn.fang.anjuke.com/loupan/246577.html#housetype-divid" target="_blank" >别墅(10)</a>                                                    </p>
+                                        
+                                                                        <div class="tag-panel">
+                                                                                                            <span class="tag">豪宅</span>
+                                                                                                                                                <span class="tag">大型超市</span>
+                                                                                                                                                <span class="tag">商场</span>
+                                                                                                                                                <span class="tag">公园</span>
+                                                                                                </div>
+                                            
+                </div>
+                <div class="favor-pos">
+                                        <p class="price">均价<span>2600</span>元/m²</p>
+                    
+                    <div class="discount-item">
+                                                                    </div>
+                                                                        <p class="tel"><i class="list-ico tel-icon"></i>400-683-6013 转 19537</p>
+                                                            </div>
+                            </div>
+                                <div class="item-mod" data-link="http://jn.fang.anjuke.com/loupan/251988.html" data-soj="AF_RANK_22"  rel="nofollow">
+                <a class="pic"  href="http://jn.fang.anjuke.com/loupan/251988.html" soj="AF_RANK_22" target="_blank"><img width="180" height="135" src="http://a.pic1.ajkimg.com/display/xinfang/d5dbbfe7264db61bec542a08117a05c9/180x135m.jpg" alt=""></a>
+                <div class="infos">
+                    <div class="lp-name">
+                        <h3><a class="items-name" href="http://jn.fang.anjuke.com/loupan/251988.html" soj="AF_RANK_22" target="_blank">国泰鑫城</a></h3>
+                                                                                                                                                <i class="status-icon soldout">售罄</i>
+                                                                                                                                                                <a href="http://jn.fang.anjuke.com/loupan/251988.html#user-divid" target="_blank" class="list-dp" soj="list_dp">（1条点评）</a>
+                                            </div>
+                    <p class="address">
+                                                    <a href="http://jn.fang.anjuke.com/loupan/251988.html#life-divid" soj="AF_RANK_22" class="list-map" target="_blank">[&nbsp;槐荫&nbsp;西客站&nbsp;]&nbsp;刘长山路西延长线</a>
+                                            </p>
+                                            <p>
+                            
+                                户型：
+                                <a href="http://jn.fang.anjuke.com/loupan/251988.html#housetype-divid" target="_blank" >1室(1)</a>，<a href="http://jn.fang.anjuke.com/loupan/251988.html#housetype-divid" target="_blank" >2室(5)</a>，<a href="http://jn.fang.anjuke.com/loupan/251988.html#housetype-divid" target="_blank" >3室(2)</a>                                                    </p>
+                                        
+                                                                        <div class="tag-panel">
+                                                                                                            <span class="tag">小户型</span>
+                                                                                                                                                <span class="tag">双卫</span>
+                                                                                                                                                <span class="tag">二环以外</span>
+                                                                                                                                                <span class="tag">高得房率</span>
+                                                                                                </div>
+                                            
+                </div>
+                <div class="favor-pos">
+                                        <p class="price">均价<span>2881</span>元/m²</p>
+                    
+                    <div class="discount-item">
+                                                                    </div>
+                                                                        <p class="tel"><i class="list-ico tel-icon"></i>400-683-6013 转 27703</p>
+                                                            </div>
+                            </div>
+                                <div class="item-mod" data-link="http://jn.fang.anjuke.com/loupan/251297.html" data-soj="AF_RANK_23"  rel="nofollow">
+                <a class="pic"  href="http://jn.fang.anjuke.com/loupan/251297.html" soj="AF_RANK_23" target="_blank"><img width="180" height="135" src="http://a.pic1.ajkimg.com/display/xinfang/47c25183ce3a7b47bb3532ac4b4b7dd0/180x135m.jpg" alt=""></a>
+                <div class="infos">
+                    <div class="lp-name">
+                        <h3><a class="items-name" href="http://jn.fang.anjuke.com/loupan/251297.html" soj="AF_RANK_23" target="_blank">明湖·太学苑</a></h3>
+                                                                                                                                                <i class="status-icon soldout">售罄</i>
+                                                                                                                                                                <a href="http://jn.fang.anjuke.com/loupan/251297.html#user-divid" target="_blank" class="list-dp" soj="list_dp">（1条点评）</a>
+                                            </div>
+                    <p class="address">
+                                                    <a href="http://jn.fang.anjuke.com/loupan/251297.html#life-divid" soj="AF_RANK_23" class="list-map" target="_blank">[&nbsp;高新&nbsp;国际会展中心&nbsp;]&nbsp;工业南路与开拓路交汇处北30米</a>
+                                            </p>
+                                            <p>
+                            
+                                户型：
+                                <a href="http://jn.fang.anjuke.com/loupan/251297.html#housetype-divid" target="_blank" >2室(2)</a>，<a href="http://jn.fang.anjuke.com/loupan/251297.html#housetype-divid" target="_blank" >3室(1)</a>                                                    </p>
+                                        
+                                                                        <div class="tag-panel">
+                                                                                                            <span class="tag">厨卫全明</span>
+                                                                                                                                                <span class="tag">大客厅</span>
+                                                                                                                                                <span class="tag">二环以外</span>
+                                                                                                                                                <span class="tag">高得房率</span>
+                                                                                                </div>
+                                            
+                </div>
+                <div class="favor-pos">
+                                        <p class="price">均价<span>8000</span>元/m²</p>
+                    
+                    <div class="discount-item">
+                                                    <p class="favor-tag"><em class="discount-txt" title="优惠5千抵2万，购房送4万元教育基金">优惠5千抵2万，购房送4万元教育基金</em></p>
+                                                                    </div>
+                                                                        <p class="tel"><i class="list-ico tel-icon"></i>400-683-6013 转 26358</p>
+                                                            </div>
+                            </div>
+                                <div class="item-mod" data-link="http://jn.fang.anjuke.com/loupan/248684.html" data-soj="AF_RANK_24"  rel="nofollow">
+                <a class="pic"  href="http://jn.fang.anjuke.com/loupan/248684.html" soj="AF_RANK_24" target="_blank"><img width="180" height="135" src="http://c.pic1.ajkimg.com/display/xinfang/20ce290022a05e8056016aeaebced4c6/180x135m.jpg" alt=""></a>
+                <div class="infos">
+                    <div class="lp-name">
+                        <h3><a class="items-name" href="http://jn.fang.anjuke.com/loupan/248684.html" soj="AF_RANK_24" target="_blank">历山尚文轩</a></h3>
+                                                                                                                                                <i class="status-icon soldout">售罄</i>
+                                                                                                                                                        </div>
+                    <p class="address">
+                                                    <a href="http://jn.fang.anjuke.com/loupan/248684.html#life-divid" soj="AF_RANK_24" class="list-map" target="_blank">[&nbsp;历下&nbsp;山大路&nbsp;]&nbsp;山大南路与历山路交汇处东南角，山大南...</a>
+                                            </p>
+                                            <p>
+                            
+                                户型：
+                                <a href="http://jn.fang.anjuke.com/loupan/248684.html#housetype-divid" target="_blank" >3室(2)</a>                                                    </p>
+                                        
+                                                                        <div class="tag-panel">
+                                                                                                            <span class="tag">豪宅</span>
+                                                                                                                                                <span class="tag">商场</span>
+                                                                                                                                                <span class="tag">厨卫全明</span>
+                                                                                                                                                <span class="tag">大阳台</span>
+                                                                                                </div>
+                                            
+                </div>
+                <div class="favor-pos">
+                                        <p class="price">均价<span>13500</span>元/m²</p>
+                    
+                    <div class="discount-item">
+                                                                    </div>
+                                                                        <p class="tel"><i class="list-ico tel-icon"></i>400-683-6013 转 21718</p>
+                                                            </div>
+                            </div>
+                                <div class="item-mod" data-link="http://jn.fang.anjuke.com/loupan/244095.html" data-soj="AF_RANK_25"  rel="nofollow">
+                <a class="pic"  href="http://jn.fang.anjuke.com/loupan/244095.html" soj="AF_RANK_25" target="_blank"><img width="180" height="135" src="http://a.pic1.ajkimg.com/display/xinfang/406ed3fdda801903e1e2786fa1265dda/180x135m.jpg" alt=""></a>
+                <div class="infos">
+                    <div class="lp-name">
+                        <h3><a class="items-name" href="http://jn.fang.anjuke.com/loupan/244095.html" soj="AF_RANK_25" target="_blank">世佳戎居二期</a></h3>
+                                                                                                                                                <i class="status-icon soldout">售罄</i>
+                                                                                                                                                        </div>
+                    <p class="address">
+                                                    <a href="http://jn.fang.anjuke.com/loupan/244095.html#life-divid" soj="AF_RANK_25" class="list-map" target="_blank">[&nbsp;槐荫&nbsp;腊山立交桥&nbsp;]&nbsp;槐荫段店路49号</a>
+                                            </p>
+                                            <p>
+                            
+                                户型：
+                                <a href="http://jn.fang.anjuke.com/loupan/244095.html#housetype-divid" target="_blank" >2室(1)</a>，<a href="http://jn.fang.anjuke.com/loupan/244095.html#housetype-divid" target="_blank" >3室(2)</a>                                                    </p>
+                                        
+                                                                
+                </div>
+                <div class="favor-pos">
+                                        <p class="price">均价<span>7752</span>元/m²</p>
+                    
+                    <div class="discount-item">
+                                                                    </div>
+                                                                        <p class="tel"><i class="list-ico tel-icon"></i>400-683-6013 转 16724</p>
+                                                            </div>
+                            </div>
+                                <div class="item-mod" data-link="http://jn.fang.anjuke.com/loupan/244027.html" data-soj="AF_RANK_26"  rel="nofollow">
+                <a class="pic"  href="http://jn.fang.anjuke.com/loupan/244027.html" soj="AF_RANK_26" target="_blank"><img width="180" height="135" src="http://d.pic1.ajkimg.com/display/xinfang/3c97abe492e5bd0744d024511b19177e/180x135m.jpg" alt=""></a>
+                <div class="infos">
+                    <div class="lp-name">
+                        <h3><a class="items-name" href="http://jn.fang.anjuke.com/loupan/244027.html" soj="AF_RANK_26" target="_blank">发祥1号公馆</a></h3>
+                                                                                                                                                <i class="status-icon soldout">售罄</i>
+                                                                                                                                                        </div>
+                    <p class="address">
+                                                    <a href="http://jn.fang.anjuke.com/loupan/244027.html#life-divid" soj="AF_RANK_26" class="list-map" target="_blank">[&nbsp;槐荫&nbsp;西市场&nbsp;]&nbsp;槐荫经一路南，纬五路西</a>
+                                            </p>
+                                            <p>
+                            
+                                户型：
+                                <a href="http://jn.fang.anjuke.com/loupan/244027.html#housetype-divid" target="_blank" >1室(3)</a>                                                    </p>
+                                        
+                                                                        <div class="tag-panel">
+                                                                                                            <span class="tag">精装修</span>
+                                                                                                </div>
+                                            
+                </div>
+                <div class="favor-pos">
+                                        <p class="price">均价<span>306818</span>元/m²</p>
+                    
+                    <div class="discount-item">
+                                                                    </div>
+                                                                        <p class="tel"><i class="list-ico tel-icon"></i>400-683-6013 转 16635</p>
+                                                            </div>
+                            </div>
+                                <div class="item-mod" data-link="http://jn.fang.anjuke.com/loupan/247917.html" data-soj="AF_RANK_27"  rel="nofollow">
+                <a class="pic"  href="http://jn.fang.anjuke.com/loupan/247917.html" soj="AF_RANK_27" target="_blank"><img width="180" height="135" src="http://c.pic1.ajkimg.com/display/xinfang/68d8023df3f453c0922fa3d996c05227/180x135m.jpg" alt=""></a>
+                <div class="infos">
+                    <div class="lp-name">
+                        <h3><a class="items-name" href="http://jn.fang.anjuke.com/loupan/247917.html" soj="AF_RANK_27" target="_blank">鲁商国奥城</a></h3>
+                                                                                                                                                <i class="status-icon soldout">售罄</i>
+                                                                                                                                                                <a href="http://jn.fang.anjuke.com/loupan/247917.html#user-divid" target="_blank" class="list-dp" soj="list_dp">（1条点评）</a>
+                                            </div>
+                    <p class="address">
+                                                    <a href="http://jn.fang.anjuke.com/loupan/247917.html#life-divid" soj="AF_RANK_27" class="list-map" target="_blank">[&nbsp;历下&nbsp;经十路&nbsp;]&nbsp;9777号</a>
+                                            </p>
+                                            <p>
+                            
+                                户型：
+                                <a href="http://jn.fang.anjuke.com/loupan/247917.html#housetype-divid" target="_blank" >商住(2)</a>                                                    </p>
+                                        
+                                                                        <div class="tag-panel">
+                                                                                                            <span class="tag">精装修</span>
+                                                                                                                                                <span class="tag">低总价</span>
+                                                                                                                                                <span class="tag">厨卫全明</span>
+                                                                                                                                                <span class="tag">高得房率</span>
+                                                                                                </div>
+                                            
+                </div>
+                <div class="favor-pos">
+                                        <p class="price">均价<span>12761</span>元/m²</p>
+                    
+                    <div class="discount-item">
+                                                                    </div>
+                                                                        <p class="tel"><i class="list-ico tel-icon"></i>400-683-6013 转 20934</p>
+                                                            </div>
+                            </div>
+                                <div class="item-mod" data-link="http://jn.fang.anjuke.com/loupan/251552.html" data-soj="AF_RANK_28"  rel="nofollow">
+                <a class="pic"  href="http://jn.fang.anjuke.com/loupan/251552.html" soj="AF_RANK_28" target="_blank"><img width="180" height="135" src="http://b.pic1.ajkimg.com/display/xinfang/ed9e9b10c48abbfc078bd712999035e0/180x135m.jpg" alt=""></a>
+                <div class="infos">
+                    <div class="lp-name">
+                        <h3><a class="items-name" href="http://jn.fang.anjuke.com/loupan/251552.html" soj="AF_RANK_28" target="_blank">三箭豫林嘉园</a></h3>
+                                                                                                                                                <i class="status-icon soldout">售罄</i>
+                                                                                                                                                                <a href="http://jn.fang.anjuke.com/loupan/251552.html#user-divid" target="_blank" class="list-dp" soj="list_dp">（1条点评）</a>
+                                            </div>
+                    <p class="address">
+                                                    <a href="http://jn.fang.anjuke.com/loupan/251552.html#life-divid" soj="AF_RANK_28" class="list-map" target="_blank">[&nbsp;历下&nbsp;奥体中心&nbsp;]&nbsp;龙鼎大道向南3公里路西</a>
+                                            </p>
+                                            <p>
+                            
+                                户型：
+                                <a href="http://jn.fang.anjuke.com/loupan/251552.html#housetype-divid" target="_blank" >3室(1)</a>，<a href="http://jn.fang.anjuke.com/loupan/251552.html#housetype-divid" target="_blank" >4室(1)</a>                                                    </p>
+                                        
+                                                                        <div class="tag-panel">
+                                                                                                            <span class="tag">二环以外</span>
+                                                                                                                                                <span class="tag">学区房</span>
+                                                                                                                                                <span class="tag">刚需房</span>
+                                                                                                                                                <span class="tag">不限购</span>
+                                                                                                </div>
+                                            
+                </div>
+                <div class="favor-pos">
+                                        <p class="price">均价<span>10700</span>元/m²</p>
+                    
+                    <div class="discount-item">
+                                                                    </div>
+                                                                        <p class="tel"><i class="list-ico tel-icon"></i>400-683-6013 转 26965</p>
+                                                            </div>
+                            </div>
+                                <div class="item-mod" data-link="http://jn.fang.anjuke.com/loupan/244108.html" data-soj="AF_RANK_29"  rel="nofollow">
+                <a class="pic"  href="http://jn.fang.anjuke.com/loupan/244108.html" soj="AF_RANK_29" target="_blank"><img width="180" height="135" src="http://d.pic1.ajkimg.com/display/xinfang/cf6f289002792277527746044a1cd5ab/180x135m.jpg" alt=""></a>
+                <div class="infos">
+                    <div class="lp-name">
+                        <h3><a class="items-name" href="http://jn.fang.anjuke.com/loupan/244108.html" soj="AF_RANK_29" target="_blank">黄金99</a></h3>
+                                                                                                                                                <i class="status-icon soldout">售罄</i>
+                                                                                                                                                                <a href="http://jn.fang.anjuke.com/loupan/244108.html#user-divid" target="_blank" class="list-dp" soj="list_dp">（1条点评）</a>
+                                            </div>
+                    <p class="address">
+                                                    <a href="http://jn.fang.anjuke.com/loupan/244108.html#life-divid" soj="AF_RANK_29" class="list-map" target="_blank">[&nbsp;历下&nbsp;旅游路东&nbsp;]&nbsp;南临回龙山，东临浆水泉路，西临二环东...</a>
+                                            </p>
+                                            <p>
+                            
+                                户型：
+                                <a href="http://jn.fang.anjuke.com/loupan/244108.html#housetype-divid" target="_blank" >2室(3)</a>                                                    </p>
+                                        
+                                                                        <div class="tag-panel">
+                                                                                                            <span class="tag">豪宅</span>
+                                                                                                                                                <span class="tag">金牌物业</span>
+                                                                                                                                                <span class="tag">二环以外</span>
+                                                                                                                                                <span class="tag">带幼儿园</span>
+                                                                                                </div>
+                                            
+                </div>
+                <div class="favor-pos">
+                                        <p class="price">均价<span>14000</span>元/m²</p>
+                    
+                    <div class="discount-item">
+                                                                    </div>
+                                                                        <p class="tel"><i class="list-ico tel-icon"></i>400-683-6013 转 16737</p>
+                                                            </div>
+                            </div>
+                                <div class="item-mod" data-link="http://jn.fang.anjuke.com/loupan/245576.html" data-soj="AF_RANK_30"  rel="nofollow">
+                <a class="pic"  href="http://jn.fang.anjuke.com/loupan/245576.html" soj="AF_RANK_30" target="_blank"><img width="180" height="135" src="http://c.pic1.ajkimg.com/display/xinfang/f7117cdf6d363f11afd2f29e8f7244a3/180x135m.jpg" alt=""></a>
+                <div class="infos">
+                    <div class="lp-name">
+                        <h3><a class="items-name" href="http://jn.fang.anjuke.com/loupan/245576.html" soj="AF_RANK_30" target="_blank">济高涵玉翠岭</a></h3>
+                                                                                                                                                <i class="status-icon soldout">售罄</i>
+                                                                                                                                                        </div>
+                    <p class="address">
+                                                    <a href="http://jn.fang.anjuke.com/loupan/245576.html#life-divid" soj="AF_RANK_30" class="list-map" target="_blank">[&nbsp;历下&nbsp;经十路&nbsp;]&nbsp;小汉峪西山坡，旅游路南侧</a>
+                                            </p>
+                                            <p>
+                            
+                                户型：
+                                <a href="http://jn.fang.anjuke.com/loupan/245576.html#housetype-divid" target="_blank" >2室(1)</a>，<a href="http://jn.fang.anjuke.com/loupan/245576.html#housetype-divid" target="_blank" >3室(2)</a>                                                    </p>
+                                        
+                                                                
+                </div>
+                <div class="favor-pos">
+                                        <p class="price">均价<span>7300</span>元/m²</p>
+                    
+                    <div class="discount-item">
+                                                                    </div>
+                                                                        <p class="tel"><i class="list-ico tel-icon"></i>400-683-6013 转 18417</p>
+                                                            </div>
+                            </div>
+                <!--海外地产begin-->
+                <!--海外地产end-->
+    
+</div>
+
+            <!--邮箱订阅-->
+            
+
+            
+                            <div class="list-page">
+                                            <span class="total">共有<em> 447 </em>个有关济南新房楼盘</span>
+                    
+                        <div class="pagination">
+                    <a href="http://jn.fang.anjuke.com/loupan/all/p9/" class="prev-page stat-link">上一页</a>
+                <a href="http://jn.fang.anjuke.com/loupan/all/">1</a>
+        <span class="ellipsis">...</span>
+                                                                                     <!-- if($value['page']>=7): -->
+                                                                                     <!-- if($value['page']>=7): -->
+                                                                            <a href="http://jn.fang.anjuke.com/loupan/all/p8/">8</a>
+                                                 <!-- if($value['page']>=7): -->
+                                                                            <a href="http://jn.fang.anjuke.com/loupan/all/p9/">9</a>
+                                                 <!-- if($value['page']>=7): -->
+                                                        <span class="curr-page">10</span>
+                             <!-- if($value['page']>=7): -->
+                                                                            <a href="http://jn.fang.anjuke.com/loupan/all/p11/">11</a>
+                                                 <!-- if($value['page']>=7): -->
+                                                                            <a href="http://jn.fang.anjuke.com/loupan/all/p12/">12</a>
+                                                 <!-- if($value['page']>=7): -->
+                                                                                     <!-- if($value['page']>=7): -->
+                                                                                     <!-- if($value['page']>=7): -->
+                                                                                     <!-- if($value['page']>=7): -->
+                <span class="ellipsis">...</span>
+                    <a href="http://jn.fang.anjuke.com/loupan/all/p11/" class="next-page next-link">下一页</a>
+            </div>
+
+
+                </div>
+            
+        </div>
+
+                <div class="list-advs">
+
+            <!-- 右侧中房榜、专车看房轮播banner switch -->
+            <div class="carouse-mod s-mod clearfix" id="s-switch-banner">
+    <div class="clip">
+        <div class="banner-box">
+
+            
+            <!-- 私家房探右侧banner入口 -->
+                        <a href="http://jn.fang.anjuke.com/fangtan/" class="banner-item" soj="lplist_banner" target="_blank">
+                <img src="http://pages.aifcdn.com/img/house/list/fangtan-adv.jpg" width="210" height="200" />
+            </a>
+                                 
+        </div>
+    </div>
+</div>
+            
+            <!-- 最新优惠 -->
+     
+            <!--新开56城显示 最新开盘 -->
+        <div class="build-mod latest-opening s-mod">
+            <h3>最新开盘</h3>
+            <dl class="list-box">
+                                <dt class="list-date">预计7月</dt>
+                                            <dd class="list-item">
+                            <span class="item-name"><a href="http://jn.fang.anjuke.com/loupan/410143.html" target="blank" soj="list_zxkp">华皓英伦联邦</a></span>
+                            <span class="item-price"><em>售价待定</em></span>
+                        </dd>
+                                            <dd class="list-item">
+                            <span class="item-name"><a href="http://jn.fang.anjuke.com/loupan/389684.html" target="blank" soj="list_zxkp">海信创智谷</a></span>
+                            <span class="item-price"><em>售价待定</em></span>
+                        </dd>
+                                            <dd class="list-item">
+                            <span class="item-name"><a href="http://jn.fang.anjuke.com/loupan/410170.html" target="blank" soj="list_zxkp">银盛泰金域蓝山</a></span>
+                            <span class="item-price"><em>9500</em>元/m²</span>
+                        </dd>
+                                            <dd class="list-item">
+                            <span class="item-name"><a href="http://jn.fang.anjuke.com/loupan/406090.html" target="blank" soj="list_zxkp">四建美林花园</a></span>
+                            <span class="item-price"><em>售价待定</em></span>
+                        </dd>
+                                            <dd class="list-item">
+                            <span class="item-name"><a href="http://jn.fang.anjuke.com/loupan/411243.html" target="blank" soj="list_zxkp">凤凰国际</a></span>
+                            <span class="item-price"><em>9800</em>元/m²</span>
+                        </dd>
+                                            <dd class="list-item">
+                            <span class="item-name"><a href="http://jn.fang.anjuke.com/loupan/400754.html" target="blank" soj="list_zxkp">绿地国际城</a></span>
+                            <span class="item-price"><em>7000</em>元/m²</span>
+                        </dd>
+                                                </dl>
+        </div>
+    
+    
+
+            <!-- 信用贷款入口 -->
+                        <!-- 新城市不展示房价走势 -->
+                            <div class="wide-price-trend">
+    <a target="_blank" soj="hangqing_loupanlist" href="http://jn.fang.anjuke.com/fangjia/">
+        <div class="price-trend">
+                <h3>济南房价行情</h3>
+                                <p class="total">7月均价：<em>8760元/平米</em></p>
+                                                <p class="status">比6月上涨：
+                <em class="down">&darr;-0.17%</em></p>
+                                <div class="chart">
+                    <img src="http://chart.aifcdn.com/average/price/city/?id=23&w=210&h=100&limit=6&date=2016070219&logo=1" alt="trend picture" />
+                </div>
+        </div><!-- Price Trend -->
+    </a>
+</div>
+                                                    <script type="text/javascript">
+                                        (function() {
+                        var a = document.createElement('script'); a.async = true;a.src = 'http://ifx.fang.anjuke.com/s?p=2001&c=23&o=1&st=ajk';
+                        var b = document.getElementsByTagName('head')[0]; if(b)b.insertBefore(a,b.lastChild);
+                    })();
+                </script>
+                <div id="IFX_p2001"></div>
+            
+            <!--海外地产begin-->
+            <div id="IFX_p6001"></div>
+            <script type="text/javascript">
+                (function() {
+                    var a = document.createElement('script'); a.async = true;a.src = 'http://ifx.fang.anjuke.com/s?p=6001&c=23&o=1&guid=BEB905A8-689D-E4A5-2F2C-SX0702195309&st=ajk';
+                    var b = document.getElementsByTagName('head')[0]; if(b)b.insertBefore(a,b.lastChild);
+                })();
+            </script>
+            <!--海外地产end-->
+
+                        <div class="finance-enter s-mod">
+                <a href="http://jinrong.58.com/" soj="anjuke" target="_blank" class="finance-link"><img src="http://pages.aifcdn.com/img/house/list/58_jinrong.jpg" width="210" height="200"/></a>
+            </div>
+                        <div id="div_ad943" class="map-sidebar">
+                <div id="IFX_p943" class="map-app"></div>
+            </div>
+            <script type="text/javascript">
+                                (function() {
+                    var j = document.createElement('script'); j.async = true;j.src = 'http://ifx.fang.anjuke.com/s?p=943&c=23&o=1&f=rec_loupanlist&st=ajk';
+                    var k = document.getElementsByTagName('head')[0]; if(k)k.insertBefore(j,k.lastChild);
+                })();
+            </script>
+            <div id="div_adFX8" class="map-sidebar">
+                <script type="text/javascript">
+    (function() {
+        var x = document.createElement('script');
+        x.async = true;
+        x.setAttribute("id", "zp_script_12");
+        x.setAttribute("zp_type", "1");
+        x.src = "http://mcc.chinauma.net/static/scripts/p.js?id=12&w=200&h=200&sl=1&delay=5";
+        var h = document.getElementById("div_adFX8"); h&&h.insertBefore(x,h.firstChild);
+    })();
+</script>
+            </div>
+
+            <!-- 58BD投放入口 -->
+            <div class="IF-58BD-mod s-mod">
+                <iframe class="IF-58BD" width="248" height="252" frameborder="no" scrolling="no" marginwidth="0" marginheight="0" src=""></iframe>
+            </div>
+
+        </div>
+
+            </div>
+    <div id="IFX_p2002"></div>
+
+
+<div id="IFX_p919" style="margin: 15px 0;"></div>
+
+<div class="list-recomm">
+    <div class="info-item">
+        <label>推荐楼盘：</label>
+        <div class="info-item-mod">
+            <div class="item-hd">
+                            <span class="area-item">历下</span>
+                            <span class="area-item">槐荫</span>
+                            <span class="area-item">历城</span>
+                            <span class="area-item">高新</span>
+                            <span class="area-item">市中</span>
+                            <span class="area-item">天桥</span>
+                            <span class="area-item">章丘</span>
+                            <span class="area-item">长清</span>
+                            <span class="area-item">商河</span>
+                            <span class="area-item">济阳</span>
+                            <span class="area-item">平阴</span>
+                            <span class="area-item">莱芜</span>
+                        </div>
+            <div class="item-bd">
+                                <div class="item">
+                                        <a href="http://jn.fang.anjuke.com/loupan/370785.html" title="三庆汇文轩" target="_blank" soj="seo_direct">三庆汇文轩</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/244026.html" title="普利景山" target="_blank" soj="seo_direct">普利景山</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/372397.html" title="和平花园" target="_blank" soj="seo_direct">和平花园</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/365515.html" title="燕山新居" target="_blank" soj="seo_direct">燕山新居</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/273342.html" title="市工商局宿舍" target="_blank" soj="seo_direct">市工商局宿舍</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/371037.html" title="中建文化城" target="_blank" soj="seo_direct">中建文化城</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/374787.html" title="山东经济学院宿舍" target="_blank" soj="seo_direct">山东经济学院宿舍</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/372239.html" title="中润富华园" target="_blank" soj="seo_direct">中润富华园</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/361863.html" title="龙奥新居" target="_blank" soj="seo_direct">龙奥新居</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/363306.html" title="机场宿舍" target="_blank" soj="seo_direct">机场宿舍</a>
+                                    </div>
+                                <div class="item">
+                                        <a href="http://jn.fang.anjuke.com/loupan/249281.html" title="恒生望山" target="_blank" soj="seo_direct">恒生望山</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/375965.html" title="民天面粉厂宿舍" target="_blank" soj="seo_direct">民天面粉厂宿舍</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/246303.html" title="新世界阳光花园" target="_blank" soj="seo_direct">新世界阳光花园</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/368790.html" title="阳光颐景园" target="_blank" soj="seo_direct">阳光颐景园</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/373013.html" title="鑫城小区" target="_blank" soj="seo_direct">鑫城小区</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/368930.html" title="经五纬八小区" target="_blank" soj="seo_direct">经五纬八小区</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/273295.html" title="闫千户小区" target="_blank" soj="seo_direct">闫千户小区</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/374408.html" title="德裕家园" target="_blank" soj="seo_direct">德裕家园</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/369586.html" title="省一轻供销公司宿舍" target="_blank" soj="seo_direct">省一轻供销公司宿舍</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/361904.html" title="西城新苑小区" target="_blank" soj="seo_direct">西城新苑小区</a>
+                                    </div>
+                                <div class="item">
+                                        <a href="http://jn.fang.anjuke.com/loupan/374680.html" title="辛甸花园" target="_blank" soj="seo_direct">辛甸花园</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/374885.html" title="鲍华苑" target="_blank" soj="seo_direct">鲍华苑</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/373998.html" title="华达华苑" target="_blank" soj="seo_direct">华达华苑</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/367573.html" title="地税局宿舍（郭店）" target="_blank" soj="seo_direct">地税局宿舍（郭店）</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/367116.html" title="柳鑫家园" target="_blank" soj="seo_direct">柳鑫家园</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/365704.html" title="花园路单位宿舍" target="_blank" soj="seo_direct">花园路单位宿舍</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/361391.html" title="王舍人卫生院宿舍" target="_blank" soj="seo_direct">王舍人卫生院宿舍</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/245554.html" title="卧虎半山" target="_blank" soj="seo_direct">卧虎半山</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/369348.html" title="二环东路医药公司宿舍" target="_blank" soj="seo_direct">二环东路医药公司宿舍</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/370602.html" title="华阳路浪潮宿舍" target="_blank" soj="seo_direct">华阳路浪潮宿舍</a>
+                                    </div>
+                                <div class="item">
+                                        <a href="http://jn.fang.anjuke.com/loupan/369411.html" title="莱茵小镇" target="_blank" soj="seo_direct">莱茵小镇</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/400620.html" title="山钢新天地" target="_blank" soj="seo_direct">山钢新天地</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/362733.html" title="涵玉翠岭" target="_blank" soj="seo_direct">涵玉翠岭</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/250851.html" title="三庆汇德公馆" target="_blank" soj="seo_direct">三庆汇德公馆</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/250498.html" title="中海天悦府" target="_blank" soj="seo_direct">中海天悦府</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/372524.html" title="智汇领地" target="_blank" soj="seo_direct">智汇领地</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/375574.html" title="聚鑫旺园" target="_blank" soj="seo_direct">聚鑫旺园</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/244075.html" title="茗筑美嘉" target="_blank" soj="seo_direct">茗筑美嘉</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/253035.html" title="汉峪海风" target="_blank" soj="seo_direct">汉峪海风</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/244032.html" title="建大花园" target="_blank" soj="seo_direct">建大花园</a>
+                                    </div>
+                                <div class="item">
+                                        <a href="http://jn.fang.anjuke.com/loupan/368267.html" title="信义小区" target="_blank" soj="seo_direct">信义小区</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/370531.html" title="普利永庆街1号" target="_blank" soj="seo_direct">普利永庆街1号</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/389559.html" title="鲁能领秀公馆" target="_blank" soj="seo_direct">鲁能领秀公馆</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/369993.html" title="机床一厂宿舍" target="_blank" soj="seo_direct">机床一厂宿舍</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/375987.html" title="舜阳山庄" target="_blank" soj="seo_direct">舜阳山庄</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/373484.html" title="鲁贤居" target="_blank" soj="seo_direct">鲁贤居</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/375474.html" title="通惠街单位宿舍" target="_blank" soj="seo_direct">通惠街单位宿舍</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/273317.html" title="泉景四季花园" target="_blank" soj="seo_direct">泉景四季花园</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/371010.html" title="植物园附近宿舍" target="_blank" soj="seo_direct">植物园附近宿舍</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/368664.html" title="邮电医院宿舍" target="_blank" soj="seo_direct">邮电医院宿舍</a>
+                                    </div>
+                                <div class="item">
+                                        <a href="http://jn.fang.anjuke.com/loupan/368460.html" title="国棉三厂宿舍" target="_blank" soj="seo_direct">国棉三厂宿舍</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/368622.html" title="天桥医院附近宿舍" target="_blank" soj="seo_direct">天桥医院附近宿舍</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/363941.html" title="网通宿舍" target="_blank" soj="seo_direct">网通宿舍</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/361881.html" title="胜利苑" target="_blank" soj="seo_direct">胜利苑</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/373298.html" title="骊园小区" target="_blank" soj="seo_direct">骊园小区</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/371376.html" title="路桥驾校单位宿舍" target="_blank" soj="seo_direct">路桥驾校单位宿舍</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/370100.html" title="舜清苑" target="_blank" soj="seo_direct">舜清苑</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/375953.html" title="济洛路公安局宿舍" target="_blank" soj="seo_direct">济洛路公安局宿舍</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/372432.html" title="供电局宿舍（生产路）" target="_blank" soj="seo_direct">供电局宿舍（生产路）</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/375287.html" title="标山南路单位宿舍" target="_blank" soj="seo_direct">标山南路单位宿舍</a>
+                                    </div>
+                                <div class="item">
+                                        <a href="http://jn.fang.anjuke.com/loupan/297710.html" title="华港世纪城" target="_blank" soj="seo_direct">华港世纪城</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/244134.html" title="龙园城" target="_blank" soj="seo_direct">龙园城</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/372832.html" title="圣井冠军花苑" target="_blank" soj="seo_direct">圣井冠军花苑</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/376561.html" title="明珠时代广场上城" target="_blank" soj="seo_direct">明珠时代广场上城</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/362471.html" title="正大明泉花园" target="_blank" soj="seo_direct">正大明泉花园</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/244014.html" title="幸福花苑" target="_blank" soj="seo_direct">幸福花苑</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/368858.html" title="碧桂园凤凰城别墅" target="_blank" soj="seo_direct">碧桂园凤凰城别墅</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/244083.html" title="青旗山花园" target="_blank" soj="seo_direct">青旗山花园</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/297973.html" title="城建吉祥园" target="_blank" soj="seo_direct">城建吉祥园</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/297974.html" title="蓝湾御景" target="_blank" soj="seo_direct">蓝湾御景</a>
+                                    </div>
+                                <div class="item">
+                                        <a href="http://jn.fang.anjuke.com/loupan/367525.html" title="万祥花园小区" target="_blank" soj="seo_direct">万祥花园小区</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/298112.html" title="山东高速绿城蘭園" target="_blank" soj="seo_direct">山东高速绿城蘭園</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/411371.html" title="畅博尚都" target="_blank" soj="seo_direct">畅博尚都</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/298109.html" title="汇侨城" target="_blank" soj="seo_direct">汇侨城</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/244114.html" title="港基城市经典" target="_blank" soj="seo_direct">港基城市经典</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/372818.html" title="泉城1高" target="_blank" soj="seo_direct">泉城1高</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/368560.html" title="鸣泉嘉园" target="_blank" soj="seo_direct">鸣泉嘉园</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/370954.html" title="长清公路局宿舍" target="_blank" soj="seo_direct">长清公路局宿舍</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/244092.html" title="中建瀛园" target="_blank" soj="seo_direct">中建瀛园</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/244029.html" title="长兴美郡" target="_blank" soj="seo_direct">长兴美郡</a>
+                                    </div>
+                                <div class="item">
+                                        <a href="http://jn.fang.anjuke.com/loupan/249901.html" title="三发尚河名郡" target="_blank" soj="seo_direct">三发尚河名郡</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/244111.html" title="藏珑(齐鲁水郡温泉岛二期)" target="_blank" soj="seo_direct">藏珑(齐鲁水郡温泉岛二期)</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/365247.html" title="齐鲁水郡温泉城" target="_blank" soj="seo_direct">齐鲁水郡温泉城</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/244099.html" title="玫瑰园（齐鲁水郡温泉岛三期)" target="_blank" soj="seo_direct">玫瑰园（齐鲁水郡温泉岛三期)</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/251506.html" title="盛景城" target="_blank" soj="seo_direct">盛景城</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/297600.html" title="中再凤凰城" target="_blank" soj="seo_direct">中再凤凰城</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/297594.html" title="中央华府" target="_blank" soj="seo_direct">中央华府</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/246343.html" title="鑫隆帝景城" target="_blank" soj="seo_direct">鑫隆帝景城</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/375615.html" title="苏州幻象" target="_blank" soj="seo_direct">苏州幻象</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/246344.html" title="宝恒水木清华" target="_blank" soj="seo_direct">宝恒水木清华</a>
+                                    </div>
+                                <div class="item">
+                                        <a href="http://jn.fang.anjuke.com/loupan/244079.html" title="禧福凤凰城" target="_blank" soj="seo_direct">禧福凤凰城</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/362524.html" title="三发小区" target="_blank" soj="seo_direct">三发小区</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/297604.html" title="金湖国际" target="_blank" soj="seo_direct">金湖国际</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/376545.html" title="幸福泉城尚郡" target="_blank" soj="seo_direct">幸福泉城尚郡</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/410840.html" title="祥瑞财富港" target="_blank" soj="seo_direct">祥瑞财富港</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/298005.html" title="洪永紫荆花园西区" target="_blank" soj="seo_direct">洪永紫荆花园西区</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/297623.html" title="黄河古镇" target="_blank" soj="seo_direct">黄河古镇</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/244067.html" title="腾骐骏安" target="_blank" soj="seo_direct">腾骐骏安</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/244024.html" title="华鑫现代城" target="_blank" soj="seo_direct">华鑫现代城</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/244487.html" title="澄波湖壹号" target="_blank" soj="seo_direct">澄波湖壹号</a>
+                                    </div>
+                                <div class="item">
+                                        <a href="http://jn.fang.anjuke.com/loupan/409401.html" title="邦华吉祥居" target="_blank" soj="seo_direct">邦华吉祥居</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/409396.html" title="鲁中康桥" target="_blank" soj="seo_direct">鲁中康桥</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/410704.html" title="茂昌银座新天地" target="_blank" soj="seo_direct">茂昌银座新天地</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/249512.html" title="腾跃苑" target="_blank" soj="seo_direct">腾跃苑</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/409395.html" title="锦水丽景" target="_blank" soj="seo_direct">锦水丽景</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/409360.html" title="瑞诚星港湾" target="_blank" soj="seo_direct">瑞诚星港湾</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/369120.html" title="三庆玫瑰苑" target="_blank" soj="seo_direct">三庆玫瑰苑</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/298337.html" title="卓亚香格里" target="_blank" soj="seo_direct">卓亚香格里</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/409398.html" title="淮海御墅" target="_blank" soj="seo_direct">淮海御墅</a>
+                                        <a href="http://jn.fang.anjuke.com/loupan/409366.html" title="福廷御景" target="_blank" soj="seo_direct">福廷御景</a>
+                                    </div>
+                                <div class="item">
+                                        <a href="http://jn.fang.anjuke.com/loupan/298180.html" title="山东高速绿城雪野湖桃花源" target="_blank" soj="seo_direct">山东高速绿城雪野湖桃花源</a>
+                                    </div>
+                            </div>
+        </div>
+    </div>
+    <div class="info-item">
+        <label>当前位置：</label>
+                <ul>
+        	<li><a href="http://jinan.anjuke.com">济南房产网</a></li>
+        	<li><em>&gt;</em><a title="济南楼盘" target="_blank" href="http://jn.fang.anjuke.com">济南楼盘</a></li>
+                                </ul>
+            </div>
+</div>
+
+<div class="listarea-mod">
+	 <p>
+         <!--             最专业的济南房产网，提供最全面的<a href="http://jn.fang.anjuke.com" target="_blank">济南楼盘</a>资讯和最及时的济南房价动态信息，安居客济南新房频道，为您实现家的梦想。
+         -->
+         济南房产网，提供济南楼盘信息，包括济南新开楼盘，在售楼盘，新房开盘等。安居客济南新房房产信息网频道，让您了解楼盘最新动态。手机找房：<a href='http://m.anjuke.com/jn/loupan/all/p10/' target='_blank'>济南楼盘</a> 户型找房：<a href='/huxing/' target='_blank'>济南户型大全</a>     </p>
+	 <!-- region-item Starts-->
+	 <div class="region-item">
+	    <label>同区域楼盘</label>
+	    <div id="region-switch-seo" class="region-mod switch">
+		    <div class="snav">
+                                    <a href="http://jn.fang.anjuke.com/loupan/lixia/" class="pnav">历下</a>
+                                    <a href="http://jn.fang.anjuke.com/loupan/huaiyin/" class="pnav">槐荫</a>
+                                    <a href="http://jn.fang.anjuke.com/loupan/licheng/" class="pnav">历城</a>
+                                    <a href="http://jn.fang.anjuke.com/loupan/gaoxin/" class="pnav">高新</a>
+                                    <a href="http://jn.fang.anjuke.com/loupan/shizhong/" class="pnav">市中</a>
+                                    <a href="http://jn.fang.anjuke.com/loupan/tianqiao/" class="pnav">天桥</a>
+                                    <a href="http://jn.fang.anjuke.com/loupan/zhangqiu/" class="pnav">章丘</a>
+                                    <a href="http://jn.fang.anjuke.com/loupan/changqing/" class="pnav">长清</a>
+                                    <a href="http://jn.fang.anjuke.com/loupan/shanghe/" class="pnav">商河</a>
+                                    <a href="http://jn.fang.anjuke.com/loupan/jiyang/" class="pnav">济阳</a>
+                                    <a href="http://jn.fang.anjuke.com/loupan/pingyin/" class="pnav">平阴</a>
+                                    <a href="http://jn.fang.anjuke.com/loupan/laiwu/" class="pnav">莱芜</a>
+                		    </div>
+		    <div class="clip">
+		       <div class="con">
+                                            <div class="item">
+                            <a href="http://jn.fang.anjuke.com/loupan/lixia/">历下楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/lixia_5151/">旅游路东楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/lixia_2933/">奥体中心楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/lixia_2934/">工业南路楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/lixia_2935/">经十路楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/lixia_2937/">泺源大街楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/lixia_2938/">千佛山楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/lixia_2939/">山大路楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/lixia_6148/">化纤厂楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/lixia_6178/">山师楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/lixia_10157/">其他楼盘</a>
+                                                    </div>
+                                            <div class="item">
+                            <a href="http://jn.fang.anjuke.com/loupan/huaiyin/">槐荫楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/huaiyin_5167/">西客站楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/huaiyin_5168/">美里湖楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/huaiyin_2919/">西市场楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/huaiyin_2930/">段店楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/huaiyin_5404/">腊山公园楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/huaiyin_5405/">腊山立交桥楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/huaiyin_6125/">张庄路楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/huaiyin_12128/">和谐商圈楼盘</a>
+                                                    </div>
+                                            <div class="item">
+                            <a href="http://jn.fang.anjuke.com/loupan/licheng/">历城楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/licheng_5170/">全福立交桥楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/licheng_5171/">王舍人镇楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/licheng_5172/">邢村立交桥楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/licheng_5173/">机场路楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/licheng_5174/">济钢楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/licheng_5175/">华山楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/licheng_5176/">经十路东楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/licheng_5177/">仲宫楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/licheng_2946/">洪楼楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/licheng_10156/">其他楼盘</a>
+                                                    </div>
+                                            <div class="item">
+                            <a href="http://jn.fang.anjuke.com/loupan/gaoxin/">高新楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/gaoxin_5178/">齐鲁软件园楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/gaoxin_5179/">国际会展中心楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/gaoxin_10154/">其他楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/gaoxin_12127/">汉峪片区楼盘</a>
+                                                    </div>
+                                            <div class="item">
+                            <a href="http://jn.fang.anjuke.com/loupan/shizhong/">市中楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/shizhong_5162/">舜耕路楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/shizhong_5163/">二环南路楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/shizhong_5164/">阳光新路楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/shizhong_5165/">王官庄楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/shizhong_5166/">旅游路楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/shizhong_2884/">大观园楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/shizhong_2887/">英雄山楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/shizhong_5402/">党家庄楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/shizhong_10158/">其他楼盘</a>
+                                                    </div>
+                                            <div class="item">
+                            <a href="http://jn.fang.anjuke.com/loupan/tianqiao/">天桥楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/tianqiao_5169/">无影山楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/tianqiao_2913/">北园大街楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/tianqiao_2914/">泺口楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/tianqiao_5403/">长途汽车站楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/tianqiao_10159/">其他楼盘</a>
+                                                    </div>
+                                            <div class="item">
+                            <a href="http://jn.fang.anjuke.com/loupan/zhangqiu/">章丘楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/zhangqiu_2969/">章丘楼盘</a>
+                                                    </div>
+                                            <div class="item">
+                            <a href="http://jn.fang.anjuke.com/loupan/changqing/">长清楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/changqing_2961/">长清楼盘</a>
+                                                    </div>
+                                            <div class="item">
+                            <a href="http://jn.fang.anjuke.com/loupan/shanghe/">商河楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/shanghe_2975/">商河楼盘</a>
+                                                    </div>
+                                            <div class="item">
+                            <a href="http://jn.fang.anjuke.com/loupan/jiyang/">济阳楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/jiyang_2973/">济阳楼盘</a>
+                                                    </div>
+                                            <div class="item">
+                            <a href="http://jn.fang.anjuke.com/loupan/pingyin/">平阴楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/pingyin_10283/">平阴楼盘</a>
+                                                    </div>
+                                            <div class="item">
+                            <a href="http://jn.fang.anjuke.com/loupan/laiwu/">莱芜楼盘</a>
+                                                            <a href="http://jn.fang.anjuke.com/loupan/laiwu_10285/">莱芜楼盘</a>
+                                                    </div>
+                    				 	<!-- item -->
+			 	</div>
+		 	</div>
+	 	</div>
+	 </div>
+
+    <div class="region-item">
+        <label>热门楼盘</label>
+        <div class="region-mod">
+            <ul class="nav">
+                               <li><a href="http://www.anjuke.com/xinfang/jn-lp298005/">洪永紫荆花园西区</a></li>
+                                <li><a href="http://www.anjuke.com/xinfang/jn-lp297576/">国大太阳都市广场</a></li>
+                                <li><a href="http://www.anjuke.com/xinfang/jn-lp273351/">康桥颐东</a></li>
+                                <li><a href="http://www.anjuke.com/xinfang/jn-lp249151/">布诺小镇</a></li>
+                                <li><a href="http://www.anjuke.com/xinfang/jn-lp244040/">同圆润和山居</a></li>
+                                <li><a href="http://www.anjuke.com/xinfang/jn-lp249640/">融基御水山庄</a></li>
+                                <li><a href="http://www.anjuke.com/xinfang/jn-lp245541/">济南泰悦新城</a></li>
+                                <li><a href="http://www.anjuke.com/xinfang/jn-lp250393/">梦世界I期LOMO公馆</a></li>
+                                <li><a href="http://www.anjuke.com/xinfang/jn-lp264044/">东鲁凤凰上郡</a></li>
+                                <li><a href="http://www.anjuke.com/xinfang/jn-lp247876/">左岸清河</a></li>
+                                <li><a href="http://www.anjuke.com/xinfang/jn-lp252112/">河泰山庄</a></li>
+                                <li><a href="http://www.anjuke.com/xinfang/jn-lp244027/">发祥1号公馆</a></li>
+                                <li><a href="http://www.anjuke.com/xinfang/jn-lp244062/">大城小院</a></li>
+                                <li><a href="http://www.anjuke.com/xinfang/jn-lp245440/">华福国际</a></li>
+                                <li><a href="http://www.anjuke.com/xinfang/jn-lp251666/">绿地新里香榭丽公馆</a></li>
+                                <li><a href="http://www.anjuke.com/xinfang/jn-lp243999/">普利永庆街壹号</a></li>
+                                <li><a href="http://www.anjuke.com/xinfang/jn-lp264192/">国华新经典</a></li>
+                                <li><a href="http://www.anjuke.com/xinfang/jn-lp297725/">贵和瑞园</a></li>
+                                <li><a href="http://www.anjuke.com/xinfang/jn-lp245554/">卧虎半山</a></li>
+                                <li><a href="http://www.anjuke.com/xinfang/jn-lp244124/">凯旋新城嘉苑</a></li>
+                                <li><a href="http://www.anjuke.com/xinfang/jn-lp244125/">天鸿万象新天</a></li>
+                                <li><a href="http://www.anjuke.com/xinfang/jn-lp249754/">荣宝御园</a></li>
+                                <li><a href="http://www.anjuke.com/xinfang/jn-lp298180/">山东高速绿城雪野湖桃花源</a></li>
+                                <li><a href="http://www.anjuke.com/xinfang/jn-lp251329/">章丘立天唐人中心</a></li>
+                                <li><a href="http://www.anjuke.com/xinfang/jn-lp244090/">建大花园二期学府名邸</a></li>
+                                <li><a href="http://www.anjuke.com/xinfang/jn-lp244485/">紫郡山庄</a></li>
+                                <li><a href="http://www.anjuke.com/xinfang/jn-lp246242/">中铁逸都国际</a></li>
+                                <li><a href="http://www.anjuke.com/xinfang/jn-lp248557/">金域中心</a></li>
+                                <li><a href="http://www.anjuke.com/xinfang/jn-lp245547/">重汽章丘黄旗山项目</a></li>
+                                <li><a href="http://www.anjuke.com/xinfang/jn-lp298025/">魏华园新区</a></li>
+                            </ul>
+        </div>
+     </div>
+
+            <div class="region-item">
+            <label>手机找房</label>
+            <div class="region-mod">
+                <ul class="nav">
+                                            <li><a href="http://m.anjuke.com/jn/loupan/shizhong/" target="_blank" title="市中新房">市中新房</a></li>
+                                            <li><a href="http://m.anjuke.com/jn/loupan/tianqiao/" target="_blank" title="天桥新房">天桥新房</a></li>
+                                            <li><a href="http://m.anjuke.com/jn/loupan/huaiyin/" target="_blank" title="槐荫新房">槐荫新房</a></li>
+                                            <li><a href="http://m.anjuke.com/jn/loupan/changqing/" target="_blank" title="长清新房">长清新房</a></li>
+                                            <li><a href="http://m.anjuke.com/jn/loupan/gaoxin/" target="_blank" title="高新新房">高新新房</a></li>
+                                            <li><a href="http://m.anjuke.com/jn/loupan/shanghe/" target="_blank" title="商河新房">商河新房</a></li>
+                                            <li><a href="http://m.anjuke.com/jn/loupan/jinanzhoubian/" target="_blank" title="济南周边新房">济南周边新房</a></li>
+                                            <li><a href="http://m.anjuke.com/jn/loupan/pingyin/" target="_blank" title="平阴新房">平阴新房</a></li>
+                                            <li><a href="http://m.anjuke.com/jn/loupan/laiwu/" target="_blank" title="莱芜新房">莱芜新房</a></li>
+                                            <li><a href="http://m.anjuke.com/jn/loupan/taian/" target="_blank" title="泰安新房">泰安新房</a></li>
+                                    </ul>
+            </div>
+        </div>
+    
+    <div class="region-item">
+        <label>推荐页面</label>
+        <div class="region-mod">
+            <ul class="nav">
+                               <li><a href="http://m.anjuke.com/bj/loupan/haidian/" target="_blank">北京海淀区新房</a></li>
+                                <li><a href="http://m.anjuke.com/bj/taofang/quyufang/" target="_blank">北京市新房价格</a></li>
+                                <li><a href="http://m.anjuke.com/bj/xinfang/" target="_blank">北京新房</a></li>
+                                <li><a href="http://m.anjuke.com/cd/xinfang/" target="_blank">成都楼盘信息</a></li>
+                                <li><a href="http://m.anjuke.com/dl/taofang/quyufang/" target="_blank">大连 房价走势</a></li>
+                                <li><a href="http://m.anjuke.com/dl/xinfang/" target="_blank">大连在售楼盘</a></li>
+                                <li><a href="http://m.anjuke.com/hz/xinfang/" target="_blank">杭州新房</a></li>
+                                <li><a href="http://m.anjuke.com/hui/taofang/quyufang/" target="_blank">惠州房价走势</a></li>
+                                <li><a href="http://m.anjuke.com/hui/xinfang/" target="_blank">惠州楼盘</a></li>
+                                <li><a href="http://m.anjuke.com/qd/xinfang/" target="_blank">青岛在售楼盘</a></li>
+                                <li><a href="http://m.anjuke.com/sy/xinfang/" target="_blank">三亚新房楼盘信息</a></li>
+                                <li><a href="http://m.anjuke.com/sh/taofang/quyufang/" target="_blank">上海房价走势</a></li>
+                                <li><a href="http://m.anjuke.com/sh/xinfang/" target="_blank">上海市新房</a></li>
+                                <li><a href="http://m.anjuke.com/sz/taofang/quyufang/" target="_blank">深圳市的房价</a></li>
+                                <li><a href="http://m.anjuke.com/sz/xinfang/" target="_blank">深圳新房开盘</a></li>
+                                <li><a href="http://m.anjuke.com/su/taofang/quyufang/" target="_blank">苏州房价走势</a></li>
+                                <li><a href="http://m.anjuke.com/su/xinfang/" target="_blank">苏州新房网</a></li>
+                                <li><a href="http://m.anjuke.com/tj/xinfang/" target="_blank">天津好楼盘</a></li>
+                                <li><a href="http://m.anjuke.com/cs/taofang/quyufang/" target="_blank">长沙市房价走势</a></li>
+                                <li><a href="http://m.anjuke.com/cs/xinfang/" target="_blank">长沙新房</a></li>
+                                <li><a href="http://m.anjuke.com/zz/xinfang/" target="_blank">郑州新开楼盘信息</a></li>
+                                <li><a href="http://m.anjuke.com/zh/sale/" target="_blank">珠海市房屋出售信息</a></li>
+                                <li><a href="http://m.anjuke.com/gz/xinfang/" target="_blank">最新广州楼盘</a></li>
+                            </ul>
+        </div>
+     </div>
+
+            <div class="region-item">
+            <label>合作伙伴</label>
+            <div class="region-mod">
+                <ul class="nav"><li><a href="http://wf.loupan.com/" target="_blank">潍坊房产网</a></li><li><a href="http://jn.ganji.com/fang/" target="_blank">济南房产</a></li><li><a href="http://jinan.11467.com/" target="_blank">济南企业网</a></li><li><a href="http://jn.yes515.com" target="_blank">济南房产</a></li><li><a href="http://jn.house.qq.com/ " target="_blank">济南房地产</a></li><li><a href="http://www.51job.com/jinan/" target="_blank">济南人才网</a></li><li><a href="http://jinan.tianqi.com/" target="_blank">济南天气预报</a></li><li><a href="http://jinan.baixing.com/zhengzu/" target="_blank">济南租房</a></li><li><a href="http://tj.bidcenter.com.cn" target="_blank">天津招标网</a></li><li><a href="http://meirong.3158.cn/" target="_blank">化妆品加盟</a></li><li><a href="http://jinan.tuitui99.com/" target="_blank">济南房产网 </a></li><li><a href="http://www.zhazhi.com/lunwen/" target="_blank">中国学术论文</a></li><li><a href="http://www.zgnongli.com/" target="_blank">农历查询</a></li><li><a href="http://hangqing.ymt.com/" target="_blank"> 生猪价格</a></li><li><a href="http://nanyang.98znz.com/" target="_blank">南阳二手房</a></li><li><a href="http://xuzhou.lbx.cc/" target="_blank">徐州免费发布信息</a></li><li><a href="http://jn.58.com/house.shtml" target="_blank">济南房产网</a></li><li><a href="http://jiaohang.kameng.com/" target="_blank">交通银行信用卡</a></li><li><a href="http://www.bizpai.com/" target="_blank">免费B2B</a></li><li><a href="http://guangzhou.youbian.com/" target="_blank">广州邮编</a></li><li><a href="http://holiland.alihuahua.com" target="_blank">好利来蛋糕</a></li><li><a href="http://www.yichao.cn/" target="_blank"> 配眼镜</a></li><li><a href="http://gc.17heli.com/" target="_blank">工程信息</a></li><li><a href="http://bbs.goodbaby.com" target="_blank">育儿论坛</a></li><li><a href="http://jn.jiaoyubao.cn/" target="_blank">济南培训学校</a></li><li><a href="http://zhuzhou.loupan.com" target="_blank">株洲楼盘网</a></li><li><a href="http://huaian.jiwu.com/" target="_blank">淮安买房</a></li><li><a href="http://jn.fang.anjuke.com/huxing/" target="_blank">济南户型大全</a></li><li><a href="http://bj.01fy.cn/" target="_blank">第一时间房源</a></li></ul>            </div>
+        </div>
+    	 <!--  region-item End -->
+</div>
+
+<!-- 底部浮条广告 -->
+<!-- 因为逻辑不变
+    Aifang_Web_Loupan_List_ListIndexv2_BottomMask 相当于加一套皮肤
+    原始皮肤为 topicactive01 对应 安居客赢了网
+    新皮肤为 topicactive02 对应 安居客周周看房活动
+ -->
+
+<script type="text/javascript" async defer src="//www.googleadservices.com/pagead/conversion.js"></script>
+
+
+</div>
+<div id="footer">
+    <div class="footer-infos">
+    <!-- intro Starts -->
+    <div class="intro">
+       <ul class="list">
+	    	<li class="item"><a rel="nofollow" href="http://jinan.anjuke.com/help/question/1" target="_blank">关于安居客</a><em>|</em></li>
+	    	<li class="item"><a rel="nofollow" href="http://job.anjuke.com/" target="_blank">人才招聘</a><em>|</em></li>
+	    	<li class="item"><a rel="nofollow" href="http://jinan.anjuke.com/help/question/4" target="_blank">联系我们</a><em>|</em></li>
+	    	<li class="item"><a rel="nofollow" href="http://jinan.anjuke.com/help/question/7" target="_blank">用户协议</a><em>|</em></li>
+	    	<li class="item"><a rel="nofollow" href="http://jinan.anjuke.com/help" target="_blank">使用帮助</a><em>|</em></li>
+	    	<li class="item"><a rel="nofollow" href="http://jinan.anjuke.com/friendlink" target="_blank">友情链接</a><em>|</em></li>
+	    	<li class="item"><a rel="nofollow" href="javascript://" class="footer-select" plates="map">网站地图</a><em>|</em></li>
+	    	<li class="item"><a rel="nofollow" href="javascript://" class="footer-select" plates="city">其他城市</a><em>|</em></li>
+	    	<li class="item"><a rel="nofollow" href="javascript://" class="footer-select" plates="fang">最新房源</a><em>|</em></li>
+	    	<li class="item"><a href="http://jinan.anjuke.com/wenti/" target="_blank">最新问答</a><em>|</em></li>
+	    	<li class="item"><a href="http://www.anjuke.com/calculator/loan" target="_blank">房贷计算器</a><em>|</em></li>
+	    	<li class="item"><a rel="nofollow" href="http://www.zx110.org/cxs/index.html" target="_blank">放心搜</a><em>|</em></li>
+            <li class="item"><a rel="nofollow" href="http://jn.fang.anjuke.com/unsubscribe/" target="_blank">订阅退订</a></li>
+        </ul>       
+    </div>
+    <!-- city-plates Starts -->
+    <div class="footer-plates city-plates">
+        <a href="http://m.anjuke.com/sh/taofang/quyufang/" >上海房价</a>
+        <a href="http://m.anjuke.com/bj/taofang/quyufang/" >北京房价</a>
+        <a href="http://m.anjuke.com/tj/taofang/quyufang/" >天津房价</a>
+        <a href="http://m.anjuke.com/dl/taofang/quyufang/" >大连房价</a>
+        <a href="http://m.anjuke.com/hz/taofang/quyufang/" >杭州房价</a>
+        <a href="http://m.anjuke.com/su/taofang/quyufang/" >苏州房价</a>
+        <a href="http://m.anjuke.com/nj/taofang/quyufang/" >南京房价</a>
+        <a href="http://m.anjuke.com/wx/taofang/quyufang/" >无锡房价</a>
+        <a href="http://m.anjuke.com/jn/taofang/quyufang/" >济南房价</a>
+        <a href="http://m.anjuke.com/qd/taofang/quyufang/" >青岛房价</a>
+        <a href="http://m.anjuke.com/ks/taofang/quyufang/" >昆山房价</a>
+        <a href="http://m.anjuke.com/fz/taofang/quyufang/" >福州房价</a>
+        <a href="http://m.anjuke.com/hf/taofang/quyufang/" >合肥房价</a>
+        <a href="http://m.anjuke.com/sz/taofang/quyufang/" >深圳房价</a>
+        <a href="http://m.anjuke.com/gz/taofang/quyufang/" >广州房价</a>
+        <a href="http://m.anjuke.com/fs/taofang/quyufang/" >佛山房价</a>
+        <a href="http://m.anjuke.com/cs/taofang/quyufang/" >长沙房价</a>
+        <a href="http://m.anjuke.com/sy/taofang/quyufang/" >三亚房价</a>
+        <a href="http://m.anjuke.com/hui/taofang/quyufang/" >惠州房价</a>
+        <a href="http://m.anjuke.com/cd/taofang/quyufang/" >成都房价</a>
+        <a href="http://m.anjuke.com/cq/taofang/quyufang/" >重庆房价</a>
+        <a href="http://m.anjuke.com/wh/taofang/quyufang/" >武汉房价</a>
+        <a href="http://m.anjuke.com/zz/taofang/quyufang/" >郑州房价</a>
+        <a href="http://m.anjuke.com/xa/taofang/quyufang/" >西安房价</a>
+        <a href="http://shanghai.anjuke.com/">上海房产网</a>
+        <a href="http://beijing.anjuke.com/">北京房产网</a>
+        <a href="http://tianjin.anjuke.com/">天津房产网</a>
+        <a href="http://dalian.anjuke.com/">大连房产网</a>
+        <a href="http://hangzhou.anjuke.com/">杭州房产网</a>
+        <a href="http://suzhou.anjuke.com/">苏州房产网</a>
+        <a href="http://nanjing.anjuke.com/">南京房产网</a>
+        <a href="http://wuxi.anjuke.com/">无锡房产网</a>
+        <a href="http://jinan.anjuke.com/">济南房产网</a>
+        <a href="http://qd.anjuke.com/">青岛房产网</a>
+        <a href="http://ks.anjuke.com/">昆山房产网</a>
+        <a href="http://fz.anjuke.com/">福州房产网</a>
+        <a href="http://hf.anjuke.com/">合肥房产网</a>
+        <a href="http://shenzhen.anjuke.com/">深圳房产网</a>
+        <a href="http://guangzhou.anjuke.com/">广州房产网</a>
+        <a href="http://foshan.anjuke.com/">佛山房产网</a>
+        <a href="http://cs.anjuke.com/">长沙房产网</a>
+        <a href="http://sanya.anjuke.com/">三亚房产网</a>
+        <a href="http://huizhou.anjuke.com/">惠州房产网</a>
+        <a href="http://chengdu.anjuke.com/">成都房产网</a>
+        <a href="http://chongqing.anjuke.com/">重庆房产网</a>
+        <a href="http://wuhan.anjuke.com/">武汉房产网</a>
+        <a href="http://zhengzhou.anjuke.com/">郑州房产网</a>
+        <a href="http://xa.anjuke.com/">西安房产网</a>
+        <a href="http://m.anjuke.com/sh/xinfang/">上海楼盘</a>
+        <a href="http://m.anjuke.com/bj/xinfang/">北京楼盘</a>
+        <a href="http://m.anjuke.com/tj/xinfang/">天津楼盘</a>
+        <a href="http://m.anjuke.com/dl/xinfang/">大连楼盘</a>
+        <a href="http://m.anjuke.com/hz/xinfang/">杭州楼盘</a>
+        <a href="http://m.anjuke.com/su/xinfang/">苏州楼盘</a>
+        <a href="http://m.anjuke.com/nj/xinfang/">南京楼盘</a>
+        <a href="http://m.anjuke.com/wx/xinfang/">无锡楼盘</a>
+        <a href="http://m.anjuke.com/jn/xinfang/">济南楼盘</a>
+        <a href="http://m.anjuke.com/qd/xinfang/">青岛楼盘</a>
+        <a href="http://m.anjuke.com/ks/xinfang/">昆山楼盘</a>
+        <a href="http://m.anjuke.com/fz/xinfang/">福州楼盘</a>
+        <a href="http://m.anjuke.com/hf/xinfang/">合肥楼盘</a>
+        <a href="http://m.anjuke.com/sz/xinfang/">深圳楼盘</a>
+        <a href="http://m.anjuke.com/gz/xinfang/">广州楼盘</a>
+        <a href="http://m.anjuke.com/fs/xinfang/">佛山楼盘</a>
+        <a href="http://m.anjuke.com/cs/xinfang/">长沙楼盘</a>
+        <a href="http://m.anjuke.com/sy/xinfang/">三亚楼盘</a>
+        <a href="http://m.anjuke.com/hui/xinfang/">惠州楼盘</a>
+        <a href="http://m.anjuke.com/cd/xinfang/">成都楼盘</a>
+        <a href="http://m.anjuke.com/cq/xinfang/">重庆楼盘</a>
+        <a href="http://m.anjuke.com/wh/xinfang/">武汉楼盘</a>
+        <a href="http://m.anjuke.com/zz/xinfang/">郑州楼盘</a>
+        <a href="http://m.anjuke.com/xz/xinfang/">西安楼盘</a>
+
+
+    </div>
+
+    <!-- map-plates Starts -->
+    <div class="footer-plates map-plates">
+        <a href='http://jn.fang.anjuke.com/fangsitemap/'>新房地图</a>　<a href='http://m.anjuke.com/jn/xinfang/sitemap/'>手机版新房地图</a>　<a href='http://www.anjuke.com/jinan/cm/'>二手房小区大全</a>　<a href='http://m.anjuke.com/jn/xiaoqu/'>手机版小区大全</a>　<a href='http://www.anjuke.com/jinan/cm-zu/'>租房小区大全</a>　<a href='http://jinan.anjuke.com/sitemap/'>二手房地图</a>　<a href='http://m.anjuke.com/jn/sitemap/'>手机版二手房地图</a>　<a href='http://jn.fang.anjuke.com/fangsitemap/A/'>济南楼盘大全</a>　<a href='http://m.anjuke.com/jn/xinfang/sitemap/A/'>手机版济南楼盘大全</a>　<a href='http://mobile.anjuke.com'>全国新房</a>　<a href='http://mobile.anjuke.com/xf/jn-sitemap-A/'>济南楼盘地图</a>　<a href='http://m.anjuke.com/jn/xinfangretui/A/'>移动济南热推</a>　<a href='http://jn.fang.anjuke.com/xinfangretui/A/'>济南热推</a>　    </div>
+    <!-- fang-plates Starts -->
+    <div class="footer-plates fang-plates">
+        <a href='http://jn.fang.anjuke.com/fang/'>新房房源</a>　<a href='http://jinan.anjuke.com/fang/'>二手房房源</a>　<a href='http://jn.zu.anjuke.com/fang/'>租房房源</a>　<a href='http://m.anjuke.com/jn/propsitemap/esf/'>手机二手房房源</a>　<a href='http://m.anjuke.com/jn/propsitemap/zf/'>手机租房房源</a>　<a href='http://jn.xzl.anjuke.com/fang_shou/'>写字楼出售</a>　<a href='http://jn.xzl.anjuke.com/fang_zu/'>写字楼出租</a>　<a href='http://jn.sp.anjuke.com/fang_shou/'>商铺出售</a>　<a href='http://jn.sp.anjuke.com/fang_zu/'>商铺出租</a>　    </div>
+    <!-- copyright Starts -->
+    <div class="copyright">
+    	<p>客服热线/虚假信息举报：400-620-9008<span>邮箱：<a rel="nofollow" target="_blank" href="mailto:service@58ganji.com">service@58ganji.com</a></span>Copyright © 2007-2016 www.anjuke.com All Rights Reserved <a rel="nofollow" href="http://www.miibeian.gov.cn/" target="_blank">ICP号：沪 B2-20090008</a></p>
+    </div>
+    <!-- copyright End -->
+</div>
+</div>
+<!--订阅弹出层整合弹出层-->
+
+     <div id="subscribe-basic" class="subscribe-mix" style="display: none;">
+    <p class="tip">
+        <span>我们将为您保密个人信息！</span>
+        <span class="tint">请填写您接受订阅的手机号码：</span>
+    </p>
+    <ul class="notice-list">
+        <li><input type="checkbox" sub-data="1" value="2"/><span>变价通知</span></li>
+        <li><input type="checkbox" sub-data="2" value="15"/><span>优惠通知</span></li>
+        <li><input type="checkbox" sub-data="3" value="1"/><span>开盘通知</span></li>
+        <li><input type="checkbox" sub-data="4" value="3"/><span>最新动态</span></li>
+        <li><input type="checkbox" sub-data="5" value="4"/><span>看房团通知</span></li>
+    </ul>
+    <div class="cell-info">
+        <label>手机号码：</label>
+        <input type="text" class="int-text cell-phone" value="请输入您的手机号码" maxlength="11">
+        <span class="com-msg" style="display:none;">
+            <i class="lp-icons error-icon"></i><span>您输入的电话号码有误</span>
+        </span>
+    </div>
+    <a href="javascript:" class="btn btn-b">立即订阅</a>
+</div>
+
+<div id="subscribe-success" class="subscribe-result submail-result" style="display: none;">
+    <div class="result-text"><i class="lp-icons ok-tips-icon"></i><span>恭喜您订阅成功！</span></div>
+    <div class="mail-info">
+        <p>获取更多优惠信息</p>
+        <label><em>*</em>邮箱地址：</label>
+        <input type="text" class="int-text mail-input" placeholder="请输入您的邮箱地址" maxlength="50">
+        <a href="javascript:" class="btn btn-c mailsub-btn">免费订阅</a>
+        <span class="com-msg" style="display:none;">
+            <i class="lp-icons error-icon"></i><span>您输入的邮箱地址有误</span>
+        </span>
+    </div>
+    <!-- <i class="lp-icons err-tips-icon"></i><span>您订阅失败！请重新尝试一次</span> -->
+    <!-- <i class="lp-icons hint-tips-icon"></i><span>请勿重复订阅！</span> -->
+</div>
+
+<div id="mailsub-success" class="subscribe-result" style="display: none;">
+    <i class="lp-icons ok-tips-icon"></i><span>恭喜您订阅成功！</span>
+</div>
+
+<div id="subscribe-fail" class="subscribe-result" style="display: none;">
+    <i class="lp-icons err-tips-icon"></i><span>您订阅失败！请重新尝试一次</span>
+</div>
+
+<div class="collect-result" style="display: none;">
+    <div class="result-tip">
+        <i class="lp-icons ok-tips-icon"></i><span>收藏成功！</span>
+        <p>若您留下联系方式，我们将免费推送本楼盘最新动态。</p>
+    </div>
+    <div class="cell-info">
+        <label>手机号码：</label>
+        <input type="text" class="int-text cell-phone" value="请输入您的手机号码" maxlength="11">
+        <span class="com-msg" style="display:none;">
+            <i class="lp-icons error-icon"></i><span>您输入的电话号码有误</span>
+        </span>
+    </div>
+    <a href="javascript:" class="btn btn-b">确认</a>
+</div>
+<script type="text/javascript">
+    window.need_mobile_code = 0;
+</script>
+
+
+
+<div class="site-gotop" id="j-site-gotop">
+
+    
+    <!-- <div class="conbox consult" style="display: none;" >
+        免费咨询
+        <div class="phoneBanner" style="">
+            <div class="static"></div>
+        </div>
+    </div> -->
+    
+    
+            <!-- 扫一扫下载APP -->
+        <a href="javascript:void(0);" class="sweep-code">
+            <p>下载APP</p>
+            <div class="code-img">
+                <img src="http://chart.aifcdn.com/qrcode?string=http://t.anjuke.com/sw2xPE3&level=3&size=30&margin=0" alt="二维码" width="70" height="70" />
+            </div>
+            <p>扫一扫</p>
+        </a>
+        <!-- <div class="conbox" id="z-mailsub">
+            <a href="javascript:">优惠订阅</a>
+        </div> -->
+    
+    <a href="javascript:" class="btn-gotop">
+        <i class="g-icon"></i>
+    </a>
+</div>
+<!--弹出窗  看房意向-->
+<div class="modal-intention-bd">
+    <p class="tips">如果您是买房用户，希望安居客组织您期望的看房团，请填写：</p>
+    <div class="opinion-form">
+        <div class="info area-info">
+            <span class="lab-tit">期望区域：</span>
+            <div class="area-box xf-select select-custom xf-select-min">
+                <div class="text">
+                    <span>请选择</span>
+                    <input type="hidden" value="0" />
+                    <i class="lp-icons icon-tip"></i>
+                </div>
+                <ul>
+                                    </ul>
+            </div>
+        </div>
+        <div class="info ways-info">
+            <span class="lab-tit">看房方式：</span>
+            <div class="ways-box">
+                <span class="radio-box"><input type="radio" name="way" value="1" class="radio-inp" /><label for="way" class="radio-text">线路看房</label></span>
+                <span class="radio-box"><input type="radio" name="way" value="2" checked="true" class="radio-inp"/><label for="way" class="radio-text">专车看房</label></span>
+            </div>
+
+        </div>
+        <div class="info phone-info">
+            <span class="lab-tit"><em>* </em>您的电话：</span>
+            <div class="phone-box">
+                <input type="text" class="int-text int-text-max" value="请输入您的手机号码" maxlength="11" />
+                <span class="com-msg" style="display:none;">
+                    <i class="lp-icons error-icon"></i>
+                    <span>手机格式错误！</span>
+                </span>
+            </div>
+        </div>
+        <div class="info intention-info">
+            <span class="lab-tit">您的意向：</span>
+            <textarea class="des" maxlength="100">请输入您想去的楼盘或其它信息</textarea>
+        </div>
+        <div class="btn-box">
+            <a href="javascript:" class="btn btn-b">提交</a>
+        </div>
+    </div>
+</div>
+
+<!--弹出窗口 邮箱优惠订阅-->
+<div class="mailsub-wrap" style="display: none;">
+    <p class="tip-a">我们将定期发送优惠楼盘至您的邮箱：</p>
+    <p class="tip-b">为了邮件成功送达，请将安居客：yt@anjuke.com添加为您的联系人</p>
+    <div class="mail-info">
+        <label><em>*</em>邮箱地址：</label>
+        <input type="text" class="int-text mail-input" placeholder="请输入您的邮箱地址" maxlength="50">
+        <span class="com-msg" style="display:none;">
+            <i class="lp-icons error-icon"></i><span>您输入的邮箱地址有误</span>
+        </span>
+    </div>
+    <a href="javascript:" class="btn btn-c mailsub-btn">立即订阅</a>
+</div>
+<script type="text/javascript" async defer  src="http://pages.aifcdn.com/prism/performance.js?v=1456202590"></script>
+<script type="text/javascript">
+;window.perfConfig = {
+    pageName : 'Aifang_Web_Loupan_Listv2_ListIndexPage',
+    siteName : 'aifang'
+};
+</script>
+<script type="text/javascript" src="http://pages.aifcdn.com/js/jquery-1.9.1/jquery-underscore.min.js"></script>
+<script type="text/javascript" src="http://pages.aifcdn.com/js/aav2/bb.js"></script>
+
+
+<script type="text/javascript" crossorigin src="http://include.aifcdn.com/aifang/res/2016070107/b/Aifang_Web_Loupan_Listv2_ListIndex.js"></script>
+<script type="text/javascript">
+
+
+    var gLogin = new XF.Login({
+        loginST: '#j-site-login',
+        baseUrl: 'http://www.anjuke.com/'
+    });
+
+    var XF_Search = new XF.Search({
+        searchST  : '#j-search',
+        formST    : '.search-form',
+        inputST   : '.input-search',
+        listST    : '.search-autocomplete',
+        hoverClass: 'hover',
+        initVal   : '请输入楼盘名称、地址或房源特征',
+        url       : 'http://jn.fang.anjuke.com/a/autocomplete',
+        t         : 6,
+        c         : 23,
+        n         : 8
+    });
+
+    var XF_HotSearch = new XF.HotSearch({
+        gSearch  : XF_Search,
+        hSearchST: '#j-hot-search',
+        hoverClass: 'current'
+    });
+
+
+            (function() {
+        var vdLoupans = APF.Utils.getCookie('ved_loupans');
+        var x = document.createElement('script'); x.async = true;x.src = 'http://ifx.fang.anjuke.com/s?p=2002&c=23&o=1&st=ajk'+'&u='+vdLoupans;
+        var h = document.getElementsByTagName('head')[0]; if(h)h.insertBefore(x,h.lastChild);
+    })();
+    
+    (function() {
+        var xx = document.createElement('script'); xx.async = true;xx.src = 'http://ifx.fang.anjuke.com/s?p=919&c=23&o=1&st=ajk';
+        var hh = document.getElementsByTagName('head')[0]; if(hh)hh.insertBefore(xx,hh.lastChild);
+    })();
+
+    //晶赞广告
+    var _zpq = _zpq || [];
+    _zpq.push(['_setAccount','8']);
+    (function() {
+        var zp = document.createElement('script'); zp.type = 'text/javascript'; zp.async = true;
+        zp.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.zampda.net/s.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(zp, s);
+      })();
+
+    var _mvq = window._mvq || []; 
+    window._mvq = _mvq;
+    _mvq.push(['$setAccount', 'm-21014-1']);
+    _mvq.push(['$setGeneral', '', '','','']);
+    _mvq.push(['$logConversion']);
+    (function() {
+        var mvl = document.createElement('script');
+        mvl.type = 'text/javascript'; mvl.async = true;
+        mvl.src = ('https:' == document.location.protocol ? 'https://static-ssl.mediav.com/mvl.js' : 'http://static.mediav.com/mvl.js');
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(mvl, s); 
+    })();   
+
+    
+	var google_tag_params = {
+			listing_id         : "",
+			listing_pagetype   : "searchresults",
+			listing_totalvalue : ""
+		};
+    var google_conversion_id    = 947155934;
+    var google_custom_params    = window.google_tag_params;
+    var google_remarketing_only = true;
+
+    $('.footer-plates').css({'border':'1px solid #e0e0e0','margin':'10px 0 0','padding':'7px 20px','text-align':'left'});
+    $('.footer-plates').hide();
+    $('.footer-select').click(function(){
+        $('.footer-plates').hide();
+        $('.'+$(this).attr('plates')+'-plates').show();
+    });
+    $('.footer-infos').mouseleave(function(){
+        setTimeout(function(){$('.footer-plates').hide();},500);
+    });
+
+    (function ($) {
+        if (APF.Utils.getCookie("usertype") === null || APF.Utils.getCookie("usertype") === "1") {
+            window.gFavorite = new XF.Favorite({
+                favST : '#j-addFav',
+                favUrl: {
+                    add: 'http://www.anjuke.com/ajax/favorite/add_favorite?htype=2',
+                    del: 'http://www.anjuke.com/ajax/favorite/del_favorite?',
+                    chk: 'http://www.anjuke.com/ajax/favorite/check_favorite?'
+                }
+            });
+        } else {
+            $('#j-addFav').hide();
+        }
+    })(jQuery);
+</script>
+
+<script type="text/javascript">
+    ;(function() {
+        //页面soj
+                var op = {Site:'anjuke',Page:'Aifang_Web_Loupan_List_ListIndexPage',PageName:'Aifang_Web_Loupan_Listv2_ListIndexPage'};
+        var cp = '{"xinfang_loupan":"list","found":"447","loupan":[244145,244120,244070,246342,251722,247994,244091,244079,243997,243983,246755,251046,245566,244140,244138,244114,244033,252144,297996,244147,246577,251988,251297,248684,244095,244027,247917,251552,244108,245576]}';
+        var t_params = {target_url:'http://s.anjuke.com/stb'};
+        XF.pagename = 'Aifang_Web_Loupan_Listv2_ListIndexPage';
+        XF.site = 'anjuke';
+        XF.Soj.send(cp,op, t_params);
+    })();
+
+    ;(function() {
+        //isp cookie
+        APF.Utils.setCookie("isp","true",30,"anjuke.com");
+    })();
+
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "//hm.baidu.com/hm.js?c5899c8768ebee272710c9c5f365a6d8";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script><!--20160702195309-->
+</body>
+</html>

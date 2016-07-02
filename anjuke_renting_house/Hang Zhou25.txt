@@ -1,0 +1,2198 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <link href="http://hz.zu.anjuke.com/fangyuan/p25/" rel="canonical">
+<meta name='keyword' content='租房'>
+<title>【杭州租房信息，房屋出租价格】-58安居客</title><meta name='description' content='杭州专业租房信息网站,每天更新全新的杭州租房信息、杭州个人房源,合租房源发布，为您提供精确，真实的杭州房屋出租信息，杭州租房最佳选择，58安居客让租房变得简单!'>
+    <meta name="baidu-site-verification" content="e8abd676df9f995bc969ac138b1c0f4d"/>
+    <meta name="sogou_site_verification" content="7rtgKfBjbl"/>
+    <meta name="360-site-verification" content="f7b8b308108b2c1c2de2825948822256" />
+    <meta name="google-site-verification" content="drkSj5A3WGSgkMXwzh6UfezwLEMsEXoQlMHL25oE1kA" />
+    <meta baidu-gxt-verify-token="9e7961d9a5d01603e5c2ae9bccffb9c2"/>
+    <meta name="shenma-site-verification" content="da9c53da88979ec98afae25b1ca3e43b" />
+    <link rel="stylesheet" rev="stylesheet" href="http://include.anjukestatic.com/anjuke-zu/res/20162706/b/Zufang_Web_Rent_List_List.css" type="text/css" />
+        <link rel="shortcut icon" href="http://pages.ajkcdn.com/site/img/global/1/favicon.ico" type="image/ico" />
+</head>
+<body>
+        <!-- START: 顶通广告 -->
+<div class="header-center">
+        </div>
+<!-- END: 顶通广告 -->
+
+<div class="topbar">
+    <div class="header-center clearfix">
+        <ul class="nav-site clearfix">
+                                    <li class="first" ><a href="http://hangzhou.anjuke.com/" _soj="navigation">首 页</a></li>
+                                    <li  ><a href="http://hz.fang.anjuke.com/" _soj="navigation">新 房</a></li>
+                                    <li  ><a href="http://hangzhou.anjuke.com/sale/" _soj="navigation">二手房</a></li>
+                                    <li  ><a href="http://hz.zu.anjuke.com/" _soj="navigation">租 房</a></li>
+                                    <li  ><a href="http://hz.xzl.anjuke.com/zu/" _soj="navigation">商铺写字楼</a></li>
+                                    <li  ><a href="http://haiwai.anjuke.com" _soj="navigation">海外地产</a></li>
+                                    <li  ><a href="http://hz.fang.anjuke.com/jinrong/" _soj="navigation">贷 款</a></li>
+                                    <li  ><a href="http://hangzhou.anjuke.com/market/" _soj="navigation">房 价</a></li>
+                                    <li  ><a href="http://hangzhou.anjuke.com/ask/" _soj="navigation">问 答</a></li>
+                                </ul>
+
+        <div id="userbox" class="user">
+            <!-- 经纪人登录 -->
+            <div class="brokerlogin userblock userblockfirst">
+                <a class="link" href="http://my.anjuke.com/user/broker/brokerhome/" rel="nofollow">经纪人登录</a>
+                <i class="triangle-down"></i>
+                <ul style="">
+                    <li><a href="http://my.anjuke.com/user/broker/brokerhome/" _soj="" rel="nofollow">中国网络经纪人</a></li>
+                    <li><a href="http://svip.fang.anjuke.com/login" _soj="" rel="nofollow">房易通</a></li>
+                    <li><a href="http://my.anjuke.com/fxb/" _soj="" rel="nofollow">新房分销平台</a></li>
+                </ul>
+            </div>
+
+            <!-- 用户登录 -->
+            <div class="userlogin userblock">
+                <i class="icon icon-people"></i>
+                <a class="link" href="http://user.anjuke.com/my/login?history=aHR0cDovL2h6Lnp1LmFuanVrZS5jb20vZmFuZ3l1YW4vcDI1Lw==" rel="nofollow">用户登录</a>
+                <a class="link" href="http://user.anjuke.com/register/" rel="nofollow">注册</a>
+                <i class="triangle-down"></i>
+            </div>
+
+            
+        </div>
+
+    </div>
+</div>
+<div class="header header-center clearfix">
+    <a class="logo" href="http://hangzhou.anjuke.com" title="安居客杭州房产网">安居客</a>
+    <a class="logo-site">租房</a>
+        <div class="cityselect">
+        <div id="switch_apf_id_5" class="city-view" >
+            杭州<i class="triangle-down"></i>
+        </div>
+        <div id="city_list" class="city-list" style="display:none;">
+                        <dl>
+                <dt>华北东北</dt>
+                <dd>
+                                        <a href="http://bj.zu.anjuke.com" title="北京租房网">北京</a>
+                                        <a href="http://tj.zu.anjuke.com" title="天津租房网">天津</a>
+                                        <a href="http://dl.zu.anjuke.com" title="大连租房网">大连</a>
+                                        <a href="http://sjz.zu.anjuke.com" title="石家庄租房网">石家庄</a>
+                                        <a href="http://heb.zu.anjuke.com" title="哈尔滨租房网">哈尔滨</a>
+                                        <a href="http://sy.zu.anjuke.com" title="沈阳租房网">沈阳</a>
+                                        <a href="http://ty.zu.anjuke.com" title="太原租房网">太原</a>
+                                        <a href="http://cc.zu.anjuke.com" title="长春租房网">长春</a>
+                                        <a href="http://wei.zu.anjuke.com" title="威海租房网">威海</a>
+                                        <a href="http://wf.zu.anjuke.com" title="潍坊租房网">潍坊</a>
+                                        <a href="http://hhht.zu.anjuke.com" title="呼和浩特租房网">呼和浩特</a>
+                                        <a href="http://bt.zu.anjuke.com" title="包头租房网">包头</a>
+                                    </dd>
+            </dl>
+                        <dl>
+                <dt>华东地区</dt>
+                <dd>
+                                        <a href="http://sh.zu.anjuke.com" title="上海租房网">上海</a>
+                                        <a href="http://hz.zu.anjuke.com" title="杭州租房网">杭州</a>
+                                        <a href="http://su.zu.anjuke.com" title="苏州租房网">苏州</a>
+                                        <a href="http://nj.zu.anjuke.com" title="南京租房网">南京</a>
+                                        <a href="http://wx.zu.anjuke.com" title="无锡租房网">无锡</a>
+                                        <a href="http://jn.zu.anjuke.com" title="济南租房网">济南</a>
+                                        <a href="http://qd.zu.anjuke.com" title="青岛租房网">青岛</a>
+                                        <a href="http://ks.zu.anjuke.com" title="昆山租房网">昆山</a>
+                                        <a href="http://nb.zu.anjuke.com" title="宁波租房网">宁波</a>
+                                        <a href="http://nc.zu.anjuke.com" title="南昌租房网">南昌</a>
+                                        <a href="http://fz.zu.anjuke.com" title="福州租房网">福州</a>
+                                        <a href="http://hf.zu.anjuke.com" title="合肥租房网">合肥</a>
+                                        <a href="http://xz.zu.anjuke.com" title="徐州租房网">徐州</a>
+                                        <a href="http://zb.zu.anjuke.com" title="淄博租房网">淄博</a>
+                                    </dd>
+            </dl>
+                        <dl>
+                <dt>华南地区</dt>
+                <dd>
+                                        <a href="http://sz.zu.anjuke.com" title="深圳租房网">深圳</a>
+                                        <a href="http://gz.zu.anjuke.com" title="广州租房网">广州</a>
+                                        <a href="http://fs.zu.anjuke.com" title="佛山租房网">佛山</a>
+                                        <a href="http://cs.zu.anjuke.com" title="长沙租房网">长沙</a>
+                                        <a href="http://san.zu.anjuke.com" title="三亚租房网">三亚</a>
+                                        <a href="http://hui.zu.anjuke.com" title="惠州租房网">惠州</a>
+                                        <a href="http://dg.zu.anjuke.com" title="东莞租房网">东莞</a>
+                                        <a href="http://hk.zu.anjuke.com" title="海口租房网">海口</a>
+                                        <a href="http://zh.zu.anjuke.com" title="珠海租房网">珠海</a>
+                                        <a href="http://zs.zu.anjuke.com" title="中山租房网">中山</a>
+                                        <a href="http://xm.zu.anjuke.com" title="厦门租房网">厦门</a>
+                                        <a href="http://nn.zu.anjuke.com" title="南宁租房网">南宁</a>
+                                        <a href="http://qz.zu.anjuke.com" title="泉州租房网">泉州</a>
+                                        <a href="http://lzh.zu.anjuke.com" title="柳州租房网">柳州</a>
+                                    </dd>
+            </dl>
+                        <dl>
+                <dt>中 西 部</dt>
+                <dd>
+                                        <a href="http://cd.zu.anjuke.com" title="成都租房网">成都</a>
+                                        <a href="http://cq.zu.anjuke.com" title="重庆租房网">重庆</a>
+                                        <a href="http://wh.zu.anjuke.com" title="武汉租房网">武汉</a>
+                                        <a href="http://zz.zu.anjuke.com" title="郑州租房网">郑州</a>
+                                        <a href="http://xa.zu.anjuke.com" title="西安租房网">西安</a>
+                                        <a href="http://km.zu.anjuke.com" title="昆明租房网">昆明</a>
+                                        <a href="http://gy.zu.anjuke.com" title="贵阳租房网">贵阳</a>
+                                        <a href="http://lz.zu.anjuke.com" title="兰州租房网">兰州</a>
+                                        <a href="http://ly.zu.anjuke.com" title="洛阳租房网">洛阳</a>
+                                    </dd>
+            </dl>
+                        <div class="morecity"><a href="http://www.anjuke.com/sy-city.html">更多城市&gt;</a></div>
+        </div>
+    </div>
+        <form class="search-form" id ="search-form" action="" target="_self"  method="GET">
+    <input type="hidden" name='t'value="1"/>
+    <input type="hidden" name="from" value="0"/>
+	<input type='hidden' name='comm_exist' value="on"/>
+	<input type="text" name="kw" class="searchbar-rent" id="search-rent" placeholder="请输入房源特征、地址、小区、楼盘名或…" autocomplete="off" maxlength="100" value=""><input type="submit" id="search-button" class="searchbar-button" hidefocus="true" value="搜索">
+	<i id="search-close" class="icon icon-close" data-tracker="delete-kw" style="display:none"></i>
+	        <a href="/ditu/?from=searchbar" rel="nofollow" class="search-map" target="_blank" _soj="searchbar"><i class="icon icon-mark"></i>地图找房</a>
+    </form>
+
+<script type="text/template" id="search-tpl">
+	<ul class="search-ul">
+		<%_.each(obj,function(item){%>
+			<li>
+				<span><%= item.keyword %></span><b>约<%= item.num %>套</b>
+			</li>
+		<%});%>
+	</ul>
+</script>
+
+    </div>
+
+<div class="nav header-center clearfix">
+    <ul>
+                                <li><a href="http://hz.zu.anjuke.com/" _soj="navigation" class=" current "  >区域找房</a></li>
+                                            <li><a href="http://hz.zu.anjuke.com/ditie/" _soj="navigation" class="  "  >地铁找房</a></li>
+                                            <li><a href="http://hz.zu.anjuke.com/ditu/" _soj="navigation" class="  " target="_blank" >地图找房</a></li>
+                                            <li><a href="http://hangzhou.anjuke.com/community/" _soj="navigation" class="  "  >小区</a></li>
+                        </ul>
+</div>
+
+
+    <!---->
+<div class="w1180">
+    <div class="breadcrumbs">
+
+                    <a href="http://i.anjuke.com/publish/" class="renthouse" target="_blank" _soj="i_zffy" rel="nofollow"><i class="icon icon-renthouse"></i>我要出租</a>
+                <div class="p_1180 p_crumbs">
+<a href="http://hangzhou.anjuke.com">安居客杭州</a> &gt; <a href="http://hz.zu.anjuke.com">杭州租房</a></div>
+  <!-- 面包屑组件 -->
+    </div>
+    <div class="div-border items-list">
+        <!-- 区域或地铁 begin-->
+                    <div class="items">
+                <span class="item-title">区域：</span><span class="elems-l">
+                                            <a href="http://hz.zu.anjuke.com/fangyuan/" class="selected-item">全部</a>
+                                            <a href="http://hz.zu.anjuke.com/fangyuan/xihu/" class="">西湖</a>
+                                            <a href="http://hz.zu.anjuke.com/fangyuan/jianggan/" class="">江干</a>
+                                            <a href="http://hz.zu.anjuke.com/fangyuan/xiacheng/" class="">下城</a>
+                                            <a href="http://hz.zu.anjuke.com/fangyuan/gongshu/" class="">拱墅</a>
+                                            <a href="http://hz.zu.anjuke.com/fangyuan/shangcheng/" class="">上城</a>
+                                            <a href="http://hz.zu.anjuke.com/fangyuan/xiaoshan/" class="">萧山</a>
+                                            <a href="http://hz.zu.anjuke.com/fangyuan/binjiangb/" class="">滨江</a>
+                                            <a href="http://hz.zu.anjuke.com/fangyuan/yuhang/" class="">余杭</a>
+                                            <a href="http://hz.zu.anjuke.com/fangyuan/linan/" class="">临安</a>
+                                            <a href="http://hz.zu.anjuke.com/fangyuan/fuyang/" class="">富阳</a>
+                                            <a href="http://hz.zu.anjuke.com/fangyuan/tonglu/" class="">桐庐</a>
+                                            <a href="http://hz.zu.anjuke.com/fangyuan/jiande/" class="">建德</a>
+                                            <a href="http://hz.zu.anjuke.com/fangyuan/chunan/" class="">淳安</a>
+                                                        </span>
+            </div>
+                <!-- 区域或地铁 end-->
+
+        <!--  步行 begin-->
+        
+        <!-- 租金 begin-->
+                    <div class="items ">
+                <span class="item-title">租金：</span>
+                <span class="elems-l">
+                                            <a href="http://hz.zu.anjuke.com/fangyuan/" class="selected-item" rel="nofollow">全部</a>
+                                            <a href="http://hz.zu.anjuke.com/fangyuan/zj61/" class="" rel="nofollow">500以下</a>
+                                            <a href="http://hz.zu.anjuke.com/fangyuan/zj62/" class="" rel="nofollow">500-800元</a>
+                                            <a href="http://hz.zu.anjuke.com/fangyuan/zj63/" class="" rel="nofollow">800-1000元</a>
+                                            <a href="http://hz.zu.anjuke.com/fangyuan/zj64/" class="" rel="nofollow">1000-1500元</a>
+                                            <a href="http://hz.zu.anjuke.com/fangyuan/zj65/" class="" rel="nofollow">1500-2000元</a>
+                                            <a href="http://hz.zu.anjuke.com/fangyuan/zj66/" class="" rel="nofollow">2000-3000元</a>
+                                            <a href="http://hz.zu.anjuke.com/fangyuan/zj67/" class="" rel="nofollow">3000-5000元</a>
+                                            <a href="http://hz.zu.anjuke.com/fangyuan/zj68/" class="" rel="nofollow">5000-8000元</a>
+                                            <a href="http://hz.zu.anjuke.com/fangyuan/zj568/" class="" rel="nofollow">8000以上</a>
+                                        <div class="pricecond">
+                        <!--两个输入框的长度width需要在加载时传入参数计算：数字长度小于等于3位时，width:24px\
+                            数字长度n大于3位时，width: 8*n px-->
+                        <form action="http://hz.zu.anjuke.com/fangyuan/p25/" id="price_range_form" onsubmit="">
+                            <input id="from-price" class="from-price" type="text" name="from_price" maxlength="5" autocomplete="off" value="" style="width:32px;" autocomplete="off"/> -
+                            <input id="to-price" class="to-price" type="text" name="to_price" maxlength="5" autocomplete="off" value="" style="width:32px;" autocomplete="off"/>&nbsp;<span class="">元</span>
+                            <input class="smit" id="pricerange_search" style="" type="button" value="确定">
+                        </form>
+                    </div>
+                </span>
+            </div>
+        
+        <!--  房型 begin-->
+                    <div class="items">
+                <span class="item-title">房型：</span>
+                    <span class="elems-l">
+                                            <a href="http://hz.zu.anjuke.com/fangyuan/" class="selected-item" rel="nofollow">全部</a>
+                                            <a href="http://hz.zu.anjuke.com/fangyuan/fx1/" class="" rel="nofollow">一室</a>
+                                            <a href="http://hz.zu.anjuke.com/fangyuan/fx2/" class="" rel="nofollow">二室</a>
+                                            <a href="http://hz.zu.anjuke.com/fangyuan/fx3/" class="" rel="nofollow">三室</a>
+                                            <a href="http://hz.zu.anjuke.com/fangyuan/fx4/" class="" rel="nofollow">四室</a>
+                                            <a href="http://hz.zu.anjuke.com/fangyuan/fx5/" class="" rel="nofollow">五室及以上</a>
+                                    </span>
+            </div>
+        
+        <!-- 房屋类型 begin -->
+        <div class="search_bottom clearfix">
+            <div id="condmenu">
+                <ul class="condul clearfix">
+                    <li class="condlist_tip"><span>更多筛选：</span></li>
+                    <li class="condibox">
+                        <a href="javascript:void(0);">
+                            <span class="select_item">
+                                <span class="txt" id="condhouseage_txt_id">房屋类型</span><span class="icon">&nbsp;</span>
+                            </span>
+                        </a>
+                        <ul>
+                                                                                        <li class=""><a href="http://hz.zu.anjuke.com/fangyuan/" rel="nofollow">全部</a></li>
+                                                            <li class=""><a href="http://hz.zu.anjuke.com/fangyuan/lx8/" rel="nofollow">普通住宅</a></li>
+                                                            <li class=""><a href="http://hz.zu.anjuke.com/fangyuan/lx1/" rel="nofollow">公寓</a></li>
+                                                            <li class=""><a href="http://hz.zu.anjuke.com/fangyuan/lx4/" rel="nofollow">别墅</a></li>
+                                                            <li class=""><a href="http://hz.zu.anjuke.com/fangyuan/lx6/" rel="nofollow">酒店公寓</a></li>
+                                                            <li class=""><a href="http://hz.zu.anjuke.com/fangyuan/lx11/" rel="nofollow">排屋</a></li>
+                                                            <li class=""><a href="http://hz.zu.anjuke.com/fangyuan/lx9/" rel="nofollow">平房</a></li>
+                                                            <li class=""><a href="http://hz.zu.anjuke.com/fangyuan/lx10/" rel="nofollow">商住两用</a></li>
+                                                            <li class=""><a href="http://hz.zu.anjuke.com/fangyuan/lx5/" rel="nofollow">其他</a></li>
+                                                    </ul>
+                    </li>
+                    <!--装修Begin-->
+                    <li class="condibox">
+                        <a href="javascript:void(0);">
+                            <span class="select_item">
+                                <span class="txt" id="condusetype_txt_id">装修</span><span class="icon">&nbsp;</span>
+                            </span>
+                        </a>
+                        <ul>
+                                                                                        <li class=""><a href="http://hz.zu.anjuke.com/fangyuan/" rel="nofollow">全部</a></li>
+                                                            <li class=""><a href="http://hz.zu.anjuke.com/fangyuan/zx30/" rel="nofollow">毛坯</a></li>
+                                                            <li class=""><a href="http://hz.zu.anjuke.com/fangyuan/zx31/" rel="nofollow">简单装修</a></li>
+                                                            <li class=""><a href="http://hz.zu.anjuke.com/fangyuan/zx123/" rel="nofollow">中等装修</a></li>
+                                                            <li class=""><a href="http://hz.zu.anjuke.com/fangyuan/zx32/" rel="nofollow">精装修</a></li>
+                                                            <li class=""><a href="http://hz.zu.anjuke.com/fangyuan/zx33/" rel="nofollow">豪华装修</a></li>
+                                                            <li class=""><a href="http://hz.zu.anjuke.com/fangyuan/zx34/" rel="nofollow">其他</a></li>
+                                                    </ul>
+                    </li>
+                    <!--装修End-->
+                                        <!--
+                    <li id="" class="filter_check " style="">
+                        <input type="checkbox"  href="javascript:" id="filter_is_nocommission_input"                                onclick="location.href='http://hz.zu.anjuke.com/fangyuan/nf1/'"><label for="filter_is_nocommission_input">无中介费</label>
+                    </li>
+                    -->
+                                            <li id="" class="filter_check" style="">
+                            <input type="checkbox" href="javascript:" id="filter_is_school_input"                                    onclick="location.href='http://hz.zu.anjuke.com/fangyuan/mt1/'"><label for="filter_is_school_input">地铁房</label>
+                        </li>
+                                        <li id="" class="filter_check">
+                        <input type="checkbox" href="javascript:" id="filter_is_metro_input"                                onclick="location.href='http://hz.zu.anjuke.com/fangyuan/x2/'"><label for="filter_is_metro_input">合租</label>
+                    </li>
+                    <!--合租勾选时将disabled属性去掉-->
+                    <li id="" class="filter_check check_grey">
+                        <input type="checkbox" href="javascript:" id="filter_is_toilet_input" disabled                                onclick="location.href='http://hz.zu.anjuke.com/fangyuan/de1/'"><label for="filter_is_toilet_input">独立卫生间</label>
+                    </li>
+                    <li id="" class="filter_check check_grey">
+                        <input type="checkbox" href="javascript:" id="filter_is_balcony_input" disabled                                onclick="location.href='http://hz.zu.anjuke.com/fangyuan/de3/'"><label for="filter_is_balcony_input">阳台</label>
+                    </li>
+                    <li id="" class="filter_check check_grey">
+                        <input type="checkbox" href="javascript:" id="filter_is_south_input" disabled                                onclick="location.href='http://hz.zu.anjuke.com/fangyuan/tw1/'"><label for="filter_is_south_input">朝南</label>
+                    </li>
+                    <!---->
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <!--主模块-->
+    <div class="maincontent">
+        <div class="list-content" id="list-content">
+            <!--标签-->
+            <div class="zu-tab">
+                                <a href="http://hz.zu.anjuke.com/fangyuan/" class="curTab">全部
+                </a><a href="http://hz.zu.anjuke.com/fangyuan/l2/" class="lastTab">个人房源
+                </a><a href="http://hz.zu.anjuke.com/fangyuan/l1/" class="lastTab">经纪人房源</a>
+                                <a href="http://hz.zu.anjuke.com/fangyuan/l3/" class="lastTab tab-ppgy" _soj="ajkp_zf_list_ppgy_fy_hp&logofrom=anjuke">品牌公寓</a>
+                                <a href="http://hz.58.com/zufang/" class="link58" rel="nofollow" target="_blank">58优质房源</a>
+                <a href="http://www.ganji.com/fang1/a1/?from=anjuke_pc_rent_tab&autot=1 " class="link58" rel="nofollow" target="_blank">赶集个人房源</a>
+            </div>
+            <!--排序-->
+                        <div class="zu-sort">
+                <span class="tit">为您找到以下<em>杭州</em>租房</span>
+                <div class="sort-cond">
+                    <span>排序 ：</span><a href="http://hz.zu.anjuke.com/fangyuan/p25/" class="light">默认
+                    </a><a href="http://hz.zu.anjuke.com/fangyuan/px7/" class="">租金<i class="icon icon-arrup"></i>
+                    </a><a href="http://hz.zu.anjuke.com/fangyuan/px3/" class="">最新<i class="icon icon-arrdown"></i></a>
+                    <!--icon-arrup-org icon-arrdown-org为高亮箭头-->
+                </div>
+            </div>
+    
+            <!--个人房源或品牌公寓广告模块-->
+                                                            <a href="http://hz.zu.anjuke.com/fangyuan/l2/?from=listad" title="100%个人房源" class="zu-list-geren">
+                    <img class="pho" alt="100个人房源" src="http://pages.ajkcdn.com/site/img/global/2/geren_list_ad.jpg" width="273" height="100">
+                    <div class="info">
+                        <p class="title">个人房源</p>
+                        <p class="txt">杭州共有待租房源 <span>12328</span> 套</p>
+                        <i class="btn">查看所有房源</i>
+                    </div>
+                    <ul class="pho-text">
+                        <li><i class="icon icon-personal"></i>个人房源</li>
+                        <li><i class="icon icon-free"></i>无中介费</li>
+                    </ul>
+                </a>
+                            
+            <!--置顶房源-->
+            
+            <!--房源列表豆腐块-->
+            <!--区域板块租房房源列表页-->
+                            
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1008055757" _soj="Filter_1">
+                        <a data-company="我爱我家" class="img" _soj="Filter_1" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1008055757" title="建兰余党快来看一看啦，三房自住装修带车位，学校步行三望江" alt="建兰余党快来看一看啦，三房自住装修带车位，学校步行三望江" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://a.pic1.ajkimg.com/display/hj/0db133e97125f52997f7d464a65cc6b7/240x180n.jpg" alt="建兰余党快来看一看啦，三房自住装修带车位，学校步行三望江" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="建兰余党快来看一看啦，三房自住装修带车位，学校步行三望江" _soj="Filter_1" href="http://hz.zu.anjuke.com/fangyuan/1008055757">建兰余党快来看一看啦，三房自住装修带车位，学校步行三望江</a><span class="green">多图</span></h3>
+                            <p class="tag">3室1厅<span>|</span>整租<span>|</span>精装修<span>|</span>4/7层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/219865">
+                                        金狮苑                                    </a>
+                                                                        ［上城-望江 望江路121号］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>汤超武</span><em></em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>4200</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1009144277" _soj="Filter_2">
+                        <a data-company="我爱我家" class="img" _soj="Filter_2" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1009144277" title="欧式精装 东方魅力附近 武林路 杭州大厦 西湖文化广场" alt="欧式精装 东方魅力附近 武林路 杭州大厦 西湖文化广场" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://b.pic1.ajkimg.com/display/hj/a2e507422170dbba94f5ab2f8863fd9e/240x180n.jpg" alt="欧式精装 东方魅力附近 武林路 杭州大厦 西湖文化广场" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="欧式精装 东方魅力附近 武林路 杭州大厦 西湖文化广场" _soj="Filter_2" href="http://hz.zu.anjuke.com/fangyuan/1009144277">欧式精装 东方魅力附近 武林路 杭州大厦 西湖文化广场</a><span class="green">多图</span></h3>
+                            <p class="tag">1室1厅<span>|</span>整租<span>|</span>豪华装修<span>|</span>3/7层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/160827">
+                                        环西新村                                    </a>
+                                                                        ［下城-武林 环城西路和省府路交叉］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>胡悦峰</span><em>地铁房</em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>3688</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1007805653" _soj="Filter_3">
+                        <a data-company="21世纪不动产" class="img" _soj="Filter_3" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1007805653" title="金地天逸 滨康地铁口 高档小区 装修不错的 随时可以看房" alt="金地天逸 滨康地铁口 高档小区 装修不错的 随时可以看房" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://b.pic1.ajkimg.com/display/hj/e50428f2779204b7819f6b82ee173519/240x180n.jpg" alt="金地天逸 滨康地铁口 高档小区 装修不错的 随时可以看房" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="金地天逸 滨康地铁口 高档小区 装修不错的 随时可以看房" _soj="Filter_3" href="http://hz.zu.anjuke.com/fangyuan/1007805653">金地天逸 滨康地铁口 高档小区 装修不错的 随时可以看房</a><span class="green">多图</span></h3>
+                            <p class="tag">3室2厅<span>|</span>整租<span>|</span>精装修<span>|</span>12/24层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/369902">
+                                        金地天逸                                    </a>
+                                                                        ［萧山-城厢 金城路与风情大道交叉口，1号线滨康站正对面］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>孙海妮</span><em>地铁房</em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>5200</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1007301050" _soj="Filter_4">
+                        <a data-company="都市房网" class="img" _soj="Filter_4" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1007301050" title="大关南苑+婚房精装+视野开阔+全明户型+及其适合居家" alt="大关南苑+婚房精装+视野开阔+全明户型+及其适合居家" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://a.pic1.ajkimg.com/display/hj/8589c24e7b22ceb368864267c7fe9bff/240x180n.jpg" alt="大关南苑+婚房精装+视野开阔+全明户型+及其适合居家" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="大关南苑+婚房精装+视野开阔+全明户型+及其适合居家" _soj="Filter_4" href="http://hz.zu.anjuke.com/fangyuan/1007301050">大关南苑+婚房精装+视野开阔+全明户型+及其适合居家</a><span class="green">多图</span></h3>
+                            <p class="tag">2室2厅<span>|</span>整租<span>|</span>精装修<span>|</span>3/7层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/160046">
+                                        大关南三苑                                    </a>
+                                                                        ［拱墅-香积寺路 拱墅香苑路与胜利闸路交叉口 ］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>刘家一</span><em></em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>2800</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1008505447" _soj="Filter_5">
+                        <a data-company="我爱我家" class="img" _soj="Filter_5" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1008505447" title="国际花园EAC 世贸丽晶城 靠黄龙优质 舒心的单身公寓" alt="国际花园EAC 世贸丽晶城 靠黄龙优质 舒心的单身公寓" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://b.pic1.ajkimg.com/display/hj/e644fa1984db5e5a4974b1cdaaad98f1/240x180n.jpg" alt="国际花园EAC 世贸丽晶城 靠黄龙优质 舒心的单身公寓" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="国际花园EAC 世贸丽晶城 靠黄龙优质 舒心的单身公寓" _soj="Filter_5" href="http://hz.zu.anjuke.com/fangyuan/1008505447">国际花园EAC 世贸丽晶城 靠黄龙优质 舒心的单身公寓</a><span class="green">多图</span></h3>
+                            <p class="tag">4室2厅<span>|</span>整租<span>|</span>中等装修<span>|</span>13/28层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/160945">
+                                        国际花园                                    </a>
+                                                                        ［西湖-黄龙 天目山路160号 天目山路教工路口］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>王杰文</span><em></em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>1700</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1009568641" _soj="Filter_6">
+                        <a data-company="豪世华邦租赁" class="img" _soj="Filter_6" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1009568641" title="学生月付上城区大学路新村3房清爽装修稀缺房源家电齐全随时看房" alt="学生月付上城区大学路新村3房清爽装修稀缺房源家电齐全随时看房" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://b.pic1.ajkimg.com/display/hj/5dd9cd9091a707242d6da15d7e4230df/240x180n.jpg" alt="学生月付上城区大学路新村3房清爽装修稀缺房源家电齐全随时看房" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="学生月付上城区大学路新村3房清爽装修稀缺房源家电齐全随时看房" _soj="Filter_6" href="http://hz.zu.anjuke.com/fangyuan/1009568641">学生月付上城区大学路新村3房清爽装修稀缺房源家电齐全随时看房</a><span class="green">多图</span></h3>
+                            <p class="tag">3室1厅<span>|</span>整租<span>|</span>中等装修<span>|</span>3/7层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/160766">
+                                        大学路新村                                    </a>
+                                                                        ［上城-小营 大学路与大河下交叉口］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>林茜</span><em></em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>4500</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1009045714" _soj="Filter_7">
+                        <a data-company="Q房网" class="img" _soj="Filter_7" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1009045714" title="精装五房，优质房，房源不多，仅这一套，手快有手慢无。" alt="精装五房，优质房，房源不多，仅这一套，手快有手慢无。" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://d.pic1.ajkimg.com/display/hj/302e8846ab4eb5a98887995e143f80e7/240x180n.jpg" alt="精装五房，优质房，房源不多，仅这一套，手快有手慢无。" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="精装五房，优质房，房源不多，仅这一套，手快有手慢无。" _soj="Filter_7" href="http://hz.zu.anjuke.com/fangyuan/1009045714">精装五房，优质房，房源不多，仅这一套，手快有手慢无。</a><span class="green">多图</span></h3>
+                            <p class="tag">5室2厅<span>|</span>整租<span>|</span>精装修<span>|</span>29/34层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/224144">
+                                        保利东湾                                    </a>
+                                                                        ［江干-下沙 下沙沿江大道（20号大街与23号大街交汇处南面）］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>杨瑞可</span><em></em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>4500</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1008921325" _soj="Filter_8">
+                        <a data-company="独立经纪人" class="img" _soj="Filter_8" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1008921325" title="1号线西兴地铁口。燕语林森。拎包入住，干净整洁，交通便利" alt="1号线西兴地铁口。燕语林森。拎包入住，干净整洁，交通便利" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://a.pic1.ajkimg.com/display/hj/4f23fb942dadc56e439e0ba710216947/240x180n.jpg" alt="1号线西兴地铁口。燕语林森。拎包入住，干净整洁，交通便利" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="1号线西兴地铁口。燕语林森。拎包入住，干净整洁，交通便利" _soj="Filter_8" href="http://hz.zu.anjuke.com/fangyuan/1008921325">1号线西兴地铁口。燕语林森。拎包入住，干净整洁，交通便利</a><span class="green">多图</span></h3>
+                            <p class="tag">1室1厅<span>|</span>整租<span>|</span>简单装修<span>|</span>2/6层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/161182">
+                                        燕语林森                                    </a>
+                                                                        ［滨江-西兴 滨安路150-178号］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>张坤林</span><em>地铁房</em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>800</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1009480932" _soj="Filter_9">
+                        <a data-company="我爱我家" class="img" _soj="Filter_9" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1009480932" title="翰林花园 菜市桥公交站 建国中路 浙一 浙二医院" alt="翰林花园 菜市桥公交站 建国中路 浙一 浙二医院" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://b.pic1.ajkimg.com/display/hj/9f30b53fd79b148ef637ff49951cdb29/240x180n.jpg" alt="翰林花园 菜市桥公交站 建国中路 浙一 浙二医院" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="翰林花园 菜市桥公交站 建国中路 浙一 浙二医院" _soj="Filter_9" href="http://hz.zu.anjuke.com/fangyuan/1009480932">翰林花园 菜市桥公交站 建国中路 浙一 浙二医院</a><span class="green">多图</span></h3>
+                            <p class="tag">2室1厅<span>|</span>整租<span>|</span>精装修<span>|</span>2/7层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/160520">
+                                        翰林花园                                    </a>
+                                                                        ［上城-小营 环城东路108号］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>陈兵</span><em></em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>3300</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1006750259" _soj="Filter_10">
+                        <a data-company="我爱我家" class="img" _soj="Filter_10" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1006750259" title="没房子了 没有这样你喜欢的房子了 亲们不要再错过了" alt="没房子了 没有这样你喜欢的房子了 亲们不要再错过了" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://b.pic1.ajkimg.com/display/hj/5592fdecfa16e998ceeec7b67ffe8239/240x180n.jpg" alt="没房子了 没有这样你喜欢的房子了 亲们不要再错过了" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="没房子了 没有这样你喜欢的房子了 亲们不要再错过了" _soj="Filter_10" href="http://hz.zu.anjuke.com/fangyuan/1006750259">没房子了 没有这样你喜欢的房子了 亲们不要再错过了</a><span class="green">多图</span></h3>
+                            <p class="tag">2室2厅<span>|</span>整租<span>|</span>精装修<span>|</span>6/18层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/209580">
+                                        定海东苑                                    </a>
+                                                                        ［拱墅-拱宸桥 永庆路99-133］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>董隆翔</span><em></em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>2550</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1009122802" _soj="Filter_11">
+                        <a data-company="21世纪美园" class="img" _soj="Filter_11" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1009122802" title="新房出租，带地暖，装修温馨，配置全齐，适合两口之家和情侣居住" alt="新房出租，带地暖，装修温馨，配置全齐，适合两口之家和情侣居住" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://a.pic1.ajkimg.com/display/hj/d97a3302f99aa0f9f945c3ec5baa9591/240x180n.jpg" alt="新房出租，带地暖，装修温馨，配置全齐，适合两口之家和情侣居住" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="新房出租，带地暖，装修温馨，配置全齐，适合两口之家和情侣居住" _soj="Filter_11" href="http://hz.zu.anjuke.com/fangyuan/1009122802">新房出租，带地暖，装修温馨，配置全齐，适合两口之家和情侣居住</a><span class="green">多图</span></h3>
+                            <p class="tag">2室1厅<span>|</span>整租<span>|</span>精装修<span>|</span>10/33层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/486928">
+                                        海天城                                    </a>
+                                                                        ［江干-下沙 10号大街与27号大街交接口］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>汪海龙</span><em>地铁房</em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>3200</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1008762343" _soj="Filter_12">
+                        <a data-company="我爱我家" class="img" _soj="Filter_12" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1008762343" title="三墩金地自在城 精装全配 酒店式公寓 管道煤气峰谷电带阳台" alt="三墩金地自在城 精装全配 酒店式公寓 管道煤气峰谷电带阳台" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://d.pic1.ajkimg.com/display/hj/70fdfbec1db0614672dd79889ea4c6e6/240x180n.jpg" alt="三墩金地自在城 精装全配 酒店式公寓 管道煤气峰谷电带阳台" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="三墩金地自在城 精装全配 酒店式公寓 管道煤气峰谷电带阳台" _soj="Filter_12" href="http://hz.zu.anjuke.com/fangyuan/1008762343">三墩金地自在城 精装全配 酒店式公寓 管道煤气峰谷电带阳台</a><span class="green">多图</span></h3>
+                            <p class="tag">1室1厅<span>|</span>整租<span>|</span>精装修<span>|</span>5/26层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/193851">
+                                        金地自在城                                    </a>
+                                                                        ［西湖-三墩 金渡北路（东至通济路，南至金渡北路）］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>赵晓霞</span><em></em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>2000</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1009688944" _soj="Filter_13">
+                        <a data-company="我爱我家" class="img" _soj="Filter_13" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1009688944" title="建工新村 两房等大 合租好房 东部软件园附近 家电齐全" alt="建工新村 两房等大 合租好房 东部软件园附近 家电齐全" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://a.pic1.ajkimg.com/display/hj/047c59767e3abdd60d98c5d6c3a6ed03/240x180n.jpg" alt="建工新村 两房等大 合租好房 东部软件园附近 家电齐全" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="建工新村 两房等大 合租好房 东部软件园附近 家电齐全" _soj="Filter_13" href="http://hz.zu.anjuke.com/fangyuan/1009688944">建工新村 两房等大 合租好房 东部软件园附近 家电齐全</a><span class="green">多图</span></h3>
+                            <p class="tag">2室1厅<span>|</span>整租<span>|</span>精装修<span>|</span>2/5层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/187402">
+                                        建工新村                                    </a>
+                                                                        ［西湖-文二路 文二路建工新村 ］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>杨汉敏</span><em></em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>2800</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1007776658" _soj="Filter_14">
+                        <a data-company="豪世华邦租赁" class="img" _soj="Filter_14" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1007776658" title="翠苑三区 翠苑二区 精装量房 一家人首选！ 诚心出拎包入住" alt="翠苑三区 翠苑二区 精装量房 一家人首选！ 诚心出拎包入住" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://d.pic1.ajkimg.com/display/hj/35b4040ad8d2d0c3a5131f8a0b896b64/240x180n.jpg" alt="翠苑三区 翠苑二区 精装量房 一家人首选！ 诚心出拎包入住" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="翠苑三区 翠苑二区 精装量房 一家人首选！ 诚心出拎包入住" _soj="Filter_14" href="http://hz.zu.anjuke.com/fangyuan/1007776658">翠苑三区 翠苑二区 精装量房 一家人首选！ 诚心出拎包入住</a><span class="green">多图</span><span class="red">主推</span></h3>
+                            <p class="tag">2室1厅<span>|</span>整租<span>|</span>精装修<span>|</span>4/7层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/160935">
+                                        翠苑一区                                    </a>
+                                                                        ［西湖-翠苑 文一路和学院路交叉处］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>高江华</span><em></em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>3200</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1007336512" _soj="Filter_15">
+                        <a data-company="我爱我家" class="img" _soj="Filter_15" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1007336512" title="西溪中海西溪华府 3室2厅89平米 精装修 家电齐全随时入住" alt="西溪中海西溪华府 3室2厅89平米 精装修 家电齐全随时入住" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://b.pic1.ajkimg.com/display/hj/a8c2db35125bee5f69bf10389e2c271f/240x180n.jpg" alt="西溪中海西溪华府 3室2厅89平米 精装修 家电齐全随时入住" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="西溪中海西溪华府 3室2厅89平米 精装修 家电齐全随时入住" _soj="Filter_15" href="http://hz.zu.anjuke.com/fangyuan/1007336512">西溪中海西溪华府 3室2厅89平米 精装修 家电齐全随时入住</a><span class="green">多图</span></h3>
+                            <p class="tag">3室2厅<span>|</span>整租<span>|</span>精装修<span>|</span>4/11层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/584452">
+                                        中海西溪华府                                    </a>
+                                                                        ［西湖-古墩路 文一西路与崇义路交叉口］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>牛龙飞</span><em></em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>4000</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1009199835" _soj="Filter_16">
+                        <a data-company="口碑吉家" class="img" _soj="Filter_16" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1009199835" title="高端小区跃三层，豪华装修带电梯，全明户型东边套首次出租" alt="高端小区跃三层，豪华装修带电梯，全明户型东边套首次出租" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://b.pic1.ajkimg.com/display/hj/9b6c08e0431aa8f680dc2c0d0e602f30/240x180n.jpg" alt="高端小区跃三层，豪华装修带电梯，全明户型东边套首次出租" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="高端小区跃三层，豪华装修带电梯，全明户型东边套首次出租" _soj="Filter_16" href="http://hz.zu.anjuke.com/fangyuan/1009199835">高端小区跃三层，豪华装修带电梯，全明户型东边套首次出租</a><span class="green">多图</span></h3>
+                            <p class="tag">6室3厅<span>|</span>整租<span>|</span>精装修<span>|</span>11/16层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/160629">
+                                        紫桂花园                                    </a>
+                                                                        ［西湖-文二西路 文二西路268 ］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>邢荣亮</span><em></em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>8000</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1008895130" _soj="Filter_17">
+                        <a data-company="我爱我家" class="img" _soj="Filter_17" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1008895130" title="艾肯精装一房 地铁口 拎包入住有钥匙" alt="艾肯精装一房 地铁口 拎包入住有钥匙" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://b.pic1.ajkimg.com/display/hj/ecdfb5411f19649d43bb8c741ef71080/240x180n.jpg" alt="艾肯精装一房 地铁口 拎包入住有钥匙" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="艾肯精装一房 地铁口 拎包入住有钥匙" _soj="Filter_17" href="http://hz.zu.anjuke.com/fangyuan/1008895130">艾肯精装一房 地铁口 拎包入住有钥匙</a><span class="green">多图</span></h3>
+                            <p class="tag">1室1厅<span>|</span>整租<span>|</span>精装修<span>|</span>9/30层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/315335">
+                                        艾肯金座                                    </a>
+                                                                        ［江干-下沙 学临街文泽路口］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>杨洋</span><em></em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>2100</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1008475442" _soj="Filter_18">
+                        <a data-company="我爱我家" class="img" _soj="Filter_18" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1008475442" title="大马弄 勤远里 十五奎巷 太庙广场 第四医院 鼓楼美食街紫阳" alt="大马弄 勤远里 十五奎巷 太庙广场 第四医院 鼓楼美食街紫阳" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://b.pic1.ajkimg.com/display/hj/e685153e1831f91df3f02b88b6dba189/240x180n.jpg" alt="大马弄 勤远里 十五奎巷 太庙广场 第四医院 鼓楼美食街紫阳" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="大马弄 勤远里 十五奎巷 太庙广场 第四医院 鼓楼美食街紫阳" _soj="Filter_18" href="http://hz.zu.anjuke.com/fangyuan/1008475442">大马弄 勤远里 十五奎巷 太庙广场 第四医院 鼓楼美食街紫阳</a><span class="green">多图</span></h3>
+                            <p class="tag">1室1厅<span>|</span>整租<span>|</span>精装修<span>|</span>3/7层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/217697">
+                                        大马弄小区                                    </a>
+                                                                        ［上城-望江 大马弄］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>丁浩亮</span><em></em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>2000</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1009402702" _soj="Filter_19">
+                        <a data-company="我爱我家" class="img" _soj="Filter_19" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1009402702" title=" 精装全配 拎包入住 押一付一 房东诚心出租" alt=" 精装全配 拎包入住 押一付一 房东诚心出租" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://a.pic1.ajkimg.com/display/hj/0fb09e801870674b24547eab49190dad/240x180n.jpg" alt=" 精装全配 拎包入住 押一付一 房东诚心出租" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title=" 精装全配 拎包入住 押一付一 房东诚心出租" _soj="Filter_19" href="http://hz.zu.anjuke.com/fangyuan/1009402702"> 精装全配 拎包入住 押一付一 房东诚心出租</a><span class="green">多图</span></h3>
+                            <p class="tag">3室1厅<span>|</span>整租<span>|</span>中等装修<span>|</span>18/26层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/193851">
+                                        金地自在城                                    </a>
+                                                                        ［西湖-三墩 金渡北路（东至通济路，南至金渡北路）］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>杨雪芝</span><em></em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>3000</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1009058605" _soj="Filter_20">
+                        <a data-company="都市房网" class="img" _soj="Filter_20" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1009058605" title="学生月付，西兴地铁口，房东自住精装三房，随时看房，拎包入住" alt="学生月付，西兴地铁口，房东自住精装三房，随时看房，拎包入住" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://a.pic1.ajkimg.com/display/hj/4ec7f2691db6a6bce4783ca4020d034b/240x180n.jpg" alt="学生月付，西兴地铁口，房东自住精装三房，随时看房，拎包入住" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="学生月付，西兴地铁口，房东自住精装三房，随时看房，拎包入住" _soj="Filter_20" href="http://hz.zu.anjuke.com/fangyuan/1009058605">学生月付，西兴地铁口，房东自住精装三房，随时看房，拎包入住</a><span class="green">多图</span></h3>
+                            <p class="tag">3室1厅<span>|</span>整租<span>|</span>豪华装修<span>|</span>10/18层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/160079">
+                                        铁岭花园                                    </a>
+                                                                        ［滨江-中兴 滨江江陵路与滨安路交叉口 ］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>潘劲屹</span><em>地铁房</em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>4500</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1008816279" _soj="Filter_21">
+                        <a data-company="独立经纪人" class="img" _soj="Filter_21" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1008816279" title="笕桥花园可月付装修清爽独立一室有宽带采光通透" alt="笕桥花园可月付装修清爽独立一室有宽带采光通透" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://a.pic1.ajkimg.com/display/hj/4f7fee909af7d4d29c384aeb977dfea5/240x180n.jpg" alt="笕桥花园可月付装修清爽独立一室有宽带采光通透" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="笕桥花园可月付装修清爽独立一室有宽带采光通透" _soj="Filter_21" href="http://hz.zu.anjuke.com/fangyuan/1008816279">笕桥花园可月付装修清爽独立一室有宽带采光通透</a><span class="green">多图</span></h3>
+                            <p class="tag">1室0厅<span>|</span>整租<span>|</span>简单装修<span>|</span>2/6层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/160242">
+                                        笕桥花苑                                    </a>
+                                                                        ［江干-笕桥 机场路352号］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>许国玉</span><em></em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>600</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1007781576" _soj="Filter_22">
+                        <a data-company="我爱我家" class="img" _soj="Filter_22" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1007781576" title="马市街好房,南北通透,房东诚心出租" alt="马市街好房,南北通透,房东诚心出租" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://d.pic1.ajkimg.com/display/hj/cf068ea139f5876944a8771854ee02ef/240x180n.jpg" alt="马市街好房,南北通透,房东诚心出租" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="马市街好房,南北通透,房东诚心出租" _soj="Filter_22" href="http://hz.zu.anjuke.com/fangyuan/1007781576">马市街好房,南北通透,房东诚心出租</a><span class="green">多图</span></h3>
+                            <p class="tag">2室1厅<span>|</span>整租<span>|</span>精装修<span>|</span>4/6层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/498704">
+                                        马市街                                    </a>
+                                                                        ［上城-小营 马市街］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>陈俊杰</span><em></em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>2650</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1009525370" _soj="Filter_23">
+                        <a data-company="我爱我家" class="img" _soj="Filter_23" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1009525370" title="朝晖 河东路美食一条街 地铁房 朝晖三区 配套齐全 拎包入住" alt="朝晖 河东路美食一条街 地铁房 朝晖三区 配套齐全 拎包入住" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://b.pic1.ajkimg.com/display/hj/9c96d38b213b0b93b959009ca824ba93/240x180n.jpg" alt="朝晖 河东路美食一条街 地铁房 朝晖三区 配套齐全 拎包入住" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="朝晖 河东路美食一条街 地铁房 朝晖三区 配套齐全 拎包入住" _soj="Filter_23" href="http://hz.zu.anjuke.com/fangyuan/1009525370">朝晖 河东路美食一条街 地铁房 朝晖三区 配套齐全 拎包入住</a><span class="green">多图</span></h3>
+                            <p class="tag">2室1厅<span>|</span>整租<span>|</span>中等装修<span>|</span>3/6层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/160765">
+                                        朝晖三区                                    </a>
+                                                                        ［下城-朝晖 新市街与河东路交叉口］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>周在建</span><em>地铁房</em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>3500</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1008823675" _soj="Filter_24">
+                        <a data-company="爱上租" class="img" _soj="Filter_24" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1008823675" title="新小区，全新装修，现代风格，温馨拎包入住，居家合租首选" alt="新小区，全新装修，现代风格，温馨拎包入住，居家合租首选" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://c.pic1.ajkimg.com/display/hj/fe162c46588b9b6b898d06b9145988bc/240x180n.jpg" alt="新小区，全新装修，现代风格，温馨拎包入住，居家合租首选" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="新小区，全新装修，现代风格，温馨拎包入住，居家合租首选" _soj="Filter_24" href="http://hz.zu.anjuke.com/fangyuan/1008823675">新小区，全新装修，现代风格，温馨拎包入住，居家合租首选</a><span class="green">多图</span></h3>
+                            <p class="tag">2室2厅<span>|</span>整租<span>|</span>精装修<span>|</span>15/20层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/781708">
+                                        新德佳苑                                    </a>
+                                                                        ［下城-德胜 东新路与德胜高架交叉口］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>焦成成</span><em></em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>4200</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1007937525" _soj="Filter_25">
+                        <a data-company="独立经纪人" class="img" _soj="Filter_25" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1007937525" title="浦沿 滨文中心站 滨文路与明志路交叉口，滨文苑，户型好拎包住" alt="浦沿 滨文中心站 滨文路与明志路交叉口，滨文苑，户型好拎包住" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://b.pic1.ajkimg.com/display/hj/19ff8777eebf2a48671d3b616f828741/240x180n.jpg" alt="浦沿 滨文中心站 滨文路与明志路交叉口，滨文苑，户型好拎包住" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="浦沿 滨文中心站 滨文路与明志路交叉口，滨文苑，户型好拎包住" _soj="Filter_25" href="http://hz.zu.anjuke.com/fangyuan/1007937525">浦沿 滨文中心站 滨文路与明志路交叉口，滨文苑，户型好拎包住</a><span class="green">多图</span></h3>
+                            <p class="tag">1室1厅<span>|</span>整租<span>|</span>简单装修<span>|</span>3/6层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/171723">
+                                        滨文苑                                    </a>
+                                                                        ［滨江-浦沿 滨文中心站  滨文路与明志路交叉口］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>钱福艳</span><em></em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>800</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1009131240" _soj="Filter_26">
+                        <a data-company="爱上租" class="img" _soj="Filter_26" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1009131240" title="毕业季免押金 国都公寓附近,儿保医院附近,房子装修不错" alt="毕业季免押金 国都公寓附近,儿保医院附近,房子装修不错" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://a.pic1.ajkimg.com/display/hj/43fb8c2567063b1242ce640ca896e166/240x180n.jpg" alt="毕业季免押金 国都公寓附近,儿保医院附近,房子装修不错" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="毕业季免押金 国都公寓附近,儿保医院附近,房子装修不错" _soj="Filter_26" href="http://hz.zu.anjuke.com/fangyuan/1009131240">毕业季免押金 国都公寓附近,儿保医院附近,房子装修不错</a><span class="green">多图</span></h3>
+                            <p class="tag">2室1厅<span>|</span>整租<span>|</span>豪华装修<span>|</span>4/7层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/161154">
+                                        国都公寓                                    </a>
+                                                                        ［下城-孩儿巷 凤起路361号］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>汪健</span><em>地铁房</em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>3500</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1008993891" _soj="Filter_27">
+                        <a data-company="我爱我家" class="img" _soj="Filter_27" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1008993891" title="[我爱我傢]钱塘江边 四季青周边 地铁边上 拎包入住 温馨" alt="[我爱我傢]钱塘江边 四季青周边 地铁边上 拎包入住 温馨" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://c.pic1.ajkimg.com/display/hj/29fa1b475741a39b332d902fb6111a05/240x180n.jpg" alt="[我爱我傢]钱塘江边 四季青周边 地铁边上 拎包入住 温馨" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="[我爱我傢]钱塘江边 四季青周边 地铁边上 拎包入住 温馨" _soj="Filter_27" href="http://hz.zu.anjuke.com/fangyuan/1008993891">[我爱我傢]钱塘江边 四季青周边 地铁边上 拎包入住 温馨</a><span class="green">多图</span></h3>
+                            <p class="tag">1室1厅<span>|</span>整租<span>|</span>精装修<span>|</span>16/33层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/178249">
+                                        景江城市花园                                    </a>
+                                                                        ［上城-近江 上城富春路199号］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>葛晓雅</span><em>地铁房</em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>2500</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1008325397" _soj="Filter_28">
+                        <a data-company="我爱我家" class="img" _soj="Filter_28" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1008325397" title="浙江工业大学，朝晖六区，标准精装两房，诚信出租，居家首选" alt="浙江工业大学，朝晖六区，标准精装两房，诚信出租，居家首选" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://b.pic1.ajkimg.com/display/hj/5a65e9d1a992a56b862349711a53a135/240x180n.jpg" alt="浙江工业大学，朝晖六区，标准精装两房，诚信出租，居家首选" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="浙江工业大学，朝晖六区，标准精装两房，诚信出租，居家首选" _soj="Filter_28" href="http://hz.zu.anjuke.com/fangyuan/1008325397">浙江工业大学，朝晖六区，标准精装两房，诚信出租，居家首选</a><span class="green">多图</span></h3>
+                            <p class="tag">2室1厅<span>|</span>整租<span>|</span>精装修<span>|</span>3/6层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/161051">
+                                        德胜新村                                    </a>
+                                                                        ［下城-德胜 德胜路255号］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>胡军</span><em></em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>2700</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1007820893" _soj="Filter_29">
+                        <a data-company="公众房网" class="img" _soj="Filter_29" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1007820893" title="金城路 君悦丽景精装1房出租，有钥匙 随时看房 距地铁口近" alt="金城路 君悦丽景精装1房出租，有钥匙 随时看房 距地铁口近" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://a.pic1.ajkimg.com/display/hj/0cc172d0e0d1dee56f0b4d364cec2d75/240x180n.jpg" alt="金城路 君悦丽景精装1房出租，有钥匙 随时看房 距地铁口近" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="金城路 君悦丽景精装1房出租，有钥匙 随时看房 距地铁口近" _soj="Filter_29" href="http://hz.zu.anjuke.com/fangyuan/1007820893">金城路 君悦丽景精装1房出租，有钥匙 随时看房 距地铁口近</a><span class="green">多图</span></h3>
+                            <p class="tag">1室1厅<span>|</span>整租<span>|</span>精装修<span>|</span>10/25层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/201741">
+                                        君悦丽景                                    </a>
+                                                                        ［萧山-北干 金城路以西和风情大道交汇处］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>周辉武</span><em>地铁房</em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>2000</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1006887467" _soj="Filter_30">
+                        <a data-company="我爱我家" class="img" _soj="Filter_30" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1006887467" title="庆春路 浙一医院 清爽房源 房东自住 稀缺房源" alt="庆春路 浙一医院 清爽房源 房东自住 稀缺房源" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://b.pic1.ajkimg.com/display/hj/e7fd50968907c4d25b3a7053ee328b47/240x180n.jpg" alt="庆春路 浙一医院 清爽房源 房东自住 稀缺房源" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="庆春路 浙一医院 清爽房源 房东自住 稀缺房源" _soj="Filter_30" href="http://hz.zu.anjuke.com/fangyuan/1006887467">庆春路 浙一医院 清爽房源 房东自住 稀缺房源</a><span class="green">多图</span></h3>
+                            <p class="tag">2室1厅<span>|</span>整租<span>|</span>精装修<span>|</span>4/7层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/160813">
+                                        王马巷                                    </a>
+                                                                        ［下城-长庆 庆春路和东清巷交叉口附近］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>朱星</span><em></em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>3000</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1008776809" _soj="Filter_31">
+                        <a data-company="绿城置换" class="img" _soj="Filter_31" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1008776809" title="景芳地铁 精装修九十方公寓一直作为办公  民用水电创业" alt="景芳地铁 精装修九十方公寓一直作为办公  民用水电创业" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://d.pic1.ajkimg.com/display/hj/c11c43e338b0b1049ff232427a0740b4/240x180n.jpg" alt="景芳地铁 精装修九十方公寓一直作为办公  民用水电创业" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="景芳地铁 精装修九十方公寓一直作为办公  民用水电创业" _soj="Filter_31" href="http://hz.zu.anjuke.com/fangyuan/1008776809">景芳地铁 精装修九十方公寓一直作为办公  民用水电创业</a><span class="green">多图</span></h3>
+                            <p class="tag">2室1厅<span>|</span>整租<span>|</span>精装修<span>|</span>16/27层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/248431">
+                                        滨江新城时代广场                                    </a>
+                                                                        ［江干-景芳 江干秋涛北路83号］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>戚玉平</span><em>地铁房</em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>6800</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1007591689" _soj="Filter_32">
+                        <a data-company="我爱我家" class="img" _soj="Filter_32" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1007591689" title="庆春东路凯旋路交叉口 四季青附近 建电新村 家电齐全 采光好" alt="庆春东路凯旋路交叉口 四季青附近 建电新村 家电齐全 采光好" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://a.pic1.ajkimg.com/display/hj/0b8bb0a6af4d9063ff304996cdb210c2/240x180n.jpg" alt="庆春东路凯旋路交叉口 四季青附近 建电新村 家电齐全 采光好" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="庆春东路凯旋路交叉口 四季青附近 建电新村 家电齐全 采光好" _soj="Filter_32" href="http://hz.zu.anjuke.com/fangyuan/1007591689">庆春东路凯旋路交叉口 四季青附近 建电新村 家电齐全 采光好</a><span class="green">多图</span></h3>
+                            <p class="tag">2室1厅<span>|</span>整租<span>|</span>精装修<span>|</span>4/6层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/160187">
+                                        建电新村                                    </a>
+                                                                        ［江干-采荷 庆春东路111-139号］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>邵浩然</span><em></em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>3000</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1009349190" _soj="Filter_33">
+                        <a data-company="绿城置换" class="img" _soj="Filter_33" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1009349190" title="丹桂公寓 少有户型 拎包入住 温馨家庭首选 随时看房" alt="丹桂公寓 少有户型 拎包入住 温馨家庭首选 随时看房" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://a.pic1.ajkimg.com/display/hj/85d7f22167dca67c782d246d827c94f8/240x180n.jpg" alt="丹桂公寓 少有户型 拎包入住 温馨家庭首选 随时看房" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="丹桂公寓 少有户型 拎包入住 温馨家庭首选 随时看房" _soj="Filter_33" href="http://hz.zu.anjuke.com/fangyuan/1009349190">丹桂公寓 少有户型 拎包入住 温馨家庭首选 随时看房</a><span class="green">多图</span></h3>
+                            <p class="tag">3室2厅<span>|</span>整租<span>|</span>精装修<span>|</span>2/5层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/160612">
+                                        兰桂花园                                    </a>
+                                                                        ［西湖-文二路 文二西路330号 ］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>黄吴波</span><em></em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>5500</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1009140345" _soj="Filter_34">
+                        <a data-company="我爱我家" class="img" _soj="Filter_34" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1009140345" title="地铁口 房东自住装修 采光好 温馨舒适 精装全配" alt="地铁口 房东自住装修 采光好 温馨舒适 精装全配" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://a.pic1.ajkimg.com/display/hj/48d674b26f2cc6dd604a72ba3c8c1de5/240x180n.jpg" alt="地铁口 房东自住装修 采光好 温馨舒适 精装全配" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="地铁口 房东自住装修 采光好 温馨舒适 精装全配" _soj="Filter_34" href="http://hz.zu.anjuke.com/fangyuan/1009140345">地铁口 房东自住装修 采光好 温馨舒适 精装全配</a><span class="green">多图</span></h3>
+                            <p class="tag">3室2厅<span>|</span>整租<span>|</span>精装修<span>|</span>12/22层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/160987">
+                                        温馨人家                                    </a>
+                                                                        ［滨江-西兴 滨江春晓路与风荷路交叉口］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>邢丽娜</span><em>地铁房</em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>4800</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1009098278" _soj="Filter_35">
+                        <a data-company="爱上租" class="img" _soj="Filter_35" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1009098278" title="莫衙 营永康苑宝善公寓财富中心树园附近一房朝南带阳台" alt="莫衙 营永康苑宝善公寓财富中心树园附近一房朝南带阳台" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://b.pic1.ajkimg.com/display/hj/1e6b2b01ad8f94f2f35dd9ff321ba491/240x180n.jpg" alt="莫衙 营永康苑宝善公寓财富中心树园附近一房朝南带阳台" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="莫衙 营永康苑宝善公寓财富中心树园附近一房朝南带阳台" _soj="Filter_35" href="http://hz.zu.anjuke.com/fangyuan/1009098278">莫衙 营永康苑宝善公寓财富中心树园附近一房朝南带阳台</a><span class="green">多图</span></h3>
+                            <p class="tag">1室1厅<span>|</span>整租<span>|</span>中等装修<span>|</span>3/7层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/160972">
+                                        永康苑                                    </a>
+                                                                        ［下城-建国路 羊千弄43-2号附近  ］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>祝笑笑</span><em></em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>2400</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1008744619" _soj="Filter_36">
+                        <a data-company="我爱我家" class="img" _soj="Filter_36" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1008744619" title="地铁口朝南家电设施齐全，工商大学对面，精装修婚房" alt="地铁口朝南家电设施齐全，工商大学对面，精装修婚房" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://b.pic1.ajkimg.com/display/hj/ac2317146c777817fce59cda32d99030/240x180n.jpg" alt="地铁口朝南家电设施齐全，工商大学对面，精装修婚房" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="地铁口朝南家电设施齐全，工商大学对面，精装修婚房" _soj="Filter_36" href="http://hz.zu.anjuke.com/fangyuan/1008744619">地铁口朝南家电设施齐全，工商大学对面，精装修婚房</a><span class="green">多图</span></h3>
+                            <p class="tag">1室1厅<span>|</span>整租<span>|</span>精装修<span>|</span>13/18层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/228585">
+                                        中庆第6大道金沙居                                    </a>
+                                                                        ［江干-下沙 学正街25号路口］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>邓鹏程</span><em>地铁房</em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>2100</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1008767028" _soj="Filter_37">
+                        <a data-company="Q房网" class="img" _soj="Filter_37" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1008767028" title="白金海岸精装修三室两厅两卫5500元适合一家人住滨江长河江景" alt="白金海岸精装修三室两厅两卫5500元适合一家人住滨江长河江景" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://c.pic1.ajkimg.com/display/hj/65bcafe9c805fbb80921f04c88706fec/240x180n.jpg" alt="白金海岸精装修三室两厅两卫5500元适合一家人住滨江长河江景" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="白金海岸精装修三室两厅两卫5500元适合一家人住滨江长河江景" _soj="Filter_37" href="http://hz.zu.anjuke.com/fangyuan/1008767028">白金海岸精装修三室两厅两卫5500元适合一家人住滨江长河江景</a><span class="green">多图</span></h3>
+                            <p class="tag">3室2厅<span>|</span>整租<span>|</span>精装修<span>|</span>1/11层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/160223">
+                                        白金海岸                                    </a>
+                                                                        ［滨江-长河 滨江区香溢路88号］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>张娟</span><em></em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>5500</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1008977762" _soj="Filter_38">
+                        <a data-company="爱上租" class="img" _soj="Filter_38" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1008977762" title="新小区，1室1厅，可做饭，有阳台，现代装修，液晶电视 急租。" alt="新小区，1室1厅，可做饭，有阳台，现代装修，液晶电视 急租。" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://b.pic1.ajkimg.com/display/hj/14ab3cac1a292ff12aee921bbf7c76a1/240x180n.jpg" alt="新小区，1室1厅，可做饭，有阳台，现代装修，液晶电视 急租。" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="新小区，1室1厅，可做饭，有阳台，现代装修，液晶电视 急租。" _soj="Filter_38" href="http://hz.zu.anjuke.com/fangyuan/1008977762">新小区，1室1厅，可做饭，有阳台，现代装修，液晶电视 急租。</a><span class="green">多图</span></h3>
+                            <p class="tag">1室1厅<span>|</span>整租<span>|</span>精装修<span>|</span>10/20层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/173942">
+                                        现代雅苑                                    </a>
+                                                                        ［下城-朝晖 绍兴路279号］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>沈飞</span><em>地铁房</em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>2800</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1008517439" _soj="Filter_39">
+                        <a data-company="我爱我家" class="img" _soj="Filter_39" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1008517439" title="凯旋新村 双菱路采荷路口 采荷二小 清泰小区 四季青佳宝" alt="凯旋新村 双菱路采荷路口 采荷二小 清泰小区 四季青佳宝" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://a.pic1.ajkimg.com/display/hj/0702817d82f0303af349273e81161e5e/240x180n.jpg" alt="凯旋新村 双菱路采荷路口 采荷二小 清泰小区 四季青佳宝" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="凯旋新村 双菱路采荷路口 采荷二小 清泰小区 四季青佳宝" _soj="Filter_39" href="http://hz.zu.anjuke.com/fangyuan/1008517439">凯旋新村 双菱路采荷路口 采荷二小 清泰小区 四季青佳宝</a><span class="green">多图</span></h3>
+                            <p class="tag">2室0厅<span>|</span>整租<span>|</span>中等装修<span>|</span>2/6层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/160990">
+                                        采荷一区                                    </a>
+                                                                        ［江干-采荷 采荷路双菱路交叉口,采荷路62号］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>姜星珍</span><em></em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>3100</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1008661429" _soj="Filter_40">
+                        <a data-company="口碑地产" class="img" _soj="Filter_40" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1008661429" title="店长重点！西兴好房出租，居住舒适，干净整洁，随时入住" alt="店长重点！西兴好房出租，居住舒适，干净整洁，随时入住" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://d.pic1.ajkimg.com/display/hj/ca4b5a35fd25841c5a1fe10e6c478260/240x180n.jpg" alt="店长重点！西兴好房出租，居住舒适，干净整洁，随时入住" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="店长重点！西兴好房出租，居住舒适，干净整洁，随时入住" _soj="Filter_40" href="http://hz.zu.anjuke.com/fangyuan/1008661429">店长重点！西兴好房出租，居住舒适，干净整洁，随时入住</a><span class="green">多图</span></h3>
+                            <p class="tag">2室1厅<span>|</span>整租<span>|</span>精装修<span>|</span>10/30层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/292642">
+                                        新洲花苑                                    </a>
+                                                                        ［滨江-中兴 月明路与西兴路交叉口］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>杨文利</span><em></em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>4000</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1008934127" _soj="Filter_41">
+                        <a data-company="我爱我家" class="img" _soj="Filter_41" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1008934127" title="长河江南铭庭 网易 阿里巴巴 华为首选 精装修 押一付三" alt="长河江南铭庭 网易 阿里巴巴 华为首选 精装修 押一付三" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://a.pic1.ajkimg.com/display/hj/449ef989e1a093dea8cedb2be588b529/240x180n.jpg" alt="长河江南铭庭 网易 阿里巴巴 华为首选 精装修 押一付三" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="长河江南铭庭 网易 阿里巴巴 华为首选 精装修 押一付三" _soj="Filter_41" href="http://hz.zu.anjuke.com/fangyuan/1008934127">长河江南铭庭 网易 阿里巴巴 华为首选 精装修 押一付三</a><span class="green">多图</span></h3>
+                            <p class="tag">3室2厅<span>|</span>整租<span>|</span>中等装修<span>|</span>2/24层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/369936">
+                                        江南铭庭                                    </a>
+                                                                        ［滨江-长河 滨文路(滨文路与江虹路交界)］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>丁红磊</span><em></em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>5000</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1008636137" _soj="Filter_42">
+                        <a data-company="易居臣信" class="img" _soj="Filter_42" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1008636137" title="三华园 近杭高  凤起路  地铁站 电梯房 小公寓 精装修！" alt="三华园 近杭高  凤起路  地铁站 电梯房 小公寓 精装修！" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://a.pic1.ajkimg.com/display/hj/4a4e1faa79ba176d8323371dcfc23afd/240x180n.jpg" alt="三华园 近杭高  凤起路  地铁站 电梯房 小公寓 精装修！" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="三华园 近杭高  凤起路  地铁站 电梯房 小公寓 精装修！" _soj="Filter_42" href="http://hz.zu.anjuke.com/fangyuan/1008636137">三华园 近杭高  凤起路  地铁站 电梯房 小公寓 精装修！</a><span class="green">多图</span></h3>
+                            <p class="tag">1室0厅<span>|</span>整租<span>|</span>精装修<span>|</span>5/23层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/181250">
+                                        三华园                                    </a>
+                                                                        ［下城-凤起路 凤起路290号］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>陈立</span><em>地铁房</em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>3000</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1008877516" _soj="Filter_43">
+                        <a data-company="我爱我家" class="img" _soj="Filter_43" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1008877516" title="静怡花园四季青边精装两居室 设施全配、靠近九天国际、意法" alt="静怡花园四季青边精装两居室 设施全配、靠近九天国际、意法" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://b.pic1.ajkimg.com/display/hj/e6b5c7009013f426188e4b2984195f8c/240x180n.jpg" alt="静怡花园四季青边精装两居室 设施全配、靠近九天国际、意法" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="静怡花园四季青边精装两居室 设施全配、靠近九天国际、意法" _soj="Filter_43" href="http://hz.zu.anjuke.com/fangyuan/1008877516">静怡花园四季青边精装两居室 设施全配、靠近九天国际、意法</a><span class="green">多图</span></h3>
+                            <p class="tag">2室2厅<span>|</span>整租<span>|</span>豪华装修<span>|</span>9/26层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/161181">
+                                        静怡花苑                                    </a>
+                                                                        ［江干-四季青 秋涛路清江路口］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>杨雪松</span><em>地铁房</em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>4000</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1009583030" _soj="Filter_44">
+                        <a data-company="我爱我家" class="img" _soj="Filter_44" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1009583030" title="彩虹城 诺基亚 大华 高新软件 双学区 房东急租 拎包入住" alt="彩虹城 诺基亚 大华 高新软件 双学区 房东急租 拎包入住" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://b.pic1.ajkimg.com/display/hj/52cc82f9088f16fe2f511513cfea5a94/240x180n.jpg" alt="彩虹城 诺基亚 大华 高新软件 双学区 房东急租 拎包入住" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="彩虹城 诺基亚 大华 高新软件 双学区 房东急租 拎包入住" _soj="Filter_44" href="http://hz.zu.anjuke.com/fangyuan/1009583030">彩虹城 诺基亚 大华 高新软件 双学区 房东急租 拎包入住</a><span class="green">多图</span></h3>
+                            <p class="tag">3室2厅<span>|</span>整租<span>|</span>中等装修<span>|</span>12/18层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/161133">
+                                        彩虹城                                    </a>
+                                                                        ［滨江-彩虹城 东信大道与滨盛路交叉口］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>王刚</span><em></em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>5500</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1009524511" _soj="Filter_45">
+                        <a data-company="我爱我家" class="img" _soj="Filter_45" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1009524511" title="出租 宝善 树园 合租好房 红会医院 浙一浙二 省中医院附近" alt="出租 宝善 树园 合租好房 红会医院 浙一浙二 省中医院附近" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://b.pic1.ajkimg.com/display/hj/116fdf202b963226c50be458faab3107/240x180n.jpg" alt="出租 宝善 树园 合租好房 红会医院 浙一浙二 省中医院附近" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="出租 宝善 树园 合租好房 红会医院 浙一浙二 省中医院附近" _soj="Filter_45" href="http://hz.zu.anjuke.com/fangyuan/1009524511">出租 宝善 树园 合租好房 红会医院 浙一浙二 省中医院附近</a><span class="green">多图</span></h3>
+                            <p class="tag">2室1厅<span>|</span>整租<span>|</span>中等装修<span>|</span>4/7层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/160811">
+                                        艮园小区                                    </a>
+                                                                        ［下城-体育场路 体育场路45号］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>陈桂杰</span><em></em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>2800</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1007427196" _soj="Filter_46">
+                        <a data-company="百诚房产" class="img" _soj="Filter_46" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1007427196" title="逸居城中等装修，可做四个房间，欢迎来电咨询" alt="逸居城中等装修，可做四个房间，欢迎来电咨询" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://b.pic1.ajkimg.com/display/hj/5bd8b28d8b0fb2f3adc89e07a47d7f0f/240x180n.jpg" alt="逸居城中等装修，可做四个房间，欢迎来电咨询" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="逸居城中等装修，可做四个房间，欢迎来电咨询" _soj="Filter_46" href="http://hz.zu.anjuke.com/fangyuan/1007427196">逸居城中等装修，可做四个房间，欢迎来电咨询</a><span class="green">多图</span></h3>
+                            <p class="tag">4室2厅<span>|</span>整租<span>|</span>精装修<span>|</span>3/11层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/200064">
+                                        逸居城                                    </a>
+                                                                        ［余杭-良渚 农副产品物流园区内逸盛路183号］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>姚花</span><em></em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>3000</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1007956485" _soj="Filter_47">
+                        <a data-company="美地地产" class="img" _soj="Filter_47" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1007956485" title="城市之星 业主自住豪装四房 全新家具 业主诚租 来电即可看房" alt="城市之星 业主自住豪装四房 全新家具 业主诚租 来电即可看房" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://b.pic1.ajkimg.com/display/hj/10223f1386e211709c47034b01534ab7/240x180n.jpg" alt="城市之星 业主自住豪装四房 全新家具 业主诚租 来电即可看房" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="城市之星 业主自住豪装四房 全新家具 业主诚租 来电即可看房" _soj="Filter_47" href="http://hz.zu.anjuke.com/fangyuan/1007956485">城市之星 业主自住豪装四房 全新家具 业主诚租 来电即可看房</a><span class="green">多图</span></h3>
+                            <p class="tag">4室2厅<span>|</span>整租<span>|</span>豪华装修<span>|</span>28/48层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/369819">
+                                        滨江城市之星                                    </a>
+                                                                        ［江干-钱江新城 城星路与钱江路交界处］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>于阳</span><em>地铁房</em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>22000</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1008680867" _soj="Filter_48">
+                        <a data-company="绿城置换" class="img" _soj="Filter_48" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1008680867" title="新绿园精装单身公寓  绿城物业     诚心出租" alt="新绿园精装单身公寓  绿城物业     诚心出租" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://c.pic1.ajkimg.com/display/hj/ffdd05b1175ed4b91364415a54768967/240x180n.jpg" alt="新绿园精装单身公寓  绿城物业     诚心出租" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="新绿园精装单身公寓  绿城物业     诚心出租" _soj="Filter_48" href="http://hz.zu.anjuke.com/fangyuan/1008680867">新绿园精装单身公寓  绿城物业     诚心出租</a><span class="green">多图</span></h3>
+                            <p class="tag">1室1厅<span>|</span>整租<span>|</span>豪华装修<span>|</span>9/28层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/221973">
+                                        绿城新绿园                                    </a>
+                                                                        ［上城-富春路 富春江路与甬江路交汇处］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>陈泽辉</span><em></em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>4800</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1007787581" _soj="Filter_49">
+                        <a data-company="我爱我家" class="img" _soj="Filter_49" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1007787581" title="浦沿星汇荣邸积家相寓银爵世纪浙新小区附近4室2卫押一付一合租" alt="浦沿星汇荣邸积家相寓银爵世纪浙新小区附近4室2卫押一付一合租" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://a.pic1.ajkimg.com/display/hj/da510338bb300a3cda4bef17025b029a/240x180n.jpg" alt="浦沿星汇荣邸积家相寓银爵世纪浙新小区附近4室2卫押一付一合租" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="浦沿星汇荣邸积家相寓银爵世纪浙新小区附近4室2卫押一付一合租" _soj="Filter_49" href="http://hz.zu.anjuke.com/fangyuan/1007787581">浦沿星汇荣邸积家相寓银爵世纪浙新小区附近4室2卫押一付一合租</a><span class="green">多图</span></h3>
+                            <p class="tag">4室1厅<span>|</span>整租<span>|</span>精装修<span>|</span>29/33层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/444534">
+                                        东和云第                                    </a>
+                                                                        ［滨江-浦沿 东冠路与明德路交叉口西南角］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>刘丽</span><em></em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>4600</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1009122702" _soj="Filter_50">
+                        <a data-company="爱上租" class="img" _soj="Filter_50" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1009122702" title="御西湖 全源 黄龙 学军小学附近 豪装修自住房 有车位 新出" alt="御西湖 全源 黄龙 学军小学附近 豪装修自住房 有车位 新出" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://b.pic1.ajkimg.com/display/hj/18ff5be224e83d46f09b9354d8ff0d43/240x180n.jpg" alt="御西湖 全源 黄龙 学军小学附近 豪装修自住房 有车位 新出" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="御西湖 全源 黄龙 学军小学附近 豪装修自住房 有车位 新出" _soj="Filter_50" href="http://hz.zu.anjuke.com/fangyuan/1009122702">御西湖 全源 黄龙 学军小学附近 豪装修自住房 有车位 新出</a><span class="green">多图</span></h3>
+                            <p class="tag">4室2厅<span>|</span>整租<span>|</span>中等装修<span>|</span>6/11层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/369816">
+                                        雅戈尔御西湖                                    </a>
+                                                                        ［西湖-文二路 学院路216-218号］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>冯全力</span><em></em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>8800</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1008867470" _soj="Filter_51">
+                        <a data-company="我爱我家" class="img" _soj="Filter_51" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1008867470" title="*可月付 押0 田园风格 精装单身公寓 信用租房" alt="*可月付 押0 田园风格 精装单身公寓 信用租房" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://b.pic1.ajkimg.com/display/hj/a9c22d877000adfacf715084ab94cc42/240x180n.jpg" alt="*可月付 押0 田园风格 精装单身公寓 信用租房" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="*可月付 押0 田园风格 精装单身公寓 信用租房" _soj="Filter_51" href="http://hz.zu.anjuke.com/fangyuan/1008867470">*可月付 押0 田园风格 精装单身公寓 信用租房</a><span class="green">多图</span></h3>
+                            <p class="tag">3室2厅<span>|</span>整租<span>|</span>精装修<span>|</span>8/16层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/369913">
+                                        天阳九筑                                    </a>
+                                                                        ［江干-九堡 九堡江干科技园区九环路与九昌路交叉口］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>杨宏钱</span><em></em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>3850</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1008028922" _soj="Filter_52">
+                        <a data-company="科威国际不动产" class="img" _soj="Filter_52" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1008028922" title="这不就是你要找的房子吗？" alt="这不就是你要找的房子吗？" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://d.pic1.ajkimg.com/display/hj/30661fdc80942ffb5a4896ddbb9d97d1/240x180n.jpg" alt="这不就是你要找的房子吗？" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="这不就是你要找的房子吗？" _soj="Filter_52" href="http://hz.zu.anjuke.com/fangyuan/1008028922">这不就是你要找的房子吗？</a><span class="green">多图</span></h3>
+                            <p class="tag">1室1厅<span>|</span>整租<span>|</span>豪华装修<span>|</span>4/6层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/161030">
+                                        梧桐公寓                                    </a>
+                                                                        ［西湖-黄龙 文一路与学院路交叉口］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>吴威好</span><em></em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>6543</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1008848820" _soj="Filter_53">
+                        <a data-company="爱上租" class="img" _soj="Filter_53" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1008848820" title="武林路 武林小广场 西子铭苑 湖滨阁 豪华高配 首次出租两房" alt="武林路 武林小广场 西子铭苑 湖滨阁 豪华高配 首次出租两房" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://c.pic1.ajkimg.com/display/hj/64feabe067182cad3a2fb5873b5e7b49/240x180n.jpg" alt="武林路 武林小广场 西子铭苑 湖滨阁 豪华高配 首次出租两房" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="武林路 武林小广场 西子铭苑 湖滨阁 豪华高配 首次出租两房" _soj="Filter_53" href="http://hz.zu.anjuke.com/fangyuan/1008848820">武林路 武林小广场 西子铭苑 湖滨阁 豪华高配 首次出租两房</a><span class="green">多图</span></h3>
+                            <p class="tag">2室2厅<span>|</span>整租<span>|</span>豪华装修<span>|</span>7/18层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/171677">
+                                        西子铭苑                                    </a>
+                                                                        ［下城-武林 桃花河弄21号附近］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>杨国东</span><em>地铁房</em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>4300</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1009690057" _soj="Filter_54">
+                        <a data-company="我爱我家" class="img" _soj="Filter_54" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1009690057" title="学生月付 付一押一精装两房 两房朝南带阳台 舒适入住好家" alt="学生月付 付一押一精装两房 两房朝南带阳台 舒适入住好家" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://b.pic1.ajkimg.com/display/hj/ec7f13474dd36c33aa234f62e1c573ee/240x180n.jpg" alt="学生月付 付一押一精装两房 两房朝南带阳台 舒适入住好家" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="学生月付 付一押一精装两房 两房朝南带阳台 舒适入住好家" _soj="Filter_54" href="http://hz.zu.anjuke.com/fangyuan/1009690057">学生月付 付一押一精装两房 两房朝南带阳台 舒适入住好家</a><span class="green">多图</span></h3>
+                            <p class="tag">2室2厅<span>|</span>整租<span>|</span>精装修<span>|</span>8/17层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/160792">
+                                        黄龙雅苑                                    </a>
+                                                                        ［西湖-黄龙 西溪路143号］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>庄伟</span><em></em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>4800</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1009663660" _soj="Filter_55">
+                        <a data-company="我爱我家" class="img" _soj="Filter_55" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1009663660" title="杭州大厦，武林桥河下，昌化新村，西湖文化广场，武林路，可月付" alt="杭州大厦，武林桥河下，昌化新村，西湖文化广场，武林路，可月付" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://a.pic1.ajkimg.com/display/hj/8c973cbdef9831bc622ef36ed202f377/240x180n.jpg" alt="杭州大厦，武林桥河下，昌化新村，西湖文化广场，武林路，可月付" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="杭州大厦，武林桥河下，昌化新村，西湖文化广场，武林路，可月付" _soj="Filter_55" href="http://hz.zu.anjuke.com/fangyuan/1009663660">杭州大厦，武林桥河下，昌化新村，西湖文化广场，武林路，可月付</a><span class="green">多图</span></h3>
+                            <p class="tag">1室1厅<span>|</span>整租<span>|</span>精装修<span>|</span>2/6层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/160578">
+                                        环北新村                                    </a>
+                                                                        ［下城-体育场路 武林路与环城北路交叉口］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>郑洪波</span><em>地铁房</em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>2250</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1009139446" _soj="Filter_56">
+                        <a data-company="我爱我家" class="img" _soj="Filter_56" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1009139446" title="白马湖小区,冠山小区,风景蝶院,滨康小区,二房精装修拎包入住" alt="白马湖小区,冠山小区,风景蝶院,滨康小区,二房精装修拎包入住" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://d.pic1.ajkimg.com/display/hj/37981711940fdc976b5a09d47e069c3f/240x180n.jpg" alt="白马湖小区,冠山小区,风景蝶院,滨康小区,二房精装修拎包入住" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="白马湖小区,冠山小区,风景蝶院,滨康小区,二房精装修拎包入住" _soj="Filter_56" href="http://hz.zu.anjuke.com/fangyuan/1009139446">白马湖小区,冠山小区,风景蝶院,滨康小区,二房精装修拎包入住</a><span class="green">多图</span></h3>
+                            <p class="tag">2室2厅<span>|</span>整租<span>|</span>精装修<span>|</span>3/5层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/464986">
+                                        白马湖小区                                    </a>
+                                                                        ［滨江-长河 滨文路与江虹路交汇处］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>赵九路</span><em></em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>3800</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1008397125" _soj="Filter_57">
+                        <a data-company="21世纪腾信" class="img" _soj="Filter_57" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1008397125" title="温馨人家 两房 整租 交通方便 绿化率高 精装修拎包入住" alt="温馨人家 两房 整租 交通方便 绿化率高 精装修拎包入住" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://b.pic1.ajkimg.com/display/hj/ef9494a4f94783a3dcc6ccb391d7991b/240x180n.jpg" alt="温馨人家 两房 整租 交通方便 绿化率高 精装修拎包入住" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="温馨人家 两房 整租 交通方便 绿化率高 精装修拎包入住" _soj="Filter_57" href="http://hz.zu.anjuke.com/fangyuan/1008397125">温馨人家 两房 整租 交通方便 绿化率高 精装修拎包入住</a><span class="green">多图</span></h3>
+                            <p class="tag">2室1厅<span>|</span>整租<span>|</span>精装修<span>|</span>8/16层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/160987">
+                                        温馨人家                                    </a>
+                                                                        ［滨江-西兴 滨江春晓路与风荷路交叉口］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>沈超</span><em>地铁房</em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>4800</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1009114190" _soj="Filter_58">
+                        <a data-company="我爱我家" class="img" _soj="Filter_58" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1009114190" title="平安居杭州大厦，西湖文化广场，西子铭苑，白马，绿洲花园国都公" alt="平安居杭州大厦，西湖文化广场，西子铭苑，白马，绿洲花园国都公" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://a.pic1.ajkimg.com/display/hj/042be25ee864e68cf45c785d11f34ec1/240x180n.jpg" alt="平安居杭州大厦，西湖文化广场，西子铭苑，白马，绿洲花园国都公" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="平安居杭州大厦，西湖文化广场，西子铭苑，白马，绿洲花园国都公" _soj="Filter_58" href="http://hz.zu.anjuke.com/fangyuan/1009114190">平安居杭州大厦，西湖文化广场，西子铭苑，白马，绿洲花园国都公</a><span class="green">多图</span></h3>
+                            <p class="tag">3室2厅<span>|</span>整租<span>|</span>精装修<span>|</span>3/6层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/504503">
+                                        武林路                                    </a>
+                                                                        ［下城-武林 武林路(1-146)100号］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>沈壁君</span><em>地铁房</em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>3600</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1009680784" _soj="Filter_59">
+                        <a data-company="我爱我家" class="img" _soj="Filter_59" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1009680784" title="美林公馆，房东自住婚房装修，品牌家具家电，给你温馨舒服的家" alt="美林公馆，房东自住婚房装修，品牌家具家电，给你温馨舒服的家" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://b.pic1.ajkimg.com/display/hj/53b8640592050e3f47a1af34409361a7/240x180n.jpg" alt="美林公馆，房东自住婚房装修，品牌家具家电，给你温馨舒服的家" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="美林公馆，房东自住婚房装修，品牌家具家电，给你温馨舒服的家" _soj="Filter_59" href="http://hz.zu.anjuke.com/fangyuan/1009680784">美林公馆，房东自住婚房装修，品牌家具家电，给你温馨舒服的家</a><span class="green">多图</span></h3>
+                            <p class="tag">2室2厅<span>|</span>整租<span>|</span>精装修<span>|</span>6/11层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/369949">
+                                        华元美林公馆                                    </a>
+                                                                        ［余杭-未来科技城 文二西路延伸段（文二西路和荆常路交叉口）］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>李伟</span><em></em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>3800</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                                                                                                <div class="zu-itemmod  " link="http://hz.zu.anjuke.com/fangyuan/1008502600" _soj="Filter_60">
+                        <a data-company="我爱我家" class="img" _soj="Filter_60" data-sign="true" href="http://hz.zu.anjuke.com/fangyuan/1008502600" title="华润西子中心，高层公寓，武林广场文化广场，西湖，利星名品广场" alt="华润西子中心，高层公寓，武林广场文化广场，西湖，利星名品广场" target="_blank" hidefocus="true">
+                            <img class="thumbnail" src="http://d.pic1.ajkimg.com/display/hj/373040a54a28fe94ffb27029d0628bac/240x180n.jpg" alt="华润西子中心，高层公寓，武林广场文化广场，西湖，利星名品广场" width="150" height="115"/>
+                        </a>
+                        <div class="zu-info">
+                            <h3><a target="_blank" title="华润西子中心，高层公寓，武林广场文化广场，西湖，利星名品广场" _soj="Filter_60" href="http://hz.zu.anjuke.com/fangyuan/1008502600">华润西子中心，高层公寓，武林广场文化广场，西湖，利星名品广场</a><span class="green">多图</span></h3>
+                            <p class="tag">1室1厅<span>|</span>整租<span>|</span>豪华装修<span>|</span>22/24层</p>
+                            <address>
+                                                                    <a target="_blank"
+                                       href="http://hangzhou.anjuke.com/community/view/188980">
+                                        华润西子中心                                    </a>
+                                                                        ［下城-体育场路 体育场路260号 ］
+                                                            </address>
+                            <p class="bot-tag">
+                                <span>董平</span><em>地铁房</em>
+                            </p>
+                        </div>
+                        <div class="zu-side">
+                            <p><strong>3600</strong> 元/月</p>
+                                                    </div>
+                    </div>
+                            
+            <!--地铁房源租房房源列表页-->
+            
+            <!--零少结果推荐文案,置于最底部-->
+            <div id="zu-comhead" class="zu-comhead" style="display:none;">
+                <p>哎呀，没有找到符合要求的房子。</p>
+                <p class="mid">安居客建议：看看上面的筛选条件是否合理</p>
+                <em>根据您的租房要求，特别推荐以下房源</em>
+            </div>
+            <script type="text/template" id="zuRecom-tpl">
+                <% _.each(obj,function(item){ %>
+                <div class="zu-itemmod" link="<%= item.url %>"
+                <% if(item.is_hp==1){ %>
+                _soj="<%= item.from %>&hfilter=filterlist"
+                <% }else{ %>
+                _soj="<%= item.from %>"
+                <% } %>
+                >
+                <a class="img"
+                <% if(item.is_hp==1){ %>
+                _soj="<%= item.from %>&hfilter=filterlist"
+                <% }else{ %>
+                _soj="<%= item.from %>"
+                <% } %>
+                data-sign="true" href="<%= item.url %>" title="<%= item.title %>" alt="<%= item.title %>" target="_blank" hidefocus="true">
+                <img class="thumbnail" src="<%= item.img %>" alt="<%= item.title %>" width="150" height="115"/>
+                </a>
+                <div class="zu-info">
+                    <h3><a target="_blank" title=""
+                        <% if(item.is_hp==1){ %>
+                        _soj="<%= item.from %>&hfilter=filterlist"
+                        <% }else{ %>
+                        _soj="<%= item.from %>"
+                        <% } %>
+                        href="<%= item.url %>"><%= item.title %></a>
+                        <% if(item.icon_name==''){ %>
+                        <% }else if(item.icon_name=='品牌公寓'||item.icon_name=='多图'){ %>
+                        <span class="green"><%= item.icon_name %></span>
+                        <% }else{ %>
+                        <span class="red"><%= item.icon_name %></span>
+                        <% } %>
+                    </h3>
+                    <p class="tag"><%= item.room_num %>室<%= item.hall_num %>厅<span>|</span><%= item.rent_type_name %><span>|</span><%= item.fitment_name %><span>|</span><%= item.floor %>/<%= item.floor_num %>层</p>
+                    <address><%= item.comm_name %>&nbsp;&nbsp; <% if(item.area_block_name != ""){ %>[<%= item.area_block_name %>&nbsp;&nbsp;<%= item.comm_address_str %>]<% } %></address>
+                    <p class="bot-tag">
+                        <span><%= item.broker_name %></span><em><%= item.desc %></em>
+                    </p>
+                </div>
+                <div class="zu-side">
+                    <p><strong><%= item.price %></strong> 元/月</p>
+                    <% if(item.logo_class==''){ %>
+                    <% }else{ %>
+                    <i class="icon icon-realfree"></i>
+                    <% } %>
+                </div>
+                </div>
+                <%});%>
+            </script>
+                                                <!--品牌公寓广告模块-->
+                     <a href="http://hz.58.com/pinpaigongyu/" title="品牌公寓" _soj="ajkp_zf_list_bottom_banner&logofrom=anjuke" class="ppgy-58ad" rel="nofollow" target="_blank">
+                        <img alt="品牌公寓" src="http://pages.ajkcdn.com/site/img/global/2/ppgy-list-ad2.jpg" width="900" height="100">
+                    </a>
+                                        
+        </div>
+
+        <!--右侧广告栏-->
+        <div class="adver-content">
+            <div id="IFX_p3001" class="advBox" style="display:none;"></div>
+
+            <div id="IFX_p950" class="advBox" style="display:none;"></div>
+
+            <div id="IFX_p951" class="advBox" style="display:none;"></div>
+
+            <!--百度广告-->
+            <!--<div class="advBox" id="baidu_adv"></div>-->
+            <!-- 58联盟广告页 -->
+            <div class="luna-58-wrap">
+                <iframe class="luna-58ifm" src="http://luna.58.com/show/ads?n=b-33276477696777-ps-f-anjukepc&c=zufangpc&qq-pf-to=pcqq.discussion" width="240" height="240" scrolling="no" frameborder="0"></iframe>
+            </div>
+        </div>
+
+        <!--翻页-->
+        <div class="page-content">    <div class="multi-page">
+        
+                    <a href="http://hz.zu.anjuke.com/fangyuan/p24/" class="aPre">上一页</a>
+        
+                    <a href="http://hz.zu.anjuke.com/fangyuan/">1</a>
+        
+                    <i class="aDotted">...</i>
+        
+                    <a href="http://hz.zu.anjuke.com/fangyuan/p22/">22</a>
+                    <a href="http://hz.zu.anjuke.com/fangyuan/p23/">23</a>
+                    <a href="http://hz.zu.anjuke.com/fangyuan/p24/">24</a>
+                    <i class="curr">25</i>
+                    <a href="http://hz.zu.anjuke.com/fangyuan/p26/">26</a>
+                    <a href="http://hz.zu.anjuke.com/fangyuan/p27/">27</a>
+                    <a href="http://hz.zu.anjuke.com/fangyuan/p28/">28</a>
+        
+                    <i class="aDotted">...</i>
+        
+                    <a href="http://hz.zu.anjuke.com/fangyuan/p26/" class="aNxt">下一页 &gt;</a>
+        
+            </div>
+</div>
+    </div>
+
+    <p class="guesslike-title">猜你喜欢</p>
+<ul id="guesslike-content" class="guesslike-content clearfix">
+</ul>
+<script type="text/template" id="guesslike-tpl">
+	<% _.each(obj,function(item){ %>
+		<li>
+			<img src="<%= item.img %>" alt="租房<%= item.price %>元/月" width="180px" height="135px">
+			<% if(item.is_hp == 1){ %>
+				<a href="<%= item.url %>" class="guesslike-itemtitle" title="<%= item.title %>" target="_blank" _soj="home_rent_list_rec&hfilter=filterlist"><%= item.title %></a>
+			<%}%>
+			<% if(item.is_hp != 1){%>
+				<a href="<%= item.url %>" class="guesslike-itemtitle" title="<%= item.title %>" target="_blank" _soj="home_rent_list_rec"><%= item.title %></a>
+			<%}%>
+			<p class="guesslike-itemprice"><%= item.price %>元/月</p>
+			<p class="guesslike-itemdetail"><%= item.room_num %>室<%= item.hall_num %>厅，<%= item.fitment_name %></p>
+			<p class="guesslike-itemcommunity"><%= item.comm_name %></p>
+		</li>
+	<%});%>
+</script>
+
+    <!--简介tips-->
+    <p class="seo-tips">杭州租房好口碑网站，365天提供最新上海租房信息，全面真实的个人及中介出租房，海量优质房源，人工审核，助您租到便宜、称心的房子。</p>
+    <!--内链-->
+    
+<div id="seo-box">
+    <ul class="parent-1"><li class="tab-1 has-subitem" ><a class="tab1-a" href="javascript:void(0)" target="_blank">租房直达</a><ul class="parent-2 btn-show"><li class="tab-2 has-subitem" ><a class=" current-tab" href="javascript:void(0)" target="_blank">拱墅</a></li><li class="tab-2 has-subitem" ><a class="" href="javascript:void(0)" target="_blank">江干</a></li><li class="tab-2 has-subitem" ><a class="" href="javascript:void(0)" target="_blank">上城</a></li><li class="tab-2 has-subitem" ><a class="" href="javascript:void(0)" target="_blank">西湖</a></li><li class="tab-2 has-subitem" ><a class="" href="javascript:void(0)" target="_blank">下城</a></li><li class="tab-2 has-subitem" ><a class="" href="javascript:void(0)" target="_blank">滨江</a></li><li class="tab-2 has-subitem" ><a class="" href="javascript:void(0)" target="_blank">萧山</a></li><li class="tab-2 has-subitem" ><a class="" href="javascript:void(0)" target="_blank">余杭</a></li><li class="tab-2 has-subitem" ><a class="" href="javascript:void(0)" target="_blank">临安</a></li><li class="tab-2 has-subitem" ><a class="" href="javascript:void(0)" target="_blank">富阳</a></li><li class="tab-2 has-subitem" ><a class="" href="javascript:void(0)" target="_blank">建德</a></li><li class="tab-2 has-subitem" ><a class="" href="javascript:void(0)" target="_blank">桐庐</a></li><li class="tab-2 has-subitem" ><a class="" href="javascript:void(0)" target="_blank">淳安</a></li><ul class="parent-3 btn-show"><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/xiangjisilu/" target="_blank">香积寺路租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/deshenglu/" target="_blank">德胜路租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/gongchenqiao/" target="_blank">拱宸桥租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/hushu/" target="_blank">湖墅租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/hemu/" target="_blank">和睦租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/chaowanglu/" target="_blank">潮王路租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/daguanb/" target="_blank">大关租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/miduqiaolu/" target="_blank">密渡桥路租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/shixianglu/" target="_blank">石祥路租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/moganshanlu/" target="_blank">莫干山路租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/qiaoxia/" target="_blank">桥西租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/tanghe/" target="_blank">塘河租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/banshan/" target="_blank">半山租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/wandaguangchangz/" target="_blank">万达广场租房</a></li></ul><ul class="parent-3"><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/caihe/" target="_blank">采荷租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/fengqidonglu/" target="_blank">凤起东路租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/zhanongkou/" target="_blank">闸弄口租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/jiubao/" target="_blank">九堡租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/jianqiao/" target="_blank">笕桥租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/jingfang/" target="_blank">景芳租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/kaixuan/" target="_blank">凯旋租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/sanliting/" target="_blank">三里亭租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/sijiqinga/" target="_blank">四季青租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/pujiaxincun/" target="_blank">濮家新村租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/nanxiaobu/" target="_blank">南肖埠租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/qianjiangxincheng/" target="_blank">钱江新城租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/xiasha/" target="_blank">下沙租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/dingqiao/" target="_blank">丁桥租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/chengdongxincheng/" target="_blank">城东新城租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/jinshahu/" target="_blank">金沙湖租房</a></li></ul><ul class="parent-3"><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/jinjianga/" target="_blank">近江租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/fengleqiao/" target="_blank">丰乐桥租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/fuxinglu/" target="_blank">复兴路租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/fuchunlu/" target="_blank">富春路租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/qingjianglua/" target="_blank">清江路租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/qingbo/" target="_blank">清波租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/wangjiang/" target="_blank">望江租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/wushana/" target="_blank">吴山租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/xiongzhenlou/" target="_blank">雄镇楼租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/pinghailu/" target="_blank">平海路租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/jiefangqiao/" target="_blank">解放桥租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/kuixiang/" target="_blank">葵巷租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/nanxing/" target="_blank">南星租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/hubin/" target="_blank">湖滨租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/xiaoying/" target="_blank">小营租房</a></li></ul><ul class="parent-3"><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/wensanxilu/" target="_blank">文三西路租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/wensanlu/" target="_blank">文三路租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/wenerlu/" target="_blank">文二路租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/liuxia/" target="_blank">留下租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/wenyilu/" target="_blank">文一路租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/wenerxilu/" target="_blank">文二西路租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/baochulu/" target="_blank">保俶路租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/zhuantang/" target="_blank">转塘租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/xixia/" target="_blank">西溪租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/cuiyuan/" target="_blank">翠苑租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/sandun/" target="_blank">三墩租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/gudang/" target="_blank">古荡租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/wenyixilu/" target="_blank">文一西路租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/huanglong/" target="_blank">黄龙租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/jiaogonglu/" target="_blank">教工路租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/gudunlu/" target="_blank">古墩路租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/shenhuaa/" target="_blank">申花租房</a></li></ul><ul class="parent-3"><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/changqing/" target="_blank">长庆租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/zhaohui/" target="_blank">朝晖租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/deshengb/" target="_blank">德胜租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/datieguan/" target="_blank">打铁关租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/fengqilu/" target="_blank">凤起路租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/shijiaqiao/" target="_blank">施家桥租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/wulin/" target="_blank">武林租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/xinhualua/" target="_blank">新华路租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/baoshanqiao/" target="_blank">宝善桥租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/chaoming/" target="_blank">潮鸣租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/jianguolu/" target="_blank">建国路租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/shiqiaoc/" target="_blank">石桥租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/yananlu/" target="_blank">延安路租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/zhongshanbeilu/" target="_blank">中山北路租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/zhonganqiao/" target="_blank">众安桥租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/tiyuchanglu/" target="_blank">体育场路租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/dongxin/" target="_blank">东新租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/genshanmen/" target="_blank">艮山门租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/haierxiang/" target="_blank">孩儿巷租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/qingchunmen/" target="_blank">庆春门租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/tianshui/" target="_blank">天水租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/zhongbeiqiao/" target="_blank">中北桥租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/santang/" target="_blank">三塘租房</a></li></ul><ul class="parent-3"><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/zhongxing/" target="_blank">中兴租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/puyan/" target="_blank">浦沿租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/xixing/" target="_blank">西兴租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/caihongcheng/" target="_blank">彩虹城租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/changhe/" target="_blank">长河租房</a></li></ul><ul class="parent-3"><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/chengxiang/" target="_blank">城厢租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/beigan/" target="_blank">北干租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/wenyan/" target="_blank">闻堰租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/xiaoshana/" target="_blank">萧山租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/qianjiangshijixincheng/" target="_blank">钱江世纪新城租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/xianghua/" target="_blank">湘湖租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/jiangdongxincheng/" target="_blank">江东新城租房</a></li></ul><ul class="parent-3"><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/linpinga/" target="_blank">临平租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/xianlin/" target="_blank">闲林租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/laoyuhang/" target="_blank">老余杭租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/liangzhu/" target="_blank">良渚租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/chongxian/" target="_blank">崇贤租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/xingqiao/" target="_blank">星桥租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/qiaosia/" target="_blank">乔司租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/renhec/" target="_blank">仁和租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/tangqia/" target="_blank">塘栖租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/pingyaoa/" target="_blank">瓶窑租房</a></li><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/weilaikejicheng/" target="_blank">未来科技城租房</a></li></ul><ul class="parent-3"><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/linana/" target="_blank">临安租房</a></li></ul><ul class="parent-3"><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/fuchuna/" target="_blank">富春租房</a></li></ul><ul class="parent-3"><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/jiandea/" target="_blank">建德租房</a></li></ul><ul class="parent-3"><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/tonglua/" target="_blank">桐庐租房</a></li></ul><ul class="parent-3"><li class="tab-3" ><a class="" href="http://hz.zu.anjuke.com/fangyuan/chunana/" target="_blank">淳安租房</a></li></ul></ul></li><li class="tab-1 has-subitem" ><a class="tab1-a" href="javascript:void(0)" target="_blank">推荐城市租房</a><ul class="parent-2"><li class="tab-2" ><a class="" href="http://sui.zu.anjuke.com" target="_blank">绥化租房</a></li><li class="tab-2" ><a class="" href="http://tl.zu.anjuke.com" target="_blank">铁岭租房</a></li><li class="tab-2" ><a class="" href="http://cheng.zu.anjuke.com" target="_blank">承德租房</a></li><li class="tab-2" ><a class="" href="http://jms.zu.anjuke.com" target="_blank">佳木斯租房</a></li><li class="tab-2" ><a class="" href="http://chang.zu.anjuke.com" target="_blank">长治租房</a></li><li class="tab-2" ><a class="" href="http://dt.zu.anjuke.com" target="_blank">大同租房</a></li><li class="tab-2" ><a class="" href="http://tongl.zu.anjuke.com" target="_blank">通辽租房</a></li><li class="tab-2" ><a class="" href="http://hld.zu.anjuke.com" target="_blank">葫芦岛租房</a></li><li class="tab-2" ><a class="" href="http://fx.zu.anjuke.com" target="_blank">阜新租房</a></li><li class="tab-2" ><a class="" href="http://sip.zu.anjuke.com" target="_blank">四平租房</a></li><li class="tab-2" ><a class="" href="http://sh.zu.anjuke.com" target="_blank">上海租房</a></li><li class="tab-2" ><a class="" href="http://nj.zu.anjuke.com" target="_blank">南京租房</a></li><li class="tab-2" ><a class="" href="http://su.zu.anjuke.com" target="_blank">苏州租房</a></li><li class="tab-2" ><a class="" href="http://jn.zu.anjuke.com" target="_blank">济南租房</a></li><li class="tab-2" ><a class="" href="http://wx.zu.anjuke.com" target="_blank">无锡租房</a></li><li class="tab-2" ><a class="" href="http://qd.zu.anjuke.com" target="_blank">青岛租房</a></li><li class="tab-2" ><a class="" href="http://nb.zu.anjuke.com" target="_blank">宁波租房</a></li><li class="tab-2" ><a class="" href="http://hf.zu.anjuke.com" target="_blank">合肥租房</a></li><li class="tab-2" ><a class="" href="http://fz.zu.anjuke.com" target="_blank">福州租房</a></li></ul></li><li class="tab-1 has-subitem" ><a class="tab1-a" href="javascript:void(0)" target="_blank">热门城市租房</a><ul class="parent-2"><li class="tab-2" ><a class="" href="http://sh.zu.anjuke.com" target="_blank">上海租房</a></li><li class="tab-2" ><a class="" href="http://bj.zu.anjuke.com" target="_blank">北京租房</a></li><li class="tab-2" ><a class="" href="http://gz.zu.anjuke.com" target="_blank">广州租房</a></li><li class="tab-2" ><a class="" href="http://sz.zu.anjuke.com" target="_blank">深圳租房</a></li><li class="tab-2" ><a class="" href="http://hz.zu.anjuke.com" target="_blank">杭州租房</a></li><li class="tab-2" ><a class="" href="http://cq.zu.anjuke.com" target="_blank">重庆租房</a></li><li class="tab-2" ><a class="" href="http://wh.zu.anjuke.com" target="_blank">武汉租房</a></li><li class="tab-2" ><a class="" href="http://nj.zu.anjuke.com" target="_blank">南京租房</a></li><li class="tab-2" ><a class="" href="http://tj.zu.anjuke.com" target="_blank">天津租房</a></li><li class="tab-2" ><a class="" href="http://su.zu.anjuke.com" target="_blank">苏州租房</a></li></ul></li><li class="tab-1 has-subitem" ><a class="tab1-a" href="javascript:void(0)" target="_blank">热门城市二手房</a><ul class="parent-2"><li class="tab-2" ><a class="" href="http://shanghai.anjuke.com/sale/" target="_blank">上海二手房</a></li><li class="tab-2" ><a class="" href="http://beijing.anjuke.com/sale/" target="_blank">北京二手房</a></li><li class="tab-2" ><a class="" href="http://guangzhou.anjuke.com/sale/" target="_blank">广州二手房</a></li><li class="tab-2" ><a class="" href="http://shenzhen.anjuke.com/sale/" target="_blank">深圳二手房</a></li><li class="tab-2" ><a class="" href="http://hangzhou.anjuke.com/sale/" target="_blank">杭州二手房</a></li><li class="tab-2" ><a class="" href="http://chongqing.anjuke.com/sale/" target="_blank">重庆二手房</a></li><li class="tab-2" ><a class="" href="http://wuhan.anjuke.com/sale/" target="_blank">武汉二手房</a></li><li class="tab-2" ><a class="" href="http://nanjing.anjuke.com/sale/" target="_blank">南京二手房</a></li><li class="tab-2" ><a class="" href="http://tianjin.anjuke.com/sale/" target="_blank">天津二手房</a></li><li class="tab-2" ><a class="" href="http://suzhou.anjuke.com/sale/" target="_blank">苏州二手房</a></li></ul></li><li class="tab-1 has-subitem no-btm-border" ><a class="tab1-a" href="javascript:void(0)" target="_blank">热门城市新房</a><ul class="parent-2"><li class="tab-2" ><a class="" href="http://sh.fang.anjuke.com" target="_blank">上海新房</a></li><li class="tab-2" ><a class="" href="http://bj.fang.anjuke.com" target="_blank">北京新房</a></li><li class="tab-2" ><a class="" href="http://gz.fang.anjuke.com" target="_blank">广州新房</a></li><li class="tab-2" ><a class="" href="http://sz.fang.anjuke.com" target="_blank">深圳新房</a></li><li class="tab-2" ><a class="" href="http://hz.fang.anjuke.com" target="_blank">杭州新房</a></li><li class="tab-2" ><a class="" href="http://cq.fang.anjuke.com" target="_blank">重庆新房</a></li><li class="tab-2" ><a class="" href="http://wh.fang.anjuke.com" target="_blank">武汉新房</a></li><li class="tab-2" ><a class="" href="http://nj.fang.anjuke.com" target="_blank">南京新房</a></li><li class="tab-2" ><a class="" href="http://tj.fang.anjuke.com" target="_blank">天津新房</a></li><li class="tab-2" ><a class="" href="http://su.fang.anjuke.com" target="_blank">苏州新房</a></li></ul></li></ul></div>
+
+<script>
+    var AJK = AJK || {};
+    AJK.SeoRecommend = AJK.SeoRecommend || {};
+    AJK.SeoRecommend.type = 1;
+</script>
+
+    <!--友链-->
+    </div>
+
+
+
+    <div id="footer" class="footer">
+    <ul class="links">
+        <li><a rel="nofollow" href="http://hangzhou.anjuke.com/help/question/1">关于安居客</a></li>
+        <li><a rel="nofollow" href="http://job.anjuke.com/">人才招聘</a></li>
+        <li><a rel="nofollow" href="http://hangzhou.anjuke.com/help/question/4">联系我们</a></li>
+        <li><a rel="nofollow" href="http://hangzhou.anjuke.com/help/question/7">用户协议</a></li>
+        <li><a rel="nofollow" href="http://hangzhou.anjuke.com/help">使用帮助</a></li>
+        <li><a rel="nofollow" href="http://hangzhou.anjuke.com/friendlink">友情链接</a></li>
+        <li><a href="javascript:void(0);" data-target="map_link">网站地图</a></li>
+        <li><a rel="nofollow" href="javascript:;" data-target="other_city">其它城市</a></li>
+        <li><a href="javascript:void(0);" data-target="house_link">最新房源</a></li>
+        <li><a href="javascript:void(0);" data-target="community_link">小区大全</a></li>
+        <li><a href="http://hangzhou.anjuke.com/wenti/">最新问答</a></li>
+        <li><a target="_blank" href="http://www.anjuke.com/calculator/loan">房贷计算器</a></li>
+        <li><a rel="nofollow" target="_blank" href="http://www.zx110.org/cxs/index.html">放心搜</a></li>
+        <li><a rel='nofollow' target='_blank' href='http://about.anjuke.com/chanpin/?from=home_foot_tgy'>产品推广</a></li>    </ul>
+    <ul id="other_city" class="other-city clearfix">
+                        <li><a href="http://shanghai.anjuke.com/">上海房产网</a></li>
+                <li><a href="http://guangzhou.anjuke.com/">广州房产网</a></li>
+                <li><a href="http://shenzhen.anjuke.com/">深圳房产网</a></li>
+                <li><a href="http://beijing.anjuke.com/">北京房产网</a></li>
+                <li><a href="http://chengdu.anjuke.com/">成都房产网</a></li>
+                <li><a href="http://nanjing.anjuke.com/">南京房产网</a></li>
+                <li><a href="http://tianjin.anjuke.com/">天津房产网</a></li>
+                <li><a href="http://hangzhou.anjuke.com/">杭州房产网</a></li>
+                <li><a href="http://suzhou.anjuke.com/">苏州房产网</a></li>
+                <li><a href="http://chongqing.anjuke.com/">重庆房产网</a></li>
+                <li><a href="http://dalian.anjuke.com/">大连房产网</a></li>
+                <li><a href="http://wuhan.anjuke.com/">武汉房产网</a></li>
+                <li><a href="http://jinan.anjuke.com/">济南房产网</a></li>
+                <li><a href="http://foshan.anjuke.com/">佛山房产网</a></li>
+                <li><a href="http://wuxi.anjuke.com/">无锡房产网</a></li>
+                <li><a href="http://zhengzhou.anjuke.com/">郑州房产网</a></li>
+                <li><a href="http://cs.anjuke.com/">长沙房产网</a></li>
+                <li><a href="http://qd.anjuke.com/">青岛房产网</a></li>
+                <li><a href="http://xa.anjuke.com/">西安房产网</a></li>
+                <li><a href="http://nb.anjuke.com/">宁波房产网</a></li>
+                <li><a href="http://hf.anjuke.com/">合肥房产网</a></li>
+                <li><a href="http://dg.anjuke.com/">东莞房产网</a></li>
+                <li><a href="http://fz.anjuke.com/">福州房产网</a></li>
+                <li><a href="http://km.anjuke.com/">昆明房产网</a></li>
+                <li><a href="http://gy.anjuke.com/">贵阳房产网</a></li>
+                <li><a href="http://ty.anjuke.com/">太原房产网</a></li>
+                <li><a href="http://sy.anjuke.com/">沈阳房产网</a></li>
+                <li><a href="http://ks.anjuke.com/">昆山房产网</a></li>
+                <li><a href="http://nc.anjuke.com/">南昌房产网</a></li>
+                <li><a href="http://zh.anjuke.com/">珠海房产网</a></li>
+                <li><a href="http://cz.anjuke.com/">常州房产网</a></li>
+                <li><a href="http://zs.anjuke.com/">中山房产网</a></li>
+                <li><a href="http://jx.anjuke.com/">嘉兴房产网</a></li>
+                <li><a href="http://xm.anjuke.com/">厦门房产网</a></li>
+                <li><a href="http://yt.anjuke.com/">烟台房产网</a></li>
+                <li><a href="http://haikou.anjuke.com/">海口房产网</a></li>
+                <li><a href="http://cc.anjuke.com/">长春房产网</a></li>
+                <li><a href="http://sanya.anjuke.com/">三亚房产网</a></li>
+                <li><a href="http://huizhou.anjuke.com/">惠州房产网</a></li>
+                <li><a href="http://baoding.anjuke.com/">保定房产网</a></li>
+                <li><a href="http://guilin.anjuke.com/">桂林房产网</a></li>
+                <li><a href="http://handan.anjuke.com/">邯郸房产网</a></li>
+                <li><a href="http://jilin.anjuke.com/">吉林房产网</a></li>
+                <li><a href="http://lanzhou.anjuke.com/">兰州房产网</a></li>
+                <li><a href="http://langfang.anjuke.com/">廊坊房产网</a></li>
+                <li><a href="http://luoyang.anjuke.com/">洛阳房产网</a></li>
+                <li><a href="http://mianyang.anjuke.com/">绵阳房产网</a></li>
+                <li><a href="http://nanning.anjuke.com/">南宁房产网</a></li>
+                <li><a href="http://nantong.anjuke.com/">南通房产网</a></li>
+                <li><a href="http://quanzhou.anjuke.com/">泉州房产网</a></li>
+                <li><a href="http://shaoxing.anjuke.com/">绍兴房产网</a></li>
+                <li><a href="http://taizhou.anjuke.com/">泰州房产网</a></li>
+                <li><a href="http://tangshan.anjuke.com/">唐山房产网</a></li>
+                <li><a href="http://weihai.anjuke.com/">威海房产网</a></li>
+                <li><a href="http://weifang.anjuke.com/">潍坊房产网</a></li>
+                <li><a href="http://xuzhou.anjuke.com/">徐州房产网</a></li>
+                <li><a href="http://yangzhou.anjuke.com/">扬州房产网</a></li>
+                <li><a href="http://yichang.anjuke.com/">宜昌房产网</a></li>
+                <li><a href="http://yinchuan.anjuke.com/">银川房产网</a></li>
+                <li><a href="http://zhenjiang.anjuke.com/">镇江房产网</a></li>
+                <li><a href="http://zibo.anjuke.com/">淄博房产网</a></li>
+                <li><a href="http://liuzhou.anjuke.com/">柳州房产网</a></li>
+                <li><a href="http://jiangmen.anjuke.com/">江门房产网</a></li>
+                <li><a href="http://sjz.anjuke.com/">石家庄房产网</a></li>
+                <li><a href="http://heb.anjuke.com/">哈尔滨房产网</a></li>
+                <li><a href="http://qinhuangdao.anjuke.com/">秦皇岛房产网</a></li>
+                <li><a href="http://huhehaote.anjuke.com/">呼和浩特房产网</a></li>
+            </ul>
+    <div id="community_link" class="tab-link community-link clearfix">
+        <ul>
+            <li><a href="http://m.anjuke.com/hz/xiaoqu/" target="_blank">手机版小区大全</a></li>
+            <li><a href="http://www.anjuke.com/hangzhou/cm/" target="_blank">二手房小区大全</a></li>
+            <li><a href="http://www.anjuke.com/hangzhou/cm-zu/" target="_blank">租房小区大全</a></li>
+        </ul>
+    </div>
+    <div id="map_link" class="tab-link map-link clearfix">
+        <ul>
+                    <li><a href="http://m.anjuke.com/hz/sitemap/" target="_blank">手机版二手房地图</a></li>
+                            <li><a href="http://m.anjuke.com/hz/xinfang/sitemap/" target="_blank">手机版新房地图</a></li>
+                            <li><a href="http://hangzhou.anjuke.com/sitemap/" target="_blank">二手房地图</a></li>
+                            <li><a href="http://hz.fang.anjuke.com/fangsitemap/" target="_blank">新房地图</a></li>
+                                    <li><a href="http://hangzhou.anjuke.com/sitemap/" target="_blank">新房楼盘大全</a></li>
+                    </ul>
+    </div>
+    <div id="house_link" class="tab-link house-link clearfix">
+        <ul>
+                    <li><a href="http://hangzhou.anjuke.com/fang/"  target="_blank">二手房</a></li>
+                                    <li><a href="http://hz.zu.anjuke.com/fang/" target="_blank">租房</a></li>
+                            <li><a href="http://hz.xzl.anjuke.com/fang_zu/" target="_blank">写字楼出租</a></li>
+            <li><a href="http://hz.xzl.anjuke.com/fang_shou/"  target="_blank">写字楼出售</a></li>
+                            <li><a href="http://hz.sp.anjuke.com/fang_zu/" target="_blank">商铺出租</a></li>
+            <li><a href="http://hz.sp.anjuke.com/fang_shou/" target="_blank">商铺出售</a></li>
+                            <li><a href="http://m.anjuke.com/hz/propsitemap/esf/" target="_blank">手机版二手房</a></li>
+            <li><a href="http://m.anjuke.com/hz/propsitemap/zf/"target="_blank">手机版租房</a></li>
+                </ul>
+    </div>
+    <p>
+        客服热线/ 虚假信息举报：400-620-9008&nbsp;&nbsp;&nbsp;&nbsp;
+        邮箱：<a href="mailto:service@58ganji.com" target="_blank" rel="nofollow">service@58ganji.com</a>&nbsp;&nbsp;&nbsp;
+        Copyright &copy; 2007-2016 www.anjuke.com  All Rights Reserved <a href="http://www.miibeian.gov.cn/" rel="nofollow">ICP号：沪&nbsp;B2-20090008</a>
+    </p>
+    </div>
+
+<div class="toTop">
+        <a id="research" href="" title="小安调研" rel="nofollow" target="_blank" title="小安调研">
+        <div class="research-header"></div>
+        <div class="research-content">
+            <span>小安调研</span>
+            <p class="">怎样的小区内容对您有帮助？</p>
+            <div>我要参加</div>
+        </div>
+        <div class="research-footer"></div>
+    </a>
+    
+        <a class="downloadapp" href="javascript:;" title="最靠谱的找房APP"  rel="nofollow">
+                <img src="http://pages.ajkcdn.com/site/img/common/app.gif" />
+        <span>下载APP</span>
+        <div class="erweima"></div>
+    </a>
+        
+        
+                <a href="http://i.anjuke.com/propsale/"  _soj="flow" rel="nofollow" target="_blank"  title="我要发房">
+             <i class="icon icon-house"></i><span>我要发房</span>
+    </a>
+        
+        <a href="http://hangzhou.anjuke.com/suggestion/"  rel="nofollow" target="_blank" title="意见反馈">
+        <i class="icon icon-suggest"></i><span>意见反馈</span>
+    </a>
+    
+    <a id="to_top" href="" title="返回顶部"><i class="icon icon-up"></i></a>
+</div>
+
+    <script type="text/javascript" src="http://pages.ajkcdn.com/site/js/jquery/1.11.3/jquery-underscore.min.js"></script>
+<script type="text/javascript" src="http://pages.ajkcdn.com/site/js/bbv4.js"></script>
+<script type="text/javascript" src="http://include.anjukestatic.com/anjuke-zu/res/20162706/b/Zufang_Web_Rent_List_List.js"></script>
+<script type="text/javascript">
+
+$(function(){
+    ajk.citySelector = new ajk.DropDown($('#switch_apf_id_5'),$('#city_list'),500);
+});
+
+$(function(){
+	function Searchbar(op){
+    	var search = location.search;
+        var query  = '';
+        var params = {};
+        search.replace(/\?(.*)/g, function(all, q) {
+            query = q;
+            return '';
+        });
+        var arr = query.length ? query.split('&') : [];
+        for(var i = 0; i< arr.length; i++){
+            var keyVal = arr[i].split('=');
+            params[keyVal[0]] = decodeURIComponent(keyVal[1]);
+        }
+
+		if( params.kw !== undefined && params.kw != ''){
+			$('#search-rent').val(params.kw);
+			$('#search-close').show();
+		}
+
+		var auto = new ajk.Autocomplete($('#search-rent'),{
+		        insertDom:$('#search-rent').parent(),
+		        template : _.template($('#search-tpl').html()),
+		        dataSource: function(keyword,setData){
+		            $.ajax({
+		                url: op.url,
+		                type: 'GET',
+		                dataType: 'jsonp',
+		                data: {
+		                    kw: keyword,
+		                    c : op.cityId,
+		                    n : 10,
+		                    g : 1,
+		                    t : op.searchType
+		                }
+		            }).done(function(data) {
+		                setData(data.list);
+		            });
+		        }
+		    }),
+	        close  = $('#search-close'),
+	        btn    = $('#search-button');
+	    auto.on('inputed',function(kw){
+	    	if(!_.isEmpty(kw)){
+	    		close.show();
+	    	}
+	    });
+	    auto.on('empty',function(){
+	        this.hide();
+	    	close.hide();
+	    });
+	    close.on('click',function(){
+	    	auto.el.val('').focus();
+	        auto.trigger('empty');
+	        ajk.Logger.sendSoj({
+	        	site: 'anjuke-npv',
+	        	page: close.attr('data-tracker')
+	        });
+	    });
+	    btn.on('click',function(){
+	    	window.location.href = op.submitUrl + '?kw=' + auto.el.val() + '&comm_exist=on';
+	    });
+	    auto.on('selected',function(){
+	    	window.location.href = op.submitUrl + '?kw=' + auto.el.val() + '&comm_exist=on&from=list_ac';
+	    });
+	}
+	APF.Namespace.register('ajk.page');
+	ajk.page.searchbar = new Searchbar({
+		url:'http://www.anjuke.com/ajax/indexautocomplete',
+		cityId: "18" || 11,
+		searchType: 3,
+		submitUrl:''
+	});
+});
+
+    $(function(){
+        new ajk.UserLogin({
+            getUserInfo:function(da,callback){
+                $.post("http://user.anjuke.com"+'/ajax/checklogin/'+'?r='+Math.random(),function(r){
+                    callback(r);
+                },'jsonp')
+            }
+        });
+    });
+
+    $(function(){
+        var x = document.createElement('script');
+        x.async = true;
+        x.onload = function(){
+            setTimeout(function(){
+                var r = document.getElementById("IFX_p3001"),
+                    content = r.innerHTML;
+                if(content.length > 10){
+                                        $(r).show();
+                }
+            },100);
+        }
+        x.src = 'http://ifx.fang.anjuke.com/s?p=3001&c=18&o=1';
+        var h = document.getElementsByTagName('head')[0];
+        if(h)h.insertBefore(x,h.lastChild);
+
+    });
+
+    $(function(){
+        var x = document.createElement('script');
+        x.async = true;
+        x.onload = function(){
+            setTimeout(function(){
+                var r = document.getElementById("IFX_p950"),
+                    content = r.innerHTML;
+                if(content.length > 10){
+                                        $(r).show();
+                }
+            },100);
+        }
+        x.src = 'http://ifx.fang.anjuke.com/s?p=950&c=18&o=1';
+        var h = document.getElementsByTagName('head')[0];
+        if(h)h.insertBefore(x,h.lastChild);
+
+    });
+
+    $(function(){
+        var x = document.createElement('script');
+        x.async = true;
+        x.onload = function(){
+            setTimeout(function(){
+                var r = document.getElementById("IFX_p951"),
+                    content = r.innerHTML;
+                if(content.length > 10){
+                                        $(r).show();
+                }
+            },100);
+        }
+        x.src = 'http://ifx.fang.anjuke.com/s?p=951&c=18&o=1';
+        var h = document.getElementsByTagName('head')[0];
+        if(h)h.insertBefore(x,h.lastChild);
+
+    });
+
+    ;(function($){
+        $(document).ready(function(){
+
+
+            var pn_entry = {
+                pnZeroRecommend    : 'Rent_List_ZeroRecommend',
+                pnGuessLike        : 'Rent_List_GuessLikeRecommend'
+            }
+
+            var zero_params = {
+                v : "2.0",
+                entry : "125",
+                hpPage : "Haozu_Hp_View",
+                channel : "3",
+                commid : "0",
+                tradeType : "2",
+                // result : "{猜你喜欢推荐的房源总数,这个是你自己传递的}",
+                userId : "0",
+                userType : ""
+                // proids : "$fangyuan_id|$user_id|$community_id|$jingxuan_type"
+                // 其中$jingxuan_type 2:精选，1:套餐，你看接口中is_hp是不是等于1，等于1就是2，其他都是1
+            };
+
+            var guesslike_params = {
+                v : "2.0",
+                entry : "126",
+                hpPage : "Haozu_Hp_View",
+                channel : "3",
+                commid : "0",
+                tradeType : "2",
+                // result : "{猜你喜欢推荐的房源总数,这个是你自己传递的}",
+                userId : "0",
+                userType : ""
+                // proids : "$fangyuan_id|$user_id|$community_id|$jingxuan_type"
+                // 其中$jingxuan_type 2:精选，1:套餐，你看接口中is_hp是不是等于1，等于1就是2，其他都是1
+            };
+
+            var zufanglist = new ajk.ZufangList();
+            $('.zu-itemmod').length < 5 && zufanglist.loadRecom({
+                type         : "list",
+                num          : 20,
+                guid         : "39E5B469-E1E6-3968-2C3F-91B6ADD82FC9",
+                price_id     : "",
+                price_lower  : "",
+                price_upper  : "",
+                list_type    : "area",
+                area_id      : "",
+                block_id     : "",
+                metro_id     : "",
+                station_id   : "",
+                other_id     : "1",
+                city_id      : "18"
+            },zero_params,pn_entry.pnZeroRecommend,'/v3/ajax/recommend/');
+
+            var guesslike = new Guesslike({
+                url       : '/v3/ajax/listrecommend',
+                rec_type  : 'list',
+                guid      : "39E5B469-E1E6-3968-2C3F-91B6ADD82FC9" ,
+                city_id   : "18",
+                num       : 5,
+                params    : guesslike_params,
+                pageName  : pn_entry.pnGuessLike
+            });
+
+            // 猜你喜欢与零少结果pageName & entry
+
+        });
+    })(jQuery);
+
+
+;$(function(){
+    var urlForWeiLiaoJs = "http://chat.anjuke.com/api/unreadmsgcnt";
+
+    new ajk.pc.Footer({
+        getChatMsg:function(key,callback){
+            window.setUnreadMsgCount = callback;
+            $.post(urlForWeiLiaoJs,{
+                'jsonp': 1,
+                'jsonpcallback' :'setUnreadMsgCount'
+            },'jsonp');
+        }
+    });
+});
+</script>    <script>
+    ;(function(){
+        ajk.Logger.setSite('anjuke');
+        ajk.Logger.setPage('Listing_V2_IndexPage_All');
+        ajk.Logger.setPageName('Listing_V2_IndexPage_All');
+        var sojData = {
+            'customparam':'{"v":"2.0","entry":1,"hpPage":"Haozu_Hp_View","channel":"3","commid":"0","tradeType":"2","result":884616,"userId":0,"userType":0,"proids":"1008055757|1718989|219865|1,1009144277|1757637|160827|1,1007805653|2294929|369902|1,1007301050|945380|160046|1,1008505447|2448465|160945|1,1009568641|2110949|160766|1,1009045714|2462912|224144|1,1008921325|742518|161182|1,1009480932|2268395|160520|1,1006750259|1488272|209580|1,1009122802|2277467|486928|1,1008762343|2471767|193851|1,1009688944|1991689|187402|1,1007776658|2443381|160935|1,1007336512|2440880|584452|1,1009199835|1648570|160629|1,1008895130|1268350|315335|1,1008475442|1825221|217697|1,1009402702|2182572|193851|1,1009058605|2004408|160079|1,1008816279|2469071|160242|1,1007781576|609785|498704|1,1009525370|1540499|160765|1,1008823675|2457421|781708|1,1007937525|2239774|171723|1,1009131240|2119329|161154|1,1008993891|1128171|178249|1,1008325397|1667318|161051|1,1007820893|833250|201741|1,1006887467|2407467|160813|1,1008776809|932172|248431|1,1007591689|1546208|160187|1,1009349190|1563129|160612|1,1009140345|1764895|160987|1,1009098278|2194394|160972|1,1008744619|2102389|228585|1,1008767028|2209066|160223|1,1008977762|767612|173942|1,1008517439|1588548|160990|1,1008661429|1849045|292642|1,1008934127|2344661|369936|1,1008636137|144006|181250|1,1008877516|1550772|161181|1,1009583030|1936750|161133|1,1009524511|2018156|160811|1,1007427196|2118270|200064|1,1007956485|2415143|369819|1,1008680867|1711574|221973|1,1007787581|1579371|444534|1,1009122702|2464513|369816|1,1008867470|1521563|369913|1,1008028922|2461281|161030|1,1008848820|647730|171677|1,1009690057|2433772|160792|1,1009663660|2073099|160578|1,1009139446|2280806|464986|1,1008397125|2400008|160987|1,1009114190|1150153|504503|1,1009680784|2131149|369949|1,1008502600|1738706|188980|1"}'
+        }
+        ajk.Logger.sendSoj(sojData);
+    })();
+    </script>
+    <!-- START: 性能测试监控 -->
+    <script>
+        $(function(){
+            var v = 1456202590,
+                src = "http://pages.aifcdn.com/prism/performance.js?v="+v;
+            $.ajax({
+              url: src,
+              dataType: "script",
+              cache:true,
+              success: function(){
+                window.perfConfig = {
+                    pageName : 'Zufang_Web_Rent_List_ListPage',
+                    siteName : 'ershoufang'
+                };
+              }
+            });
+        });
+    </script>
+    <!-- END: 性能测试监控 -->
+
+        <!-- 初始化曝光 -->
+    <script>
+        $(function(){
+            ajk.exposure = new ajk.Logger.Exposure({
+                site:'anjuke-exposure-npv',
+                page:'Zufang_Web_Rent_List_ListPage',
+                pageName:'Listing_V2_IndexPage_All',
+                NGuid:'',
+                NUid:''
+            });
+            ajk.exposure.add($('[data-trace]'));
+        });
+    </script>
+    
+    <script type="text/javascript">
+(function(param){
+       var c = {query:[], args:param||{}};
+       c.query.push(["_setAccount","8"]);//固定参数
+       (window.__zpSMConfig = window.__zpSMConfig||[]).push(c);
+       var zp = document.createElement("script"); zp.type = "text/javascript"; zp.async = true;
+       zp.src = ("https:" == document.location.protocol ? "https:" : "http:") + "//cdn.zampda.net/s.js";
+       var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(zp, s);
+}) (window.__zp_tag_params);
+</script>
+
+
+    
+</body>
+</html>
