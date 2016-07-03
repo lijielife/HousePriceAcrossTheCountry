@@ -1,0 +1,10 @@
+CREATE DATABASE AnJuKe CHARACTER SET 'utf8' COLLATE 'utf8_general_ci';
+USE AnJuKe;
+CREATE TABLE AnJuKe_New_House(
+   id INT NOT NULL AUTO_INCREMENT,
+   loupan_name VARCHAR(200) NOT NULL,
+   loupan_name_detail VARCHAR(500) NOT NULL,
+   address VARCHAR(200) NOT NULL,
+   price VARCHAR(200) NOT NULL,
+   PRIMARY KEY (id)
+);

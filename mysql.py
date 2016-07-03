@@ -29,8 +29,10 @@ class MySql(object):
 
     def commit_to_database(self, sql, data_list):
         cur = self.conn.cursor()
+        print u'正在提交数据至目标数据表...'
         cur.executemany(sql, data_list)
         self.conn.commit()
+        print u'数据提交完毕'
         cur.close()
 
     def disconnect_from_database_server(self):
