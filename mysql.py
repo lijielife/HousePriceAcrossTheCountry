@@ -30,10 +30,30 @@ class MySql(object):
     def commit_to_database(self, sql, data_list):
         cur = self.conn.cursor()
         print u'正在提交数据至目标数据表...'
-        cur.executemany(sql, data_list)
-        self.conn.commit()
-        print u'数据提交完毕'
-        cur.close()
+        try:
+            cur.executemany(sql, data_list)
+            self.conn.commit()
+            print u'数据提交完毕'
+        except MySQLdb.ProgrammingError:
+            self.conn.rollback()
+            print u'数据提交'
+        finally:
+            cur.close()
+
+    def query_from_database(self, sql):
+        q = []
+        cur = self.conn.cursor()
+        print u'正在提取数据表内的目标数据...'
+        try:
+            cur.execute(sql)
+            q = cur.fetchall()
+            print u'数据提取完毕'
+        except MySQLdb.ProgrammingError, e:
+            print 'status code: {0}, reason: {1}'.format(e[0], e[1])
+            print u'数据提取失败'
+        finally:
+            cur.close()
+        return q
 
     def disconnect_from_database_server(self):
         self.conn.close()
