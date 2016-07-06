@@ -11,11 +11,11 @@ def main():
     website = '.sofang.com'
 
     for (j, first_stair_city) in enumerate(first_stair_citys):
-        crawler = SouFangWang(city=first_stair_city, website=website)
+        crawler = SouFangWang(city=first_stair_city, website=website, counter=1)
         crawler.run()
 
     for (j, second_stair_city) in enumerate(second_stair_citys):
-        crawler = SouFangWang(city=second_stair_city, website=website)
+        crawler = SouFangWang(city=second_stair_city, website=website, counter=1)
         crawler.run()
 
 if __name__ == '__main__':

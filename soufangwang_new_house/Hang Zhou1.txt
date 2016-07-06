@@ -1,0 +1,1682 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="cache-control" content="no-cache">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge，chrome=1">
+<meta name="sogou_site_verification" content="ojP49dO3yi"/>
+<meta name="360-site-verification" content="1524c7d232ff39b8b441133fe660d306" />
+     <!-- 列表页 -->
+                                    <title>【杭州小区信息，杭州二手楼盘】-搜房网</title>
+                <meta name="keywords" content="杭州小区信息，杭州二手楼盘"/>
+                <meta name="description" content="搜房网-为您提供海量小区信息，小区出售价格，小区周边配套，小区详情，小区图片，通过对比小区，更便捷的更新您的需求！"/>
+                        <link rel="stylesheet" type="text/css" href="/css/list.css?v=1.2.1.0">
+            <link rel="icon" href="http://www.sofang.com/favicon.ico" mce_href="http://www.sofang.com/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" type="text/css" href="/css/common.css?v=1.2.1.0">
+<link rel="stylesheet" type="text/css" href="/css/personalLogin.css?v=1.2.1.0">
+<link rel="stylesheet" type="text/css" href="/css/color.css?v=1.2.1.0">
+     
+<script type="text/javascript" src="/js/jquery1.11.3.min.js?v=1.2.1.0"></script>
+
+</head>
+<body>
+<div class="header top_nav">
+    <div class="head">
+        <div class="top">
+            <div class="top_l">
+                <a href="/"><img src="/image/sofang_logo.png" alt="搜房网"></a>
+                <div class="city" id="city">
+                    <a class="a"><span class="color8d" id="current_city">杭州</span><i></i></a>
+                    <div class="change">
+                        <div class="change_msg">
+                            <div class="home margin_l">
+                                <h2 class="color2e">热门城市</h2>
+                                <div class="home_msg">
+                                    <ul>
+                                          
+                                        <li><a href="http://bj.sofang.com/saleesb/area">北京</a></li>
+     
+                                        <li><a href="http://tj.sofang.com/saleesb/area">天津</a></li>
+                                                    
+                                        <li><a href="http://qd.sofang.com/saleesb/area">青岛</a></li>
+                      
+                                        <li><a href="http://zz.sofang.com/saleesb/area">郑州</a></li>
+                      
+                                        <li><a href="http://wh.sofang.com/saleesb/area">武汉</a></li>
+                  
+                                        <li><a href="http://cs.sofang.com/saleesb/area">长沙</a></li>
+                                      </ul>
+                                    <ul>
+                                                         
+                                        <li><a href="http://gz.sofang.com/saleesb/area">广州</a></li>
+      
+                                        <li><a href="http://sz.sofang.com/saleesb/area">深圳</a></li>
+                                           
+                                        <li><a href="http://cq.sofang.com/saleesb/area">重庆</a></li>
+     
+                                        <li><a href="http://cd.sofang.com/saleesb/area">成都</a></li>
+                           
+                                        <li><a href="http://gy.sofang.com/saleesb/area">贵阳</a></li>
+                                      
+                                        <li><a href="http://xa.sofang.com/saleesb/area">西安</a></li>
+                                      </ul>
+                                    <ul>
+                                                                                                                  
+                                        <li><a href="http://sy.sofang.com/saleesb/area">沈阳</a></li>
+     
+                                        <li><a href="http://dl.sofang.com/saleesb/area">大连</a></li>
+                                       
+                                        <li><a href="http://sh.sofang.com/saleesb/area">上海</a></li>
+     
+                                        <li><a href="http://nj.sofang.com/saleesb/area">南京</a></li>
+        
+                                        <li><a href="http://su.sofang.com/saleesb/area">苏州</a></li>
+             
+                                        <li><a href="http://hz.sofang.com/saleesb/area">杭州</a></li>
+                                                                 </ul>
+                                </div>
+                            </div>
+                            <div class="word">
+                                <h2>
+                                    主要城市<a class="color_blue" href="/city.html">更多>></a> 
+                                </h2>
+                                <dl>
+                                    <dt>A-C</dt>
+                                    <dd>
+                                        <a href="http://as.sofang.com/saleesb/area">鞍山</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://bj.sofang.com/saleesb/area">北京</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://bd.sofang.com/saleesb/area">保定</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://bz.sofang.com/saleesb/area">滨州</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://cs.sofang.com/saleesb/area">长沙</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://changde.sofang.com/saleesb/area">常德</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://cq.sofang.com/saleesb/area">重庆</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://cd.sofang.com/saleesb/area">成都</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://cc.sofang.com/saleesb/area">长春</a>
+                                    </dd>
+                                </dl>
+                                <dl>
+                                    <dt>D-F</dt>
+                                    <dd>
+                                        <a href="http://dt.sofang.com/saleesb/area">大同</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://dg.sofang.com/saleesb/area">东莞</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://dl.sofang.com/saleesb/area">大连</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://dq.sofang.com/saleesb/area">大庆</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://erds.sofang.com/saleesb/area">鄂尔多斯</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://fz.sofang.com/saleesb/area">福州</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://fs.sofang.com/saleesb/area">佛山</a>
+                                    </dd>
+                                </dl>
+                                <dl>
+                                    <dt>G-I</dt>
+                                    <dd>
+                                        <a href="http://gz.sofang.com/saleesb/area">广州</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://gl.sofang.com/saleesb/area">桂林</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://gy.sofang.com/saleesb/area">贵阳</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://hs.sofang.com/saleesb/area">衡水</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://hshi.sofang.com/saleesb/area">黄石</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://huizhou.sofang.com/saleesb/area">惠州</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://hu.sofang.com/saleesb/area">呼和浩特</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://hrb.sofang.com/saleesb/area">哈尔滨</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://ha.sofang.com/saleesb/area">淮安</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://hz.sofang.com/saleesb/area">杭州</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://hf.sofang.com/saleesb/area">合肥</a>
+                                    </dd>
+                                </dl>
+                                <dl>
+                                    <dt>J-L</dt>
+                                    <dd>
+                                        <a href="http://jm.sofang.com/saleesb/area">江门</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://jy.sofang.com/saleesb/area">江阴</a>
+                                    </dd>
+                                </dl>
+                                <dl>
+                                    <dt>M-P</dt>
+                                    <dd>
+                                        <a href="http://mz.sofang.com/saleesb/area">梅州</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://nc.sofang.com/saleesb/area">南昌</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://nn.sofang.com/saleesb/area">南宁</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://nj.sofang.com/saleesb/area">南京</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://nt.sofang.com/saleesb/area">南通</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://nb.sofang.com/saleesb/area">宁波</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://pj.sofang.com/saleesb/area">盘锦</a>
+                                    </dd>
+                                </dl>
+                                <dl>
+                                    <dt>Q-S</dt>
+                                    <dd>
+                                        <a href="http://qhd.sofang.com/saleesb/area">秦皇岛</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://qz.sofang.com/saleesb/area">泉州</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://qd.sofang.com/saleesb/area">青岛</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://rizhao.sofang.com/saleesb/area">日照</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://sjz.sofang.com/saleesb/area">石家庄</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://sz.sofang.com/saleesb/area">深圳</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://sanya.sofang.com/saleesb/area">三亚</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://suining.sofang.com/saleesb/area">遂宁</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://shz.sofang.com/saleesb/area">石河子</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://sy.sofang.com/saleesb/area">沈阳</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://sh.sofang.com/saleesb/area">上海</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://su.sofang.com/saleesb/area">苏州</a>
+                                    </dd>
+                                </dl>
+                                <dl>
+                                    <dt>T-W</dt>
+                                    <dd>
+                                        <a href="http://tj.sofang.com/saleesb/area">天津</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://ts.sofang.com/saleesb/area">唐山</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://ty.sofang.com/saleesb/area">太原</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://taizhou.sofang.com/saleesb/area">泰州</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://wf.sofang.com/saleesb/area">潍坊</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://weihai.sofang.com/saleesb/area">威海</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://wh.sofang.com/saleesb/area">武汉</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://wlmq.sofang.com/saleesb/area">乌鲁木齐</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://wx.sofang.com/saleesb/area">无锡</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://wz.sofang.com/saleesb/area">温州</a>
+                                    </dd>
+                                </dl>
+                                <dl>
+                                    <dt>X-Z</dt>
+                                    <dd>
+                                        <a href="http://xm.sofang.com/saleesb/area">厦门</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://xa.sofang.com/saleesb/area">西安</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://xianyang.sofang.com/saleesb/area">咸阳</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://xn.sofang.com/saleesb/area">西宁</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://xz.sofang.com/saleesb/area">徐州</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://yt.sofang.com/saleesb/area">烟台</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://yc.sofang.com/saleesb/area">宜昌</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://yinchuan.sofang.com/saleesb/area">银川</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://yz.sofang.com/saleesb/area">扬州</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://zz.sofang.com/saleesb/area">郑州</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://zh.sofang.com/saleesb/area">珠海</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="http://zs.sofang.com/saleesb/area">中山</a>
+                                    </dd>
+                                </dl>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="top_c">
+                <ul id="ldd_menu">
+                    <li>
+                        <a class="a" href="/esfsale/area">二手房</a>
+                        <div class="nav_select">
+                            <p><i class="margin_l"></i></p>
+                            <dl>
+                                <dd><a href="/esfsale/area">出售房源</a></dd>
+                                <dd><a href="/saleesb/area">找小区</a></dd>
+                                <dd><a href="/map/sale/house">地图搜房</a></dd>
+                                <dd><a href="/checkpricelist/sale">查房价</a></dd>
+                                <dd><a href="/brokerlist">查询经纪人</a></dd>
+                                <dd><a href="/cal3">房贷计算器</a></dd>
+                            </dl>
+                        </div>
+                    </li>
+                    <li>
+                        <a class="a" href="/esfrent/area">租房</a>
+                        <div class="nav_select">
+                            <p><i></i></p>
+                            <dl>
+                                <dd><a href="/esfrent/area/ar1">整租房源</a></dd>
+                                <dd><a href="/esfrent/area/ar2">合租房源</a></dd>
+                                <dd><a href="/rentesb/area">找小区</a></dd>
+                                <dd><a href="/map/rent/house">地图搜房</a></dd>
+                            </dl>
+                        </div>
+                    </li>
+                                        <li>
+                        <a class="a" href="/xzlrent/area">写字楼</a>
+                        <div class="nav_select">
+                            <p><i class="margin_l"></i></p>
+                            <dl>
+                                <dd><a href="/xzlrent/area">写字楼出租</a></dd>
+                                <dd><a href="/xzlsale/area">写字楼出售</a></dd>
+                                <dd><a href="/map/rent/office">地图搜房</a></dd>
+                            </dl>
+                        </div>
+                    </li>
+                    <li>
+                        <a class="a" href="/sprent/area">商铺</a>
+                        <div class="nav_select">
+                            <p><i></i></p>
+                            <dl>
+                                <dd><a href="/sprent/area">商铺出租</a></dd>
+                                <dd><a href="/spsale/area">商铺出售</a></dd>
+                                <dd><a href="/map/rent/shops">地图搜房</a></dd>
+                            </dl>
+                        </div>
+                    </li>
+                    <li>
+                        <a class="a" href="/bsrent/area">豪宅别墅</a>
+                        <div class="nav_select">
+                            <p><i class="margin_l1"></i></p>
+                            <dl>
+                                <dd><a href="/bsrent/area">豪宅别墅出租</a></dd>
+                                <dd><a href="/bssale/area">豪宅别墅出售</a></dd>
+                                <dd><a href="/villa/area">豪宅别墅新盘</a></dd>
+                                <!-- <dd><a href="/map/rent/house">地图搜房</a></dd>-->
+                            </dl>
+                        </div>
+                    </li>
+                    <li>
+                        <a class="a" href="https://www.huilc.cn/front/noviceRegister" target="_blank">理财</a>
+                        <div class="nav_select">
+                            <p><i></i></p>
+                            <dl>
+                                <dd><a href="https://www.huilc.cn/front/noviceRegister" target="_blank">我要理财</a></dd>
+                                <dd><a href="http://fang.hlej.com/?chanel=soufang" target="_blank">我要贷款</a></dd>
+                                <dd><a href="https://www.huilc.cn/front/borrow/noviceBorrow" target="_blank">新人壕礼</a></dd>
+                            </dl>
+                        </div>
+                    </li>
+                    <li>
+                        <a class="a" href="http://baike.sofang.com/index.php?list-property">百科</a>
+                        <div class="nav_select">
+                            <p><i></i></p>
+                            <dl>
+                                <dd><a href="http://baike.sofang.com/index.php?list-property">楼盘词典</a></dd>
+                                <dd><a href="http://baike.sofang.com/index.php?list-mingqi">业界名企</a></dd>
+                                <dd><a href="http://baike.sofang.com/index.php?list-words">行业名词</a></dd>
+                                <dd><a href="http://baike.sofang.com/index.php?list-mingren">业界名人</a></dd>
+                            </dl>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+                        <div class="top_r">
+                <a class="modaltrigger color8d" onclick="lo()" href="#login">登录</a>
+                <span class="dotted"></span> <a class="modaltrigger color8d"
+                onclick="regs()" href="#register">注册</a> <a
+                href="http://agent.sofang.com/majorLogin" style="margin-left: 40px;">经纪人登录</a>
+            </div>
+                        <div class="clear"></div>
+        </div>
+    </div>
+    <script>
+        function lo() {
+            $("#lerror").hide();
+            $("#lname").val('');
+            $('#lpwd').val('');
+            $("#islname").attr("class", "answ");
+            $("#islpwd").attr("class", "ans");
+        }
+        function regs() {
+            $("#rname").val('');
+            $("#anrname").attr("class", "an");
+            $("#error_rname").val('');
+            $("#rmobile").val('');
+            $("#anmobile").attr("class", "an");
+            $("#error_rmobile").val('');
+            $("#ryzm").val('');
+            $("#anryzm").attr("class", "an");
+            $("#error_ryzm").val('');
+            $("#rpwd").val('');
+            $("#idpwd").attr("class", "an");
+            $("#rpwds").val('');
+            $("#isrpwd").attr("class", "an");
+            $("#error_rpwds").html('');
+        }
+    </script>
+</div>
+<div class="login" id="login" style="display:none;">
+  <span class="close"></span>
+  <h2>
+    <a class="user_login click">账号密码登录</a>
+    <a class="user_login">手机快捷登录</a>
+    <div class="clear"></div>
+  </h2>
+  <div class="userLogin">
+    <input type="hidden" name="crtoken" value="diJycrhi6VjbYsTa1usg9gtq9cnX39uRp0rL0URG" id="crtoken"/>
+    <form id="loginform" name="loginform" method="post" action="#">
+        <p class="zhao color2d margin_b">
+            <a class="color_blue modaltrigger" id="zhuce" href="#register" onclick="regs()">立即注册</a>
+        </p>
+        <ul class="login_msg">
+            <li class="error_msg"  id="lerror" style="display: none"><i></i><span>用户名或密码输入错误！</span></li>
+            <li class="error_msg"  id="lerror2" style="display: none"><i></i><span>用户已被限制登录！</span></li>
+            <li>
+                <i class="name"></i>
+                <input type="text" name="lname" id="lname" class="txt" placeholder="请输入用户名/手机号/邮箱">
+                <i class="an" id="islname"></i>
+            </li>
+            <li>
+               <i class="pwd"></i>
+               <input type="password" name="lpwd" id="lpwd" maxlength="16" class="txt" placeholder="请输入密码">
+               <i class="an" id="islpwd"></i>
+            </li>
+        </ul>
+        <p class="zhao color2d">
+            <input type="checkbox" checked="checked" id="autoLogin" >&nbsp;&nbsp;下次自动登录
+            <a href="/resetpassword">找回密码</a>
+        </p>
+        <p class="noRegister margin_b"><a class="color_blue" href="http://agent.sofang.com/majorLogin">经纪人可从这里登录>></a></p>
+        <input type="button" class="btn hidemodal back_color" id='login' onclick="lsubmit()" value="登录">
+    </form>
+  </div>
+  <div class="userLogin1" style="display:none;">
+    <p class="noRegister">未注册将自动创建搜房账号，并登录<a class="color_blue modaltrigger" href="#register" onclick="regs()">立即注册</a></p>
+    <form name="loginformPhone" method="post" action="#">
+        <ul class="login_msg">
+            <li>
+                <input type="text" name="quickLoginMobileNum" id='quickLoginMobileNum' maxlength="11" onkeyup="this.value=this.value.replace(/\D/g,''); homeLogin_checkQuickLoginMobile(this.value)"
+                onafterpaste="this.value=this.value.replace(/\D/g,'')" class="txt margin_l" placeholder="请输入手机号">
+               	<i style="display: none;"id="anquickLoginMobileNum"></i> 
+                <span class="ti" id="error_quickLoginMobileNum"></span>
+            </li>
+            <li>
+               <input type="text" maxlength="6" class="txt margin_l code"  placeholder="输入验证码" onafterpaste="this.value=this.value.replace(/\D/g,'')" onkeyup="this.value=this.value.replace(/\D/g,'')" id="ryzm_quickLoginMobileNum">
+               <input type="button" class="btn width back_color" id="btn_quickLoginNum"  value="获取验证码" >
+               <i style="display:none;" class="btnicon" id="tishibtnicon"></i>
+               <span class="ti" id="msphonequickLoginMobileNum"></span>
+            </li>
+        </ul>
+        <p class="zhao color2d">
+            <input type="checkbox" checked="checked"  id="agreeCheck" name="agree" onclick="checkBoxOnChange()">&nbsp;&nbsp;我已阅读<a href="/about/registAgreement.html" class="no_float">《搜房网服务协议》</a>
+            <span id="checkbox" style="display: none">请阅读并同意《搜房网服务协议》</span>
+        </p> 
+        <p class="noRegister margin_b"><a class="color_blue" href="http://agent.sofang.com/majorLogin">经纪人可从这里登录>></a></p>
+        <input type="button" class="btn hidemodal back_color" id='login' onclick="homeLogin_rsubmit_quickMobile()" value="登录">
+    </form>
+  </div>
+</div>
+<div class="register" id="register" style=" display:none; position:fixed !important;">
+    <span class="close"></span>
+    <div class="register_l"><img src="/image/4.jpg" alt=""></div>
+    <div class="register_c"></div>
+    <div class="register_r">
+        <h2>用户注册<a class="color_blue modaltrigger" href="#login">立即登录</a></h2>
+        <form id="loginform1" name="loginform1" method="post" action="#">
+            <ul class="login_msg">
+                <li>
+                    <label>用户名</label>
+                    <input type="text" name="rname"  id='rname' class="txt" onblur="checkname()" placeholder="输入6-21位，字母、数字、下划线的组合">
+                    <i class="an" id="anrname"></i>
+                    <span class="ti" id="error_rname"></span>
+                </li>
+                <li>
+                    <label>手机号</label>
+                    <input type="text" name="rmobile" id="rmobile" maxlength="11"  onkeyup="this.value=this.value.replace(/\D/g,'');upmobile()" onafterpaste="this.value=this.value.replace(/\D/g,'')"  class="txt" placeholder="请输入手机号">
+                    <i class="an" id="anmobile"></i>
+                     <span class="ti" id='error_rmobile'></span>
+                </li>
+                <li>
+                    <label>验证码</label>
+                    <input type="text" name="ryzm" id="ryzm" class="txt width" maxlength="6" onkeyup="this.value=this.value.replace(/\D/g,'');chcekymd()" onafterpaste="this.value=this.value.replace(/\D/g,'')" placeholder="请输入验证码">
+                    <input type="button" id=btn class="btn1 back_color" value="发送验证码" onclick="settime(this)">
+                    <i class="an" id="anryzm"></i>
+                    <span class="ti" id="error_ryzm"></span>
+                </li>
+                <li>
+                    <label>密码</label>
+                    <input type="password" name="rpwd" id="rpwd" class="txt" maxlength="16" placeholder="密码限制在6-16位">
+                    <i class="an" id="idpwd"></i>
+                    <span class="ti" id="error_rpwd"></span>
+                </li>
+                <li>
+                    <label>确认密码</label>
+                    <input type="password" name="rpwds" id="rpwds" maxlength="16" class="txt" placeholder="请确认密码">
+                    <i class="an" id="isrpwd"></i>
+                    <span class="ti" id="error_rpwds"></span>
+                </li>
+            </ul>
+            <p class="zhao">
+                <input type="checkbox" id="checkbox1" checked="checked" >&nbsp;&nbsp;<span>我已阅读<a href="/about/registAgreement.html">搜房网服务协议</a></span>
+                <span id="error_checkbox" class="ti"></span>
+            </p>
+            <input type="button" class="btn hidemodal back_color" onclick="rsubmit()" value="立即注册">
+        </form>
+    </div>
+   <a class="returnPhone">返回</a>
+</div>
+<input type="hidden" id="virtualphone_token" value="diJycrhi6VjbYsTa1usg9gtq9cnX39uRp0rL0URG">
+<script src='/js/telephoneLogin.js'></script>
+<script>
+$(document).ready(function(e) {
+	$("#login h2 a").click(function(){
+	   $("#login h2 a").removeClass("click");
+	   $(this).addClass("click");
+	   if($(this).text()=="账号密码登录")	{
+		  $(".userLogin").show();
+		  $(".userLogin1").hide(); 
+	   }else{
+		  $(".userLogin1").show();
+		  $(".userLogin").hide();  
+	   }
+	});
+});
+</script>
+        <script src="/js/housecompare.js?v=1.2.1.0"></script>
+    <script src="/js/point_interest.js?v=1.2.1.0"></script>
+    <script src="/js/list.js?v=1.2.1.0"></script>
+        <div class="header">
+        <div class="catalog_nav" id="catalog_nav">
+            <div class="list_sub">
+                <div class="list_search">
+                    <input type="text" class="txt border_blue" tp="saleesb" AutoComplete="off" placeholder="请输入关键字（楼盘名/地名等）" value="" id="keyword">
+                   <div class="mai mai1"></div>
+                    <input type="button" class="btn back_color keybtn" value="搜房">
+                </div>
+                
+            </div>
+        </div>
+    </div>
+<p class="route">
+  <span>您的位置：</span>
+  <a href="/">首页</a>
+  <span>&nbsp;>&nbsp;</span>
+    <a href="/saleesb/area">杭州
+                    二手小区
+            </a>
+        </p>
+<div class="list">
+  <div class="list_nav">
+    <div class="nav_l">
+              <a class="click color_blue border_blue" href="/saleesb/area">区域查询</a>
+                        <!--<a class="" href="/saleesb/loop">环线查询</a>-->
+           <!-- <a href="../../area.htm">地图查询</a> -->
+    </div>
+  </div> 
+  <div class="list_term">
+      <input type="hidden" id="token" name="_token" value="diJycrhi6VjbYsTa1usg9gtq9cnX39uRp0rL0URG" >
+      <input type="hidden" id="linkurl"  value="/saleesb/area" >
+      <input type="hidden" id="par"  value="" >
+    <!--根据子类显示不同的选项-->
+          <dl>
+        <dt class="color_grey">区域：</dt>
+        <dd>
+                                    <a href="/saleesb/area/" class="color_blue">不限</a>
+            
+                                                                <a href="/saleesb/area/aa3126">上城</a>
+                                                                                <a href="/saleesb/area/aa3127">下城</a>
+                                                                                <a href="/saleesb/area/aa3128">江干</a>
+                                                                                <a href="/saleesb/area/aa3129">拱墅</a>
+                                                                                <a href="/saleesb/area/aa3130">西湖</a>
+                                                                                <a href="/saleesb/area/aa3131">滨江</a>
+                                                                                <a href="/saleesb/area/aa3132">萧山</a>
+                                                                                <a href="/saleesb/area/aa3133">余杭</a>
+                                                                                <a href="/saleesb/area/aa3134">桐庐</a>
+                                                                                <a href="/saleesb/area/aa3135">淳安</a>
+                                                                                <a href="/saleesb/area/aa3136">建德</a>
+                                                                                <a href="/saleesb/area/aa3137">富阳</a>
+                                                                                <a href="/saleesb/area/aa3138">临安</a>
+                                            </dd>
+        <!--如果子类为学区则不显示子区域-->
+                                  <dd class="">
+            
+                        </dd>
+              </dl>
+        <!--房源和学区不显示房屋类型-->
+          <dl>
+        <dt class="color_grey">类型：</dt>
+        <dd>
+                                                                                                    <a href="/saleesb/area/" class="color_blue" >不限</a>
+                                                                                                        <a href="/saleesb/area/an301">普宅</a>
+                                                                                <a href="/saleesb/area/an302">经济适用房</a>
+                                                                                <a href="/saleesb/area/an303">商住楼</a>
+                                                                                <a href="/saleesb/area/an304">别墅</a>
+                                                                                <a href="/saleesb/area/an305">豪宅</a>
+                                                                                <a href="/saleesb/area/an306">平房</a>
+                                                                                <a href="/saleesb/area/an307">四合院</a>
+                                                        </dd>
+      </dl>
+        <!--房源别墅显示户型-->
+        <!--写字楼显示单层面积-->
+            <dl>
+          <dt class="color_grey">
+                            均价：
+              
+          </dt>
+          <dd>
+                                                                                                                                        <a href="/saleesb/area/" class="color_blue">不限</a>
+                                                                                                                                       <a  href="/saleesb/area/ao1">10000以下</a>
+                                                                                <a  href="/saleesb/area/ao2">10000-15000</a>
+                                                                                <a  href="/saleesb/area/ao3">15000-20000</a>
+                                                                                <a  href="/saleesb/area/ao4">20000-30000</a>
+                                                                                <a  href="/saleesb/area/ao5">30000-40000</a>
+                                                                                <a  href="/saleesb/area/ao6">40000-50000</a>
+                                                                                <a  href="/saleesb/area/ao7">50000以上</a>
+                                                            <span class="color8d left">
+               单价（元/平米）
+            </span>
+            <div class="prc">
+              <span class="prc_l"><input type="text" class="txt startprice" value=""></span>
+              <span class="dotted"></span>
+              <span class="prc_l"><input type="text" class="txt endprice" value=""></span>
+              <input type="button" class="btn avgbtn" value="确定">
+            </div>
+          </dd>
+        </dl>
+       <!--
+    <dl>
+          <dt class="color_grey">特色：</dt>
+          <dd>
+                                                <a href="/saleesb/area/" class="color_blue">不限</a>
+                
+                                                                <a href="/saleesb/area/as2" >地铁沿线</a>
+                                                                                    <a href="/saleesb/area/as7" >不限购</a>
+                                                                                    <a href="/saleesb/area/as8" >休闲度假</a>
+                                                                                    <a href="/saleesb/area/as9" >学区房</a>
+                                                                                    <a href="/saleesb/area/as10" >环线房</a>
+                                                                                    <a href="/saleesb/area/as11" >现房</a>
+                                                                                    <a href="/saleesb/area/as12" >精装楼盘</a>
+                                                          </dd>
+        </dl>
+        -->
+    <!--二手房不显示更多条件-->
+        <dl class="check" style="display:none">
+      <dt class="color_grey">已选条件：</dt>
+      <dd class="check_l"></dd>
+        <dd class="check_r"><a href="/saleesb/area">清空已选条件</a></dd>
+    </dl>
+  </div>
+
+            <div class="city_msg">
+            <dl class="msg_l">
+                <dt></dt>
+                <dd>
+                    <p class="p1">
+                                                    <a class="color_blue">杭州</a>
+                                                <span class="back_color">城市</span></p>
+                    <p class="p2 color8d">杭州楼盘信息</p>
+                </dd>
+            </dl>
+            <dl class="msg_r">
+                                    <dt class="color8d">二手楼盘总数</dt>
+                                <dd><span class="colorfe">5245</span>&nbsp;个</dd>
+            </dl>
+            <!--<dl class="msg_r">
+                            </dl>-->
+            <div class="banner">
+                                	<a href="/new/area"><span class="newHouse"></span></a>
+                            </div>
+            <!--当楼盘id不为空并且购买此服务时显示-->
+        </div>
+    
+  <div class="type_nav">
+      <div class="property_type">
+                        <a class="build click">全部小区</a>
+                </div>
+   <div class="sort_nav">
+     <span class="sort color2d">排序：</span>
+            <a href="/saleesb/area/bi32-bj0" class="sort_icon "><span >价格</span><i class="click"></i></a>
+                          <a href="/saleesb/area/bi5-bj1" class="sort_icon sort_click"><span >二手房源数</span><i class=""></i></a>
+                      </div>
+   <span class="build_num color2d">找到<span class="colorfe fontA">5245</span>个符合条件的楼盘</span>
+   <div class="clear"></div>
+  </div>
+  <div class="build_list">
+                <dl>
+          <dt>
+                            <a href="/esfindex/49720/301.html"  target="_blank">
+                  <img src="/image/noImage.png" alt="标题图"></a>
+          <!-- <div class="home_detail"><a href="/xinfindex?communityId=49720&type2=301" class="img_num"><i></i>11</a></div> -->
+          </dt>
+          <dd class="margin_l build_width1">
+              <p class="build_name margin_b">
+                  <a href="/esfindex/49720/301.html" class="name build_width"  target="_blank">
+                      枫华府第</a>
+                  <!-- <span class="dis"><i></i><span class="dis_content">3万抵5万</span></span> -->
+              </p>
+              <p class="finish_data color8d margin_b"><span>
+                                            [<span>西湖</span><span>-九莲</span>]
+                                                                      西湖西湖学院路129号<i class="map_icon"></i>
+                                        </span></p>
+              <p class="build_type color8d margin_b">
+                                        <span>户型：</span>
+                                                <span><span class="fontA">1</span>室(<span class="fontA">584</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">2</span>室(<span class="fontA">319</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">3</span>室(<span class="fontA">1742</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">4</span>室(<span class="fontA">651</span>)</span>
+                                                      </p>
+                                                      <p class="home_num color8d"><span>二手房源：&nbsp;<a class="color_blue" href="/esfsale/area/ba49720">3317</a>&nbsp;套</span></p>
+                                          </dd>
+
+          
+          <dd class="right">
+                            <p class="build_price color2d margin_top2">
+                                                                                                        均价<span class="colorfe fontA">30594</span>元/平米
+                                                                      
+              </p>
+              <p class="handle margin_top1">
+                                        <a class="color66"><span class="focus" value="49720,3,3,0"><i class="follow"></i><span>关注</span></span></a>
+                      <a href="javascript:void(0);" onclick='addBuildCompare(49720,"枫华府第",0,3);' class="color66"><i class="contrast"></i>对比</a>
+                                </p>
+          </dd>
+      </dl>
+                <dl>
+          <dt>
+                            <a href="/esfindex/114498/301.html"  target="_blank">
+                  <img src="/image/noImage.png" alt="标题图"></a>
+          <!-- <div class="home_detail"><a href="/xinfindex?communityId=114498&type2=301" class="img_num"><i></i>11</a></div> -->
+          </dt>
+          <dd class="margin_l build_width1">
+              <p class="build_name margin_b">
+                  <a href="/esfindex/114498/301.html" class="name build_width"  target="_blank">
+                      九莲新村</a>
+                  <!-- <span class="dis"><i></i><span class="dis_content">3万抵5万</span></span> -->
+              </p>
+              <p class="finish_data color8d margin_b"><span>
+                                            [<span>西湖</span><span>-九莲</span>]
+                                                                      西湖文三路356号<i class="map_icon"></i>
+                                        </span></p>
+              <p class="build_type color8d margin_b">
+                                        <span>户型：</span>
+                                                <span><span class="fontA">1</span>室(<span class="fontA">358</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">2</span>室(<span class="fontA">807</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">3</span>室(<span class="fontA">432</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">4</span>室(<span class="fontA">6</span>)</span>
+                                                      </p>
+                                                      <p class="home_num color8d"><span>二手房源：&nbsp;<a class="color_blue" href="/esfsale/area/ba114498">1603</a>&nbsp;套</span></p>
+                                          </dd>
+
+          
+          <dd class="right">
+                            <p class="build_price color2d margin_top2">
+                                                                                                        均价<span class="colorfe fontA">19180</span>元/平米
+                                                                      
+              </p>
+              <p class="handle margin_top1">
+                                        <a class="color66"><span class="focus" value="114498,3,3,0"><i class="follow"></i><span>关注</span></span></a>
+                      <a href="javascript:void(0);" onclick='addBuildCompare(114498,"九莲新村",0,3);' class="color66"><i class="contrast"></i>对比</a>
+                                </p>
+          </dd>
+      </dl>
+                <dl>
+          <dt>
+                            <a href="/esfindex/15559/301.html"  target="_blank">
+                  <img src="/image/noImage.png" alt="标题图"></a>
+          <!-- <div class="home_detail"><a href="/xinfindex?communityId=15559&type2=301" class="img_num"><i></i>11</a></div> -->
+          </dt>
+          <dd class="margin_l build_width1">
+              <p class="build_name margin_b">
+                  <a href="/esfindex/15559/301.html" class="name build_width"  target="_blank">
+                      和家园</a>
+                  <!-- <span class="dis"><i></i><span class="dis_content">3万抵5万</span></span> -->
+              </p>
+              <p class="finish_data color8d margin_b"><span>
+                                            [<span>西湖</span><span>-留下</span>]
+                                                                      西湖西溪路南侧西穆坞<i class="map_icon"></i>
+                                        </span></p>
+              <p class="build_type color8d margin_b">
+                                        <span>户型：</span>
+                                                <span><span class="fontA">1</span>室(<span class="fontA">89</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">2</span>室(<span class="fontA">173</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">3</span>室(<span class="fontA">176</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">4</span>室(<span class="fontA">260</span>)</span>
+                                                      </p>
+                                                      <p class="home_num color8d"><span>二手房源：&nbsp;<a class="color_blue" href="/esfsale/area/ba15559">804</a>&nbsp;套</span></p>
+                                          </dd>
+
+          
+          <dd class="right">
+                            <p class="build_price color2d margin_top2">
+                                                                                                        均价<span class="colorfe fontA">10000</span>元/平米
+                                                                      
+              </p>
+              <p class="handle margin_top1">
+                                        <a class="color66"><span class="focus" value="15559,3,3,0"><i class="follow"></i><span>关注</span></span></a>
+                      <a href="javascript:void(0);" onclick='addBuildCompare(15559,"和家园",0,3);' class="color66"><i class="contrast"></i>对比</a>
+                                </p>
+          </dd>
+      </dl>
+                <dl>
+          <dt>
+                            <a href="/esfindex/384712/301.html"  target="_blank">
+                  <img src="/image/noImage.png" alt="标题图"></a>
+          <!-- <div class="home_detail"><a href="/xinfindex?communityId=384712&type2=301" class="img_num"><i></i>11</a></div> -->
+          </dt>
+          <dd class="margin_l build_width1">
+              <p class="build_name margin_b">
+                  <a href="/esfindex/384712/301.html" class="name build_width"  target="_blank">
+                      赞成香颂</a>
+                  <!-- <span class="dis"><i></i><span class="dis_content">3万抵5万</span></span> -->
+              </p>
+              <p class="finish_data color8d margin_b"><span>
+                                                                      [ ] 东湖街道顺达路与振兴西路交汇处<i class="map_icon"></i>
+                                        </span></p>
+              <p class="build_type color8d margin_b">
+                                        <span>户型：</span>
+                                                <span><span class="fontA">1</span>室(<span class="fontA">0</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">2</span>室(<span class="fontA">45</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">3</span>室(<span class="fontA">614</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">4</span>室(<span class="fontA">138</span>)</span>
+                                                      </p>
+                                                      <p class="home_num color8d"><span>二手房源：&nbsp;<a class="color_blue" href="/esfsale/area/ba384712">797</a>&nbsp;套</span></p>
+                                          </dd>
+
+          
+          <dd class="right">
+                            <p class="build_price color2d margin_top2">
+                                                                                                        均价<span class="colorfe fontA">10000</span>元/平米
+                                                                      
+              </p>
+              <p class="handle margin_top1">
+                                        <a class="color66"><span class="focus" value="384712,3,3,0"><i class="follow"></i><span>关注</span></span></a>
+                      <a href="javascript:void(0);" onclick='addBuildCompare(384712,"赞成香颂",0,3);' class="color66"><i class="contrast"></i>对比</a>
+                                </p>
+          </dd>
+      </dl>
+                <dl>
+          <dt>
+                            <a href="/esfindex/385048/301.html"  target="_blank">
+                  <img src="/image/noImage.png" alt="标题图"></a>
+          <!-- <div class="home_detail"><a href="/xinfindex?communityId=385048&type2=301" class="img_num"><i></i>11</a></div> -->
+          </dt>
+          <dd class="margin_l build_width1">
+              <p class="build_name margin_b">
+                  <a href="/esfindex/385048/301.html" class="name build_width"  target="_blank">
+                      荷花小区</a>
+                  <!-- <span class="dis"><i></i><span class="dis_content">3万抵5万</span></span> -->
+              </p>
+              <p class="finish_data color8d margin_b"><span>
+                                                                      [近郊 余杭] 星光街汀洲路交叉口<i class="map_icon"></i>
+                                        </span></p>
+              <p class="build_type color8d margin_b">
+                                        <span>户型：</span>
+                                                <span><span class="fontA">1</span>室(<span class="fontA">0</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">2</span>室(<span class="fontA">587</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">3</span>室(<span class="fontA">150</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">4</span>室(<span class="fontA">0</span>)</span>
+                                                      </p>
+                                                      <p class="home_num color8d"><span>二手房源：&nbsp;<a class="color_blue" href="/esfsale/area/ba385048">741</a>&nbsp;套</span></p>
+                                          </dd>
+
+          
+          <dd class="right">
+                            <p class="build_price color2d margin_top2">
+                                                                                                        均价<span class="colorfe fontA">10000</span>元/平米
+                                                                      
+              </p>
+              <p class="handle margin_top1">
+                                        <a class="color66"><span class="focus" value="385048,3,3,0"><i class="follow"></i><span>关注</span></span></a>
+                      <a href="javascript:void(0);" onclick='addBuildCompare(385048,"荷花小区",0,3);' class="color66"><i class="contrast"></i>对比</a>
+                                </p>
+          </dd>
+      </dl>
+                <dl>
+          <dt>
+                            <a href="/esfindex/262516/301.html"  target="_blank">
+                  <img src="/image/noImage.png" alt="标题图"></a>
+          <!-- <div class="home_detail"><a href="/xinfindex?communityId=262516&type2=301" class="img_num"><i></i>11</a></div> -->
+          </dt>
+          <dd class="margin_l build_width1">
+              <p class="build_name margin_b">
+                  <a href="/esfindex/262516/301.html" class="name build_width"  target="_blank">
+                      景城花园</a>
+                  <!-- <span class="dis"><i></i><span class="dis_content">3万抵5万</span></span> -->
+              </p>
+              <p class="finish_data color8d margin_b"><span>
+                                            [<span>西湖</span><span>-九莲</span>]
+                                                                      西湖华星路与万塘路的交叉口<i class="map_icon"></i>
+                                        </span></p>
+              <p class="build_type color8d margin_b">
+                                        <span>户型：</span>
+                                                <span><span class="fontA">1</span>室(<span class="fontA">11</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">2</span>室(<span class="fontA">15</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">3</span>室(<span class="fontA">505</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">4</span>室(<span class="fontA">202</span>)</span>
+                                                      </p>
+                                                      <p class="home_num color8d"><span>二手房源：&nbsp;<a class="color_blue" href="/esfsale/area/ba262516">733</a>&nbsp;套</span></p>
+                                          </dd>
+
+          
+          <dd class="right">
+                            <p class="build_price color2d margin_top2">
+                                                                                                        均价<span class="colorfe fontA">25069</span>元/平米
+                                                                      
+              </p>
+              <p class="handle margin_top1">
+                                        <a class="color66"><span class="focus" value="262516,3,3,0"><i class="follow"></i><span>关注</span></span></a>
+                      <a href="javascript:void(0);" onclick='addBuildCompare(262516,"景城花园",0,3);' class="color66"><i class="contrast"></i>对比</a>
+                                </p>
+          </dd>
+      </dl>
+                <dl>
+          <dt>
+                            <a href="/esfindex/15026/301.html"  target="_blank">
+                  <img src="/image/noImage.png" alt="标题图"></a>
+          <!-- <div class="home_detail"><a href="/xinfindex?communityId=15026&type2=301" class="img_num"><i></i>11</a></div> -->
+          </dt>
+          <dd class="margin_l build_width1">
+              <p class="build_name margin_b">
+                  <a href="/esfindex/15026/301.html" class="name build_width"  target="_blank">
+                      求是新村</a>
+                  <!-- <span class="dis"><i></i><span class="dis_content">3万抵5万</span></span> -->
+              </p>
+              <p class="finish_data color8d margin_b"><span>
+                                            [<span>西湖</span><span>-灵隐</span>]
+                                                                      西湖求是路与玉古路交叉口<i class="map_icon"></i>
+                                        </span></p>
+              <p class="build_type color8d margin_b">
+                                        <span>户型：</span>
+                                                <span><span class="fontA">1</span>室(<span class="fontA">32</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">2</span>室(<span class="fontA">237</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">3</span>室(<span class="fontA">377</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">4</span>室(<span class="fontA">12</span>)</span>
+                                                      </p>
+                                                      <p class="home_num color8d"><span>二手房源：&nbsp;<a class="color_blue" href="/esfsale/area/ba15026">660</a>&nbsp;套</span></p>
+                                          </dd>
+
+          
+          <dd class="right">
+                            <p class="build_price color2d margin_top2">
+                                                                                                        均价<span class="colorfe fontA">42199</span>元/平米
+                                                                      
+              </p>
+              <p class="handle margin_top1">
+                                        <a class="color66"><span class="focus" value="15026,3,3,0"><i class="follow"></i><span>关注</span></span></a>
+                      <a href="javascript:void(0);" onclick='addBuildCompare(15026,"求是新村",0,3);' class="color66"><i class="contrast"></i>对比</a>
+                                </p>
+          </dd>
+      </dl>
+                <dl>
+          <dt>
+                            <a href="/esfindex/154227/301.html"  target="_blank">
+                  <img src="/image/noImage.png" alt="标题图"></a>
+          <!-- <div class="home_detail"><a href="/xinfindex?communityId=154227&type2=301" class="img_num"><i></i>11</a></div> -->
+          </dt>
+          <dd class="margin_l build_width1">
+              <p class="build_name margin_b">
+                  <a href="/esfindex/154227/301.html" class="name build_width"  target="_blank">
+                      金都夏宫</a>
+                  <!-- <span class="dis"><i></i><span class="dis_content">3万抵5万</span></span> -->
+              </p>
+              <p class="finish_data color8d margin_b"><span>
+                                            [<span>余杭</span><span>-临平</span>]
+                                                                      余杭临平北沙西路与星河路交叉口<i class="map_icon"></i>
+                                        </span></p>
+              <p class="build_type color8d margin_b">
+                                        <span>户型：</span>
+                                                <span><span class="fontA">1</span>室(<span class="fontA">28</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">2</span>室(<span class="fontA">29</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">3</span>室(<span class="fontA">158</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">4</span>室(<span class="fontA">16</span>)</span>
+                                                      </p>
+                                                      <p class="home_num color8d"><span>二手房源：&nbsp;<a class="color_blue" href="/esfsale/area/ba154227">557</a>&nbsp;套</span></p>
+                                          </dd>
+
+          
+          <dd class="right">
+                            <p class="build_price color2d margin_top2">
+                                                                                                        均价<span class="colorfe fontA">18951</span>元/平米
+                                                                      
+              </p>
+              <p class="handle margin_top1">
+                                        <a class="color66"><span class="focus" value="154227,3,3,0"><i class="follow"></i><span>关注</span></span></a>
+                      <a href="javascript:void(0);" onclick='addBuildCompare(154227,"金都夏宫",0,3);' class="color66"><i class="contrast"></i>对比</a>
+                                </p>
+          </dd>
+      </dl>
+                <dl>
+          <dt>
+                            <a href="/esfindex/46909/301.html"  target="_blank">
+                  <img src="/image/noImage.png" alt="标题图"></a>
+          <!-- <div class="home_detail"><a href="/xinfindex?communityId=46909&type2=301" class="img_num"><i></i>11</a></div> -->
+          </dt>
+          <dd class="margin_l build_width1">
+              <p class="build_name margin_b">
+                  <a href="/esfindex/46909/301.html" class="name build_width"  target="_blank">
+                      临平桂花城</a>
+                  <!-- <span class="dis"><i></i><span class="dis_content">3万抵5万</span></span> -->
+              </p>
+              <p class="finish_data color8d margin_b"><span>
+                                            [<span>余杭</span><span>-临平</span>]
+                                                                      余杭余杭临平人民大道与红丰南路交叉口<i class="map_icon"></i>
+                                        </span></p>
+              <p class="build_type color8d margin_b">
+                                        <span>户型：</span>
+                                                <span><span class="fontA">1</span>室(<span class="fontA">1</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">2</span>室(<span class="fontA">10</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">3</span>室(<span class="fontA">324</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">4</span>室(<span class="fontA">153</span>)</span>
+                                                      </p>
+                                                      <p class="home_num color8d"><span>二手房源：&nbsp;<a class="color_blue" href="/esfsale/area/ba46909">549</a>&nbsp;套</span></p>
+                                          </dd>
+
+          
+          <dd class="right">
+                            <p class="build_price color2d margin_top2">
+                                                                                                        均价<span class="colorfe fontA">10000</span>元/平米
+                                                                      
+              </p>
+              <p class="handle margin_top1">
+                                        <a class="color66"><span class="focus" value="46909,3,3,0"><i class="follow"></i><span>关注</span></span></a>
+                      <a href="javascript:void(0);" onclick='addBuildCompare(46909,"临平桂花城",0,3);' class="color66"><i class="contrast"></i>对比</a>
+                                </p>
+          </dd>
+      </dl>
+                <dl>
+          <dt>
+                            <a href="/esfindex/375680/301.html"  target="_blank">
+                  <img src="/image/noImage.png" alt="标题图"></a>
+          <!-- <div class="home_detail"><a href="/xinfindex?communityId=375680&type2=301" class="img_num"><i></i>11</a></div> -->
+          </dt>
+          <dd class="margin_l build_width1">
+              <p class="build_name margin_b">
+                  <a href="/esfindex/375680/301.html" class="name build_width"  target="_blank">
+                      伊世纪城市花园</a>
+                  <!-- <span class="dis"><i></i><span class="dis_content">3万抵5万</span></span> -->
+              </p>
+              <p class="finish_data color8d margin_b"><span>
+                                            [<span>余杭</span><span>-临平</span>]
+                                                                      [ ] 余杭临平城区<i class="map_icon"></i>
+                                        </span></p>
+              <p class="build_type color8d margin_b">
+                                        <span>户型：</span>
+                                                <span><span class="fontA">1</span>室(<span class="fontA">12</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">2</span>室(<span class="fontA">30</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">3</span>室(<span class="fontA">277</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">4</span>室(<span class="fontA">158</span>)</span>
+                                                      </p>
+                                                      <p class="home_num color8d"><span>二手房源：&nbsp;<a class="color_blue" href="/esfsale/area/ba375680">510</a>&nbsp;套</span></p>
+                                          </dd>
+
+          
+          <dd class="right">
+                            <p class="build_price color2d margin_top2">
+                                                                                                        均价<span class="colorfe fontA">10000</span>元/平米
+                                                                      
+              </p>
+              <p class="handle margin_top1">
+                                        <a class="color66"><span class="focus" value="375680,3,3,0"><i class="follow"></i><span>关注</span></span></a>
+                      <a href="javascript:void(0);" onclick='addBuildCompare(375680,"伊世纪城市花园",0,3);' class="color66"><i class="contrast"></i>对比</a>
+                                </p>
+          </dd>
+      </dl>
+                <dl>
+          <dt>
+                            <a href="/esfindex/372434/301.html"  target="_blank">
+                  <img src="/image/noImage.png" alt="标题图"></a>
+          <!-- <div class="home_detail"><a href="/xinfindex?communityId=372434&type2=301" class="img_num"><i></i>11</a></div> -->
+          </dt>
+          <dd class="margin_l build_width1">
+              <p class="build_name margin_b">
+                  <a href="/esfindex/372434/301.html" class="name build_width"  target="_blank">
+                      耀江文鼎苑</a>
+                  <!-- <span class="dis"><i></i><span class="dis_content">3万抵5万</span></span> -->
+              </p>
+              <p class="finish_data color8d margin_b"><span>
+                                            [<span>西湖</span><span>-三墩</span>]
+                                                                      [西湖 三墩] 古墩路565号(余杭塘路)<i class="map_icon"></i>
+                                        </span></p>
+              <p class="build_type color8d margin_b">
+                                        <span>户型：</span>
+                                                <span><span class="fontA">1</span>室(<span class="fontA">8</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">2</span>室(<span class="fontA">190</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">3</span>室(<span class="fontA">228</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">4</span>室(<span class="fontA">57</span>)</span>
+                                                      </p>
+                                                      <p class="home_num color8d"><span>二手房源：&nbsp;<a class="color_blue" href="/esfsale/area/ba372434">497</a>&nbsp;套</span></p>
+                                          </dd>
+
+          
+          <dd class="right">
+                            <p class="build_price color2d margin_top2">
+                                                                                                        均价<span class="colorfe fontA">36859</span>元/平米
+                                                                      
+              </p>
+              <p class="handle margin_top1">
+                                        <a class="color66"><span class="focus" value="372434,3,3,0"><i class="follow"></i><span>关注</span></span></a>
+                      <a href="javascript:void(0);" onclick='addBuildCompare(372434,"耀江文鼎苑",0,3);' class="color66"><i class="contrast"></i>对比</a>
+                                </p>
+          </dd>
+      </dl>
+                <dl>
+          <dt>
+                            <a href="/esfindex/371725/301.html"  target="_blank">
+                  <img src="/image/noImage.png" alt="标题图"></a>
+          <!-- <div class="home_detail"><a href="/xinfindex?communityId=371725&type2=301" class="img_num"><i></i>11</a></div> -->
+          </dt>
+          <dd class="margin_l build_width1">
+              <p class="build_name margin_b">
+                  <a href="/esfindex/371725/301.html" class="name build_width"  target="_blank">
+                      欣盛东方福邸</a>
+                  <!-- <span class="dis"><i></i><span class="dis_content">3万抵5万</span></span> -->
+              </p>
+              <p class="finish_data color8d margin_b"><span>
+                                            [<span>西湖</span><span></span>]
+                                                                      [西湖 城西商圈] 益乐路水月街路口<i class="map_icon"></i>
+                                        </span></p>
+              <p class="build_type color8d margin_b">
+                                        <span>户型：</span>
+                                                <span><span class="fontA">1</span>室(<span class="fontA">13</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">2</span>室(<span class="fontA">158</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">3</span>室(<span class="fontA">149</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">4</span>室(<span class="fontA">96</span>)</span>
+                                                      </p>
+                                                      <p class="home_num color8d"><span>二手房源：&nbsp;<a class="color_blue" href="/esfsale/area/ba371725">434</a>&nbsp;套</span></p>
+                                          </dd>
+
+          
+          <dd class="right">
+                            <p class="build_price color2d margin_top2">
+                                                                                                        均价<span class="colorfe fontA">32727</span>元/平米
+                                                                      
+              </p>
+              <p class="handle margin_top1">
+                                        <a class="color66"><span class="focus" value="371725,3,3,0"><i class="follow"></i><span>关注</span></span></a>
+                      <a href="javascript:void(0);" onclick='addBuildCompare(371725,"欣盛东方福邸",0,3);' class="color66"><i class="contrast"></i>对比</a>
+                                </p>
+          </dd>
+      </dl>
+                <dl>
+          <dt>
+                            <a href="/esfindex/154089/301.html"  target="_blank">
+                  <img src="/image/noImage.png" alt="标题图"></a>
+          <!-- <div class="home_detail"><a href="/xinfindex?communityId=154089&type2=301" class="img_num"><i></i>11</a></div> -->
+          </dt>
+          <dd class="margin_l build_width1">
+              <p class="build_name margin_b">
+                  <a href="/esfindex/154089/301.html" class="name build_width"  target="_blank">
+                      经纬美耀湾</a>
+                  <!-- <span class="dis"><i></i><span class="dis_content">3万抵5万</span></span> -->
+              </p>
+              <p class="finish_data color8d margin_b"><span>
+                                            [<span>余杭</span><span>-星桥</span>]
+                                                                      余杭藕花洲大街星桥大道口<i class="map_icon"></i>
+                                        </span></p>
+              <p class="build_type color8d margin_b">
+                                        <span>户型：</span>
+                                                <span><span class="fontA">1</span>室(<span class="fontA">0</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">2</span>室(<span class="fontA">7</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">3</span>室(<span class="fontA">22</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">4</span>室(<span class="fontA">24</span>)</span>
+                                                      </p>
+                                                      <p class="home_num color8d"><span>二手房源：&nbsp;<a class="color_blue" href="/esfsale/area/ba154089">429</a>&nbsp;套</span></p>
+                                          </dd>
+
+          
+          <dd class="right">
+                            <p class="build_price color2d margin_top2">
+                                                                                                        均价<span class="colorfe fontA">11702</span>元/平米
+                                                                      
+              </p>
+              <p class="handle margin_top1">
+                                        <a class="color66"><span class="focus" value="154089,3,3,0"><i class="follow"></i><span>关注</span></span></a>
+                      <a href="javascript:void(0);" onclick='addBuildCompare(154089,"经纬美耀湾",0,3);' class="color66"><i class="contrast"></i>对比</a>
+                                </p>
+          </dd>
+      </dl>
+                <dl>
+          <dt>
+                            <a href="/esfindex/258339/301.html"  target="_blank">
+                  <img src="/image/noImage.png" alt="标题图"></a>
+          <!-- <div class="home_detail"><a href="/xinfindex?communityId=258339&type2=301" class="img_num"><i></i>11</a></div> -->
+          </dt>
+          <dd class="margin_l build_width1">
+              <p class="build_name margin_b">
+                  <a href="/esfindex/258339/301.html" class="name build_width"  target="_blank">
+                      东海水景城</a>
+                  <!-- <span class="dis"><i></i><span class="dis_content">3万抵5万</span></span> -->
+              </p>
+              <p class="finish_data color8d margin_b"><span>
+                                            [<span>余杭</span><span>-临平</span>]
+                                                                      余杭世纪大道东海水景城（世纪大道与西安路交叉口以东）<i class="map_icon"></i>
+                                        </span></p>
+              <p class="build_type color8d margin_b">
+                                        <span>户型：</span>
+                                                <span><span class="fontA">1</span>室(<span class="fontA">15</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">2</span>室(<span class="fontA">23</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">3</span>室(<span class="fontA">258</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">4</span>室(<span class="fontA">72</span>)</span>
+                                                      </p>
+                                                      <p class="home_num color8d"><span>二手房源：&nbsp;<a class="color_blue" href="/esfsale/area/ba258339">416</a>&nbsp;套</span></p>
+                                          </dd>
+
+          
+          <dd class="right">
+                            <p class="build_price color2d margin_top2">
+                                                                                                        均价<span class="colorfe fontA">10000</span>元/平米
+                                                                      
+              </p>
+              <p class="handle margin_top1">
+                                        <a class="color66"><span class="focus" value="258339,3,3,0"><i class="follow"></i><span>关注</span></span></a>
+                      <a href="javascript:void(0);" onclick='addBuildCompare(258339,"东海水景城",0,3);' class="color66"><i class="contrast"></i>对比</a>
+                                </p>
+          </dd>
+      </dl>
+                <dl>
+          <dt>
+                            <a href="/esfindex/258171/301.html"  target="_blank">
+                  <img src="/image/noImage.png" alt="标题图"></a>
+          <!-- <div class="home_detail"><a href="/xinfindex?communityId=258171&type2=301" class="img_num"><i></i>11</a></div> -->
+          </dt>
+          <dd class="margin_l build_width1">
+              <p class="build_name margin_b">
+                  <a href="/esfindex/258171/301.html" class="name build_width"  target="_blank">
+                      康城国际</a>
+                  <!-- <span class="dis"><i></i><span class="dis_content">3万抵5万</span></span> -->
+              </p>
+              <p class="finish_data color8d margin_b"><span>
+                                            [<span>余杭</span><span>-临平</span>]
+                                                                      余杭世纪大道676号（水景公园旁边）<i class="map_icon"></i>
+                                        </span></p>
+              <p class="build_type color8d margin_b">
+                                        <span>户型：</span>
+                                                <span><span class="fontA">1</span>室(<span class="fontA">0</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">2</span>室(<span class="fontA">60</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">3</span>室(<span class="fontA">333</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">4</span>室(<span class="fontA">12</span>)</span>
+                                                      </p>
+                                                      <p class="home_num color8d"><span>二手房源：&nbsp;<a class="color_blue" href="/esfsale/area/ba258171">412</a>&nbsp;套</span></p>
+                                          </dd>
+
+          
+          <dd class="right">
+                            <p class="build_price color2d margin_top2">
+                                                                                                        均价<span class="colorfe fontA">10000</span>元/平米
+                                                                      
+              </p>
+              <p class="handle margin_top1">
+                                        <a class="color66"><span class="focus" value="258171,3,3,0"><i class="follow"></i><span>关注</span></span></a>
+                      <a href="javascript:void(0);" onclick='addBuildCompare(258171,"康城国际",0,3);' class="color66"><i class="contrast"></i>对比</a>
+                                </p>
+          </dd>
+      </dl>
+                <dl>
+          <dt>
+                            <a href="/esfindex/295249/301.html"  target="_blank">
+                  <img src="/image/noImage.png" alt="标题图"></a>
+          <!-- <div class="home_detail"><a href="/xinfindex?communityId=295249&type2=301" class="img_num"><i></i>11</a></div> -->
+          </dt>
+          <dd class="margin_l build_width1">
+              <p class="build_name margin_b">
+                  <a href="/esfindex/295249/301.html" class="name build_width"  target="_blank">
+                      梅堰小区</a>
+                  <!-- <span class="dis"><i></i><span class="dis_content">3万抵5万</span></span> -->
+              </p>
+              <p class="finish_data color8d margin_b"><span>
+                                            [<span>余杭</span><span>-临平</span>]
+                                                                      余杭九曲营路与东湖中路交叉口<i class="map_icon"></i>
+                                        </span></p>
+              <p class="build_type color8d margin_b">
+                                        <span>户型：</span>
+                                                <span><span class="fontA">1</span>室(<span class="fontA">0</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">2</span>室(<span class="fontA">239</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">3</span>室(<span class="fontA">160</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">4</span>室(<span class="fontA">6</span>)</span>
+                                                      </p>
+                                                      <p class="home_num color8d"><span>二手房源：&nbsp;<a class="color_blue" href="/esfsale/area/ba295249">405</a>&nbsp;套</span></p>
+                                          </dd>
+
+          
+          <dd class="right">
+                            <p class="build_price color2d margin_top2">
+                                                                                                        均价<span class="colorfe fontA">10000</span>元/平米
+                                                                      
+              </p>
+              <p class="handle margin_top1">
+                                        <a class="color66"><span class="focus" value="295249,3,3,0"><i class="follow"></i><span>关注</span></span></a>
+                      <a href="javascript:void(0);" onclick='addBuildCompare(295249,"梅堰小区",0,3);' class="color66"><i class="contrast"></i>对比</a>
+                                </p>
+          </dd>
+      </dl>
+                <dl>
+          <dt>
+                            <a href="/esfindex/14545/301.html"  target="_blank">
+                  <img src="/image/noImage.png" alt="标题图"></a>
+          <!-- <div class="home_detail"><a href="/xinfindex?communityId=14545&type2=301" class="img_num"><i></i>11</a></div> -->
+          </dt>
+          <dd class="margin_l build_width1">
+              <p class="build_name margin_b">
+                  <a href="/esfindex/14545/301.html" class="name build_width"  target="_blank">
+                      翠苑一区</a>
+                  <!-- <span class="dis"><i></i><span class="dis_content">3万抵5万</span></span> -->
+              </p>
+              <p class="finish_data color8d margin_b"><span>
+                                            [<span>西湖</span><span>-翠苑</span>]
+                                                                      西湖文一路220号<i class="map_icon"></i>
+                                        </span></p>
+              <p class="build_type color8d margin_b">
+                                        <span>户型：</span>
+                                                <span><span class="fontA">1</span>室(<span class="fontA">110</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">2</span>室(<span class="fontA">172</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">3</span>室(<span class="fontA">103</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">4</span>室(<span class="fontA">2</span>)</span>
+                                                      </p>
+                                                      <p class="home_num color8d"><span>二手房源：&nbsp;<a class="color_blue" href="/esfsale/area/ba14545">387</a>&nbsp;套</span></p>
+                                          </dd>
+
+          
+          <dd class="right">
+                            <p class="build_price color2d margin_top2">
+                                                                                                        均价<span class="colorfe fontA">18801</span>元/平米
+                                                                      
+              </p>
+              <p class="handle margin_top1">
+                                        <a class="color66"><span class="focus" value="14545,3,3,0"><i class="follow"></i><span>关注</span></span></a>
+                      <a href="javascript:void(0);" onclick='addBuildCompare(14545,"翠苑一区",0,3);' class="color66"><i class="contrast"></i>对比</a>
+                                </p>
+          </dd>
+      </dl>
+                <dl>
+          <dt>
+                            <a href="/esfindex/114547/301.html"  target="_blank">
+                  <img src="/image/noImage.png" alt="标题图"></a>
+          <!-- <div class="home_detail"><a href="/xinfindex?communityId=114547&type2=301" class="img_num"><i></i>11</a></div> -->
+          </dt>
+          <dd class="margin_l build_width1">
+              <p class="build_name margin_b">
+                  <a href="/esfindex/114547/301.html" class="name build_width"  target="_blank">
+                      黄龙雅苑</a>
+                  <!-- <span class="dis"><i></i><span class="dis_content">3万抵5万</span></span> -->
+              </p>
+              <p class="finish_data color8d margin_b"><span>
+                                            [<span>西湖</span><span>-黄龙</span>]
+                                                                      西湖西溪路143号<i class="map_icon"></i>
+                                        </span></p>
+              <p class="build_type color8d margin_b">
+                                        <span>户型：</span>
+                                                <span><span class="fontA">1</span>室(<span class="fontA">94</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">2</span>室(<span class="fontA">66</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">3</span>室(<span class="fontA">155</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">4</span>室(<span class="fontA">43</span>)</span>
+                                                      </p>
+                                                      <p class="home_num color8d"><span>二手房源：&nbsp;<a class="color_blue" href="/esfsale/area/ba114547">378</a>&nbsp;套</span></p>
+                                          </dd>
+
+          
+          <dd class="right">
+                            <p class="build_price color2d margin_top2">
+                                                                                                        均价<span class="colorfe fontA">38348</span>元/平米
+                                                                      
+              </p>
+              <p class="handle margin_top1">
+                                        <a class="color66"><span class="focus" value="114547,3,3,0"><i class="follow"></i><span>关注</span></span></a>
+                      <a href="javascript:void(0);" onclick='addBuildCompare(114547,"黄龙雅苑",0,3);' class="color66"><i class="contrast"></i>对比</a>
+                                </p>
+          </dd>
+      </dl>
+                <dl>
+          <dt>
+                            <a href="/esfindex/517493/301.html"  target="_blank">
+                  <img src="/image/noImage.png" alt="标题图"></a>
+          <!-- <div class="home_detail"><a href="/xinfindex?communityId=517493&type2=301" class="img_num"><i></i>11</a></div> -->
+          </dt>
+          <dd class="margin_l build_width1">
+              <p class="build_name margin_b">
+                  <a href="/esfindex/517493/301.html" class="name build_width"  target="_blank">
+                      明珠公寓</a>
+                  <!-- <span class="dis"><i></i><span class="dis_content">3万抵5万</span></span> -->
+              </p>
+              <p class="finish_data color8d margin_b"><span>
+                                            [<span>西湖</span><span>-文三路</span>]
+                                                                      文三路与万塘路交叉<i class="map_icon"></i>
+                                        </span></p>
+              <p class="build_type color8d margin_b">
+                                        <span>户型：</span>
+                                                <span><span class="fontA">1</span>室(<span class="fontA">16</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">2</span>室(<span class="fontA">96</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">3</span>室(<span class="fontA">242</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">4</span>室(<span class="fontA">20</span>)</span>
+                                                      </p>
+                                                      <p class="home_num color8d"><span>二手房源：&nbsp;<a class="color_blue" href="/esfsale/area/ba517493">374</a>&nbsp;套</span></p>
+                                          </dd>
+
+          
+          <dd class="right">
+                            <p class="build_price color2d margin_top2">
+                                                                                                        均价<span class="colorfe fontA">25172</span>元/平米
+                                                                      
+              </p>
+              <p class="handle margin_top1">
+                                        <a class="color66"><span class="focus" value="517493,3,3,0"><i class="follow"></i><span>关注</span></span></a>
+                      <a href="javascript:void(0);" onclick='addBuildCompare(517493,"明珠公寓",0,3);' class="color66"><i class="contrast"></i>对比</a>
+                                </p>
+          </dd>
+      </dl>
+                <dl>
+          <dt>
+                            <a href="/esfindex/281159/301.html"  target="_blank">
+                  <img src="/image/noImage.png" alt="标题图"></a>
+          <!-- <div class="home_detail"><a href="/xinfindex?communityId=281159&type2=301" class="img_num"><i></i>11</a></div> -->
+          </dt>
+          <dd class="margin_l build_width1">
+              <p class="build_name margin_b">
+                  <a href="/esfindex/281159/301.html" class="name build_width"  target="_blank">
+                      华元欢乐城</a>
+                  <!-- <span class="dis"><i></i><span class="dis_content">3万抵5万</span></span> -->
+              </p>
+              <p class="finish_data color8d margin_b"><span>
+                                            [<span>余杭</span><span>-临平</span>]
+                                                                      余杭临平新城迎宾路望梅路口西北角<i class="map_icon"></i>
+                                        </span></p>
+              <p class="build_type color8d margin_b">
+                                        <span>户型：</span>
+                                                <span><span class="fontA">1</span>室(<span class="fontA">180</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">2</span>室(<span class="fontA">19</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">3</span>室(<span class="fontA">121</span>)</span>
+                          <span>丨</span>
+                          <span><span class="fontA">4</span>室(<span class="fontA">42</span>)</span>
+                                                      </p>
+                                                      <p class="home_num color8d"><span>二手房源：&nbsp;<a class="color_blue" href="/esfsale/area/ba281159">363</a>&nbsp;套</span></p>
+                                          </dd>
+
+          
+          <dd class="right">
+                            <p class="build_price color2d margin_top2">
+                                                                                                        均价<span class="colorfe fontA">7994</span>元/平米
+                                                                      
+              </p>
+              <p class="handle margin_top1">
+                                        <a class="color66"><span class="focus" value="281159,3,3,0"><i class="follow"></i><span>关注</span></span></a>
+                      <a href="javascript:void(0);" onclick='addBuildCompare(281159,"华元欢乐城",0,3);' class="color66"><i class="contrast"></i>对比</a>
+                                </p>
+          </dd>
+      </dl>
+      </div>
+  <div class="page_nav">
+    <ul>
+<li>首页</li><li>上一页</li><li class="click">1</li><li><a href="/saleesb/area/bl2" alt="2"  class="page">2</a></li><li><a href="/saleesb/area/bl3" alt="3"  class="page">3</a></li><li><a href="/saleesb/area/bl4" alt="4"  class="page">4</a></li><li><a href="/saleesb/area/bl5" alt="5"  class="page">5</a></li><li class="no_border">...</li><li><a href="/saleesb/area/bl200" alt="200"  class="page">200</a></li><li class="right"><a href="/saleesb/area/bl2" alt="2" class="page">下一页</a></li><li><a href="/saleesb/area/bl200" alt="200"  class="page">尾页</a></li>
+    </ul>
+  </div>
+</div>
+<div class="db">
+  <dl class="title">
+    <dt><i></i>展开</dt>
+    <dd>楼盘对比</dd>
+  </dl>
+  <div class="db_msg" style="display:none;">
+    <h2>
+     <span class="yc">隐藏<i></i></span>
+     <span class="build_db">楼盘对比</span>
+    </h2>
+    <div class="db_build">
+      <p class="db_title">您浏览过的楼盘(<span class="color2d">最多勾选4项</span>)</p>
+      <ul class="db_info">
+
+      </ul>
+      <div class="db_search">
+     <!--   <input type="text" class="txt" placeholder="请输入关键字">
+        <ul class="search_result" style="display:none;">
+        </ul>  -->
+      </div>
+      <p class="db_submit">
+                        <a href="javascript:void(0);" class="color66" onclick="startBuildCompare(0);" ><input type="button" class="btn back32" value="开始对比"></a>
+                  <input type="button" class="btn backf3" onclick="$('ul.db_info').html('')" value="全部清空">
+      </p>
+    </div>
+  </div>
+</div>
+<script>
+    //关注方法
+    point_interest('focus','xcy');
+</script>
+
+<div class="footer" id="footer">
+  <div class="bottom">
+    <p>
+      <a href="/about/aboutus.html">关于我们</a>
+      <!--<span class="dotted"></span>
+      <a href="#">网站合作</a>-->
+      <span class="dotted"></span>
+      <a href="/about/contactus.html">联系我们</a>
+      <span class="dotted"></span>
+      <a href="/about/disclaimer.html">免责声明</a>
+      <span class="dotted"></span>
+      <a href="/about/recruit.html">招聘信息</a>      
+      <span class="dotted"></span>
+      <a href="/about/secret.html">隐私协议</a>
+      <span class="dotted"></span>
+      <a href="/questionHelp/usehelp.html">使用帮助</a>
+      <!--<span class="dotted"></span>
+      <a href="#">Android客户端</a>-->
+      <!-- <span class="dotted"></span>
+      <a href="#">服务声明</a> -->
+      <!--<span class="dotted"></span>
+      <a href="#">安全联盟</a>
+      <span class="dotted"></span>
+      <a href="#">加盟搜房网</a>-->
+    </p>
+    <p class="p2">
+      <span>Copyright&nbsp;©&nbsp;2016</span>
+      <span>Sofang.com,&nbsp;All&nbsp;Rights&nbsp;Reserved</span>
+      <span>北京道杰士投资咨询服务有限责任公司</span>
+      <span>版权所有</span>
+      <span><a href="http://www.miibeian.gov.cn/state/outPortal/loginPortal.action" target="_blank">京ICP证040491号</a></span>
+    </p>
+  </div>
+</div>
+<div class="float">亲，您的浏览器版本过低，为了更好地浏览网页，搜房网建议您更换浏览器：<a href="http://www.chromeliulanqi.com/" target="_blank"><img data-original="../../image/google.png" width="22" height="20" alt="">谷歌浏览器</a>&nbsp;或&nbsp;<a href="https://developer.apple.com/safari/" target="_blank"><img data-original="../../image/Safari.png" width="20" height="22" alt="">苹果浏览器</a></div>
+<script type="text/javascript">
+$(document).ready(function() {
+	if (!window.applicationCache) {
+	   $(".float").show();
+	}
+});
+</script>
+<script src="/js/login.js?v=1.2.1.0"></script>
+<script src="/js/PageEffects/Popup.min.js?v=1.2.1.0"></script>
+<script src="/js/PageEffects/headNav.js?v=1.2.1.0"></script>
+<script type="text/javascript" src="/js/ProUserLogin.js?v=1.2.1.0"></script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?d2801fc638056c1aac7e8008f41cf828";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<script>
+    $(document).ready(function(e) {
+        $(this).keydown(function (e){
+            if(e.which == "13"){
+                $("#login").click();
+            }
+        })
+    });
+    $('#lproname').val('');
+    $('#lpropwd').val('');
+</script> 
+<script>
+(function(){
+    var bp = document.createElement('script');
+    bp.src = '//push.zhanzhang.baidu.com/push.js';
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+<script>
+$(document).ready(function(e) {
+  $(".telLogin").click(function(){
+	  $(".userLogin").hide();
+	  $(".userLogin1").show();  
+  });
+  $(".accountLogin").click(function(){
+	  $(".userLogin1").hide();
+	  $(".userLogin").show();  
+  });	
+
+  $('.modaltrigger').leanModal({
+		top:100,
+		overlay:0.45
+	});
+})
+</script>
+</body>
+</html>
