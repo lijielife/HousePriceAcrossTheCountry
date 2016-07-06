@@ -49,7 +49,7 @@ class AnJuKe(object):
         current_link = self.pop_from_pipeline()
         headers = {
             'Host': self.city.lower().replace(" ", "") + self.website,
-            'Referer': 'http://' + self.city.lower().replace(" ", "") + self.website,
+            'Referer': self.root_url,
             'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu '
                           'Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
         }
@@ -72,7 +72,7 @@ class AnJuKe(object):
 
         headers = {
             'Host': current_sub_link[7:][:-1],
-            'Referer': 'http://' + self.city.lower().replace(" ", "") + self.website + '/',
+            'Referer': self.root_url + '/',
             'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu '
                           'Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
         }
@@ -116,7 +116,7 @@ class AnJuKe(object):
 
         headers = {
             'Host': self.city.lower().replace(" ", "") + self.website,
-            'Referer': 'http://' + self.city.lower().replace(" ", "") + self.website + '/',
+            'Referer': self.root_url + '/',
             'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu '
                           'Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
         }
@@ -160,7 +160,7 @@ class AnJuKe(object):
 
         headers = {
             'Host': current_sub_link[7:][:-1],
-            'Referer': 'http://' + self.city.lower().replace(" ", "") + self.website + '/',
+            'Referer': self.root_url + '/',
             'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu '
                           'Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36'
         }

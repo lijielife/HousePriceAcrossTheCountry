@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
+from collections import deque
+from bs4 import BeautifulSoup
+import random
 import requests
+import time
 
 city_reference = {'Bei Jing': u'北京', 'Shang Hai': u'上海', 'Guang Zhou': u'广州', 'Shen Zhen': u'深圳', 'Tian Jin': u'',
                   'Hang Zhou': u'杭州', 'Nan Jing': u'南京', 'Ji Nan': u'济南', 'Chong Qing': u'重庆', 'Qing Dao': u'青岛',
@@ -13,7 +17,7 @@ class SouFangWang(object):
         self.website = website
         self.root_url = 'http://' + self.city.lower().split()[0][0] + self.city.lower().split()[1][0] + self.website
         self.status_code = requests.get(self.root_url).status_code
-        self.spider_pipeline = []
+        self.spider_pipeline = deque()
         self.add_to_pipeline(self.root_url)
 
     def __new__(cls, *args, **kwargs):
@@ -31,7 +35,7 @@ class SouFangWang(object):
         self.spider_pipeline.append(link)
 
     def pop_from_pipeline(self):
-        return self.spider_pipeline.pop()
+        return self.spider_pipeline.popleft()
 
     def pipeline_length(self):
         return len(self.spider_pipeline)
@@ -42,14 +46,30 @@ class SouFangWang(object):
     def worker(self):
         print u'正在抓取{0}的房价...'.format(city_reference[self.city])
         current_link = self.pop_from_pipeline()
-        # heads = {
-        #     'Host': "huaban.com",
-        #     'Referer': "{http://huaban.com/boards/28195582/",
-        #     'User-Agent': "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.84 Safari/537.36",
-        #     'X-Request': "JSON",
-        #     'X-Requested-With': "XMLHttpRequest"
-        # }
-        # response = requests.get(current_link)
+        headers = {
+            'Host': self.city.lower().split()[0][0] + self.city.lower().split()[1][0] + self.website,
+            'Referer': self.root_url,
+            'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.'
+                          '2661.102 Chrome/50.0.2661.102 Safari/537.36'
+        }
+        response = requests.get(current_link, headers=headers)
+        soup = BeautifulSoup(response.text, 'lxml', from_encoding=response.encoding)
+        sub_navigation = soup.find(name='div', attrs={'class': 'subnav'})
+        for j, dl in enumerate(sub_navigation.find_all(name='dl')[:2]):
+            if j == 0:
+                new_house_link = dl.find(name='dd').find_all(name='p')[1].find_all(name='a')[1]
+                self.add_to_pipeline(self.root_url + new_house_link['href'])
+                second_house_link = dl.find(name='dd').find_all(name='p')[0].find_all(name='a')[0]
+                self.add_to_pipeline(self.root_url + second_house_link['href'])
+            else:
+                joint_rent_link = dl.find(name='dd').find_all(name='p')[1].find_all(name='a')[0]
+                self.add_to_pipeline(self.root_url + joint_rent_link['href'])
+                total_rent_link = dl.find(name='dd').find_all(name='p')[0].find_all(name='a')[0]
+                self.add_to_pipeline(self.root_url + total_rent_link['href'])
+        self.sub_worker()
+
+    def sub_worker(self):
+        pass
 
     def run(self):
         print self.get_current_time
