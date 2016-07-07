@@ -58,12 +58,3 @@ class MySql(object):
     def disconnect_from_database_server(self):
         self.conn.close()
         print u'断开与数据库服务器的连接'
-
-
-if __name__ == '__main__':
-    d = MySql(host='localhost', port=3306,
-              username='root', password='yunan0808',
-              charset="utf8")
-    d.connect_to_database_server()
-    d.change_database('mysql')
-    d.disconnect_from_database_server()

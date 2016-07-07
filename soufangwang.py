@@ -76,10 +76,8 @@ class SouFangWang(object):
         self.sub_worker()
 
     def sub_worker(self):
-        # self.crawl_from_new_house_page()
-        # self.crawl_from_second_house_page()
-        self.pop_from_pipeline()
-        self.pop_from_pipeline()
+        self.crawl_from_new_house_page()
+        self.crawl_from_second_house_page()
         self.crawl_from_renting_house_page()
         self.crawl_from_renting_house_page()
 
