@@ -7,6 +7,20 @@
 * 搜房网
 * 链家网
 
-> 房价数据库
+### 自动配置
 
-* root@121.42.188.55 port=3306 passwd='tianchi'
+执行脚本build.sh
+
+### 实现命令行无密码登录MySQL / 命令行无密码执行SQL脚本
+
+创建client.cnf, 写入
+
+```sql
+[client]
+port     = 3306
+socket   = /var/run/mysqld/mysqld.sock
+host     = localhost
+user     = root
+password = 'your password'
+```
+保存到MySQL配置文件夹下的conf.d子文件夹中，例如对于Ubuntu，配置文件夹一般为/etc/mysql
