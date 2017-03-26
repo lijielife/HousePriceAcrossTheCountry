@@ -21,7 +21,7 @@ echo "**************************************************"
 # echo "[+] Install dependent libraries ... "
 # sudo apt-get install python-dev python-pip
 # sudo apt-get install libatlas-base-dev
-# sudo apt-get install python-numpy python-scipy python-matplotlib
+# sudo apt-get install python-numpy python-scipy python-matplotlib python-pandas
 # sudo apt-get install python-mysqldb
 # sudo pip install shadowsocks
 # sudo pip install flask

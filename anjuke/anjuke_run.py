@@ -16,10 +16,6 @@ except ImportError, e:
 from anjuke import AnJuKeSpider
 
 def run():
-    # first_stair_citys = ['BeiJing', 'ShangHai', 'GuangZhou', 'ShenZhen', 'TianJin']
-    # second_stair_citys = ['HangZhou', 'NanJing', 'JiNan', 'ChongQing', 'DaLian', 'WuHan']
-    # citys = first_stair_citys + second_stair_citys
-    
     citys = ['BeiJing', 'ShangHai', 'GuangZhou', 'ShenZhen', 'HangZhou', 'WuHan']
     website = '.anjuke.com'
 

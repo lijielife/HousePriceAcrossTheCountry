@@ -94,6 +94,21 @@ class MySQLAPI(object):
             cur.close()
         return q
 
+    def query_from_database_using_sql(self, sql):
+        q = []
+        cur = self._conn.cursor()
+        print u'[{}] Query Data Records From {} Using Customized SQL ...'.format(self.__now(), self._db)
+        try:
+            cur.execute(sql)
+            q = cur.fetchall()
+            print u'[{}] Query Successfully'.format(self.__now())
+        except MySQLdb.ProgrammingError, e:
+            print '[{}] Status code: {0}, Reason: {1}'.format(self.__now(), e[0], e[1])
+            print u'[{}] Query Failed'.format(self.__now())
+        finally:
+            cur.close()
+        return q
+
     def __sql_options(self, sql_options=0):
         sql = ''
         table = ''

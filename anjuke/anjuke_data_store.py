@@ -1,8 +1,14 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+
+'''
+@author : Zhou Jian
+@email  : summychou@163.com
+'''
+
 import os
-import glob
 import sys
+import zipfile
 from multiprocessing.dummy import Pool as ThreadPool
 
 from bs4 import BeautifulSoup
@@ -10,18 +16,17 @@ from bs4 import BeautifulSoup
 sys.path.append('../')
 from tool import mysql
 
-def read_file(filename):
-    with open(filename) as fp:
-        html = fp.read()
-    return html
+def read_file_in_multiprocess(option=0):
+    if option == 0:
+        target = 'anjuke_new_house'
+    elif option == 1:
+        target = 'anjuke_second_house'
+    elif option == 2:
+        target = 'anjuke_renting_house'
 
-def read_file_in_multiprocess():
-    files_list = glob.glob('anjuke_second_house/*.txt')
-
-    pool = ThreadPool(4)
-    html_list = pool.map(read_file, files_list)
-    pool.close()
-    pool.join()
+    z = zipfile.ZipFile('{}/{}.zip'.format(target, target), 'r')
+    name_list = [f for f in z.namelist()]
+    html_list = [z.read(name) for name in name_list]
     
     return html_list
 
@@ -88,7 +93,7 @@ def anjuke_renting_house_data_extract(html):
     return temp_list
 
 def anjuke_data_extract_in_multiprocess(option=0):
-    html_list = read_file_in_multiprocess()
+    html_list = read_file_in_multiprocess(option)
 
     pool = ThreadPool(4)
     if option == 0:
@@ -107,12 +112,17 @@ def anjuke_data_extract_in_multiprocess(option=0):
     return data_warehosue
 
 def main():
-    data_warehosue = anjuke_data_extract_in_multiprocess(1)
+    print '* 0 - New House Data Storage'
+    print '* 1 - Second House Data Storage'
+    print '* 2 - Renting House Data Storage'
+    print '>> Please input your selection :'
+    selection = input()
+    data_warehosue = anjuke_data_extract_in_multiprocess(selection)
 
     d = mysql.MySQLAPI(username='root', password="yunan0808")
     d.connect_to_database_server()
     d.change_database('AnJuKe')
-    d.commit_to_database(data_warehosue, 1)
+    d.commit_to_database(data_warehosue, selection)
 
 if __name__ == '__main__':
     main()

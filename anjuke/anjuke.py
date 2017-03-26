@@ -1,4 +1,10 @@
 # -*- coding: utf-8 -*-
+
+'''
+@author : Zhou Jian
+@email  : summychou@163.com
+'''
+
 import warnings
 warnings.filterwarnings('ignore')
 
@@ -70,8 +76,8 @@ class AnJuKeSpider(object):
         self._sub_worker()
 
     def _sub_worker(self):
-        # self._crawl_from_new_house_page()
-        # self._crawl_from_second_house_page()
+        self._crawl_from_new_house_page()
+        self._crawl_from_second_house_page()
         self._crawl_from_renting_house_page()
 
     def _crawl_from_new_house_page(self):
@@ -193,7 +199,7 @@ class AnJuKeSpider(object):
         with open('anjuke_renting_house/{0}{1}.txt'.format(self._city, counter), 'w+') as fp:
             fp.write(response.text.encode('utf-8'))
         
-        # self.recursive_crawl_from_renting_house_page(current_sub_link, link, next_link, counter)
+        self.recursive_crawl_from_renting_house_page(current_sub_link, link, next_link, counter)
 
     def recursive_crawl_from_renting_house_page(self, root_link, pre_link, link, counter):
         current_sub_link = link

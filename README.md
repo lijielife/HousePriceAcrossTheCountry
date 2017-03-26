@@ -36,6 +36,10 @@ password = 'your password'
 以anjuke工程为例，
 
 * anjuke_run.py 数据抓取脚本
-* compress.py 数据压缩脚本
+* anjuke_data_compress.py 数据压缩脚本
 * anjuke_data_store.py 数据存储脚本(存入MySQL数据库)
 * anjuke_data_analysis.py 数据分析脚本（运用机器学习方法，待开发）
+
+### 数据可视化
+
+![](http://7xsay0.com1.z0.glb.clouddn.com/house_price.png)
