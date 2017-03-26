@@ -31,5 +31,11 @@ password = 'your password'
 
 进入MySQLClient子文件夹，解压mysql.tar.gz至本地目录，得到mysql connector c++ SDK，将mysql/lib下的文件复制到/usr/local/lib即可
 
+### 如何使用？
 
+以anjuke工程为例，
 
+* anjuke_run.py 数据抓取脚本
+* compress.py 数据压缩脚本
+* anjuke_data_store.py 数据存储脚本(存入MySQL数据库)
+* anjuke_data_analysis.py 数据分析脚本（运用机器学习方法，待开发）
