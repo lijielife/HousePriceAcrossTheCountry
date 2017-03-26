@@ -1,0 +1,62 @@
+QWidget {
+    background-color: #707070;
+}
+
+QLineEdit {
+    background-color: #F0F0F0;
+    font-size: 14px;
+    padding-left: 5px;
+    border-radius: 4px;
+}
+
+QPushButton {
+    background-color: #F0F0F0;
+    width: 36px;
+    height: 24px;
+    border-radius: 6px;
+}
+
+QTextEdit {
+    background-color: #404040;
+    font-size: 14px;
+    padding-left: 5px;
+}
+
+QTableWidget {
+    background-color: #F0F0F0;
+    margin: 5px;
+}
+
+QTreeWidget {
+    background-color: #404040;
+    margin: 5px;
+}
+
+QTreeWidget::item {
+    color: #F0F0F0;
+    font-size: 14px;
+    margin: 5px;
+    background-clip: margin;
+}
+
+QTreeView::item:selected:active{
+    margin: 0;
+    background: #585858;
+}
+
+QTreeView::item:selected:!active{
+    margin: 0;
+    background: #585858;
+}
+
+QTreeView::branch:has-children:!has-siblings:closed,
+QTreeView::branch:closed:has-children:has-siblings {
+    border-image: none;
+    image: url(:/staticfiles/ui/branch-closed.png);
+}
+
+QTreeView::branch:open:has-children:!has-siblings,
+QTreeView::branch:open:has-children:has-siblings {
+    border-image: none;
+    image: url(:/staticfiles/ui/branch-open.png);
+}

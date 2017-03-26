@@ -1,23 +1,28 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 import os
-from bs4 import BeautifulSoup
-from mysql import MySql
+import glob
+import sys
 from multiprocessing.dummy import Pool as ThreadPool
 
+from bs4 import BeautifulSoup
+
+sys.path.append('../')
+from tool import mysql
+
 def read_file(filename):
-    with open('anjuke_new_house/'+filename, 'r') as fp:
+    with open(filename) as fp:
         html = fp.read()
     return html
 
 def read_file_in_multiprocess():
-    files_list = object
-    for _, _, files in os.walk('anjuke_new_house/'):
-        files_list = files
+    files_list = glob.glob('anjuke_second_house/*.txt')
+
     pool = ThreadPool(4)
     html_list = pool.map(read_file, files_list)
     pool.close()
     pool.join()
+    
     return html_list
 
 def anjuke_new_house_data_extract(html):
@@ -28,11 +33,9 @@ def anjuke_new_house_data_extract(html):
         # 楼盘名称
         loupan_name = information.find(name='div', attrs={'class': 'lp-name'}).find(name='h3').get_text().strip()
         # 楼盘对应的详细网页
-        loupan_name_detail = information.find(name='div', attrs={'class': 'lp-name'}).find(name='h3') \
-            .find(name='a')['href']
+        loupan_name_detail = information.find(name='div', attrs={'class': 'lp-name'}).find(name='h3').find(name='a')['href']
         # 楼盘状态
-        status = [x.get_text().encode('utf8').strip() for x in
-                  information.find(name='div', attrs={'class': 'lp-name'}).find_all(name='i')]
+        status = [x.get_text().encode('utf8').strip() for x in information.find(name='div', attrs={'class': 'lp-name'}).find_all(name='i')]
         # 楼盘地址
         address = information.find_all(name='p')[0].get_text().strip().split(']')[0][1:].strip()
         try:
@@ -84,23 +87,32 @@ def anjuke_renting_house_data_extract(html):
                           house_location, house_price))
     return temp_list
 
-def anjuke_data_extract_in_multiprocess():
+def anjuke_data_extract_in_multiprocess(option=0):
     html_list = read_file_in_multiprocess()
+
     pool = ThreadPool(4)
-    data_list = pool.map(anjuke_new_house_data_extract, html_list)
+    if option == 0:
+        data_list = pool.map(anjuke_new_house_data_extract, html_list)
+    elif option == 1:
+        data_list = pool.map(anjuke_second_house_data_extract, html_list)
+    elif option == 2:
+        data_list = pool.map(anjuke_renting_house_data_extract, html_list)
     pool.close()
     pool.join()
+
     data_warehosue = []
     for data_seg_list in data_list:
         data_warehosue.extend(data_seg_list)
+    
     return data_warehosue
 
 def main():
-    data_warehosue = anjuke_data_extract_in_multiprocess()
-    d = MySql(username='root', password='tianchi')
+    data_warehosue = anjuke_data_extract_in_multiprocess(1)
+
+    d = mysql.MySQLAPI(username='root', password="yunan0808")
     d.connect_to_database_server()
     d.change_database('AnJuKe')
-    d.commit_to_database(sql, data_warehosue, 0)
+    d.commit_to_database(data_warehosue, 1)
 
 if __name__ == '__main__':
     main()

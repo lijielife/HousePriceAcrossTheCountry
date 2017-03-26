@@ -20,7 +20,8 @@ city_reference = {'BeiJing': u'北京', 'ShangHai': u'上海', 'GuangZhou': u'�
                   'HangZhou': u'杭州', 'NanJing': u'南京', 'JiNan': u'济南', 'ChongQing': u'重庆', 'QingDao': u'青岛',
                   'DaLian': u'大连', 'NingBo': u'宁波', 'XiaMen': u'厦门', 'WuHan': u'武汉'}
 
-UserAgent = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36'
+# UserAgent = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36'
+UserAgent = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/53.0.2785.143 Chrome/53.0.2785.143 Safari/537.36'
 
 class AnJuKeSpider(object):
 
@@ -175,7 +176,6 @@ class AnJuKeSpider(object):
 
         current_sub_link = self._get_from_pipeline()
         crawl_link = current_sub_link + '?from=navigation'
-        crawl_link = "http://bj.zu.anjuke.com/?from=navigation"
 
         headers = {
             'Host': self._city.lower() + self._website,

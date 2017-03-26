@@ -1,0 +1,11 @@
+[Desktop Entry]   
+Categories=Development
+Comment=MySQL GUI Client
+Encoding=UTF-8
+Exec=/home/summy/Code/MySQLClient/build-MySQLClient-Desktop_Qt_5_7_1_GCC_64bit-Debug/MySQLClient
+Icon=/home/summy/Code/MySQLClient/MySQLClient/mysql_desktop.png
+Name=TinySQLTool
+StartupNotify=true
+Terminal=true
+Type=Application
+

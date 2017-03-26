@@ -18,14 +18,16 @@ echo "************* MySQL Database List ****************"
 mysql -uroot < sql/Show.sql
 echo "**************************************************"
 
-echo "[+] Install dependent libraries ... "
-sudo apt-get install python-dev python-pip
-sudo apt-get install python-numpy python-scipy python-matplotlib
-sudo apt-get install python-mysqldb
-sudo pip install flask
-sudo pip install tqdm
-sudo pip install bs4 requests
-sudo pip install xlrd xlwt xlutils
-sudo pip install scikit-learn
-sudo pip install theano
-sudo pip install keras
+# echo "[+] Install dependent libraries ... "
+# sudo apt-get install python-dev python-pip
+# sudo apt-get install libatlas-base-dev
+# sudo apt-get install python-numpy python-scipy python-matplotlib
+# sudo apt-get install python-mysqldb
+# sudo pip install shadowsocks
+# sudo pip install flask
+# sudo pip install tqdm
+# sudo pip install bs4 requests
+# sudo pip install xlrd xlwt xlutils
+# sudo pip install scikit-learn
+# sudo pip install theano
+# sudo pip install keras

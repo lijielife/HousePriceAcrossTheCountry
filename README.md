@@ -24,3 +24,12 @@ user     = root
 password = 'your password'
 ```
 保存到MySQL配置文件夹下的conf.d子文件夹中，例如对于Ubuntu，配置文件夹一般为/etc/mysql
+
+### 使用MySQLClient
+
+编译安装Qt5.7+
+
+进入MySQLClient子文件夹，解压mysql.tar.gz至本地目录，得到mysql connector c++ SDK，将mysql/lib下的文件复制到/usr/local/lib即可
+
+
+

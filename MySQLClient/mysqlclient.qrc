@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/qss">
+        <file>style.qss</file>
+    </qresource>
+    <qresource prefix="/staticfiles">
+        <file>mysql.png</file>
+        <file>mysql.ico</file>
+        <file>ui/branch-closed.png</file>
+        <file>ui/branch-end.png</file>
+        <file>ui/branch-more.png</file>
+        <file>ui/branch-open.png</file>
+        <file>ui/cloud_storage.png</file>
+        <file>ui/database.png</file>
+        <file>ui/vline.png</file>
+        <file>ui/handshake.png</file>
+    </qresource>
+</RCC>
