@@ -22,12 +22,10 @@ try:
 except ImportError, e:
     print '>> bs4 Module is not found, please install it first'
 
-city_reference = {'BeiJing': u'北京', 'ShangHai': u'上海', 'GuangZhou': u'广州', 'ShenZhen': u'深圳', 'TianJin': u'',
-                  'HangZhou': u'杭州', 'NanJing': u'南京', 'JiNan': u'济南', 'ChongQing': u'重庆', 'QingDao': u'青岛',
-                  'DaLian': u'大连', 'NingBo': u'宁波', 'XiaMen': u'厦门', 'WuHan': u'武汉'}
+city_reference = {'BeiJing': u'北京', 'ShangHai': u'上海', 'GuangZhou': u'广州', 'ShenZhen': u'深圳', 'HangZhou': u'杭州', 'WuHan': u'武汉'}
 
-# UserAgent = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36'
-UserAgent = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/53.0.2785.143 Chrome/53.0.2785.143 Safari/537.36'
+UserAgent = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36'
+
 
 class AnJuKeSpider(object):
 
@@ -100,9 +98,9 @@ class AnJuKeSpider(object):
         with open('anjuke_new_house/{0}{1}.txt'.format(self._city, counter), 'w+') as fp:
             fp.write(response.text.encode('utf-8'))
         
-        self.recursive_crawl_from_new_house_page(current_sub_link, link, next_link, counter)
+        self._recursive_crawl_from_new_house_page(current_sub_link, link, next_link, counter)
 
-    def recursive_crawl_from_new_house_page(self, root_link, pre_link, link, counter):
+    def _recursive_crawl_from_new_house_page(self, root_link, pre_link, link, counter):
         current_sub_link = link
         crawl_link = current_sub_link
 
@@ -124,7 +122,7 @@ class AnJuKeSpider(object):
             with open('anjuke_new_house/{0}{1}.txt'.format(self._city, counter), 'w+') as fp:
                 fp.write(response.text.encode('utf-8'))
 
-                self.recursive_crawl_from_new_house_page(root_link, link, next_link, counter)
+                self._recursive_crawl_from_new_house_page(root_link, link, next_link, counter)
         except TypeError:
             pass
 
@@ -148,9 +146,9 @@ class AnJuKeSpider(object):
         with open('anjuke_second_house/{0}{1}.txt'.format(self._city, counter), 'w+') as fp:
             fp.write(response.text.encode('utf-8'))
         
-        self.recursive_crawl_from_second_house_page(current_sub_link, link, next_link, counter)
+        self._recursive_crawl_from_second_house_page(current_sub_link, link, next_link, counter)
 
-    def recursive_crawl_from_second_house_page(self, root_link, pre_link, link, counter):
+    def _recursive_crawl_from_second_house_page(self, root_link, pre_link, link, counter):
         current_sub_link = link
         crawl_link = current_sub_link
 
@@ -172,14 +170,11 @@ class AnJuKeSpider(object):
             with open('anjuke_second_house/{0}{1}.txt'.format(self._city, counter), 'w+') as fp:
                 fp.write(response.text.encode('utf-8'))
             
-            self.recursive_crawl_from_second_house_page(root_link, link, next_link, counter)
+            self._recursive_crawl_from_second_house_page(root_link, link, next_link, counter)
         except TypeError:
             pass
 
     def _crawl_from_renting_house_page(self):
-        self._get_from_pipeline()
-        self._get_from_pipeline()
-
         current_sub_link = self._get_from_pipeline()
         crawl_link = current_sub_link + '?from=navigation'
 
@@ -199,9 +194,9 @@ class AnJuKeSpider(object):
         with open('anjuke_renting_house/{0}{1}.txt'.format(self._city, counter), 'w+') as fp:
             fp.write(response.text.encode('utf-8'))
         
-        self.recursive_crawl_from_renting_house_page(current_sub_link, link, next_link, counter)
+        self._recursive_crawl_from_renting_house_page(current_sub_link, link, next_link, counter)
 
-    def recursive_crawl_from_renting_house_page(self, root_link, pre_link, link, counter):
+    def _recursive_crawl_from_renting_house_page(self, root_link, pre_link, link, counter):
         current_sub_link = link
         crawl_link = current_sub_link
         headers = {
@@ -222,11 +217,11 @@ class AnJuKeSpider(object):
             with open('anjuke_renting_house/{0}{1}.txt'.format(self._city, counter), 'w+') as fp:
                 fp.write(response.text.encode('utf-8'))
             
-            self.recursive_crawl_from_renting_house_page(root_link, link, next_link, counter)
+            self._recursive_crawl_from_renting_house_page(root_link, link, next_link, counter)
         except TypeError:
             pass
 
-    def anti_crawl(self):
+    def _anti_crawl(self):
         time.sleep(random.randint(1, 2))
 
     def run(self):
