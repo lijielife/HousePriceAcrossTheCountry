@@ -43,3 +43,5 @@ password = 'your password'
 ### 数据可视化
 
 ![](http://7xsay0.com1.z0.glb.clouddn.com/house_price.png)
+
+![](http://7xsay0.com1.z0.glb.clouddn.com/second_house_price.png)
